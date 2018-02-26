@@ -17,14 +17,13 @@ import glob
 import xml.etree.ElementTree
 
 from custom_entities.article import ArticleData
-from custom_helpers.nltk_helper import get_important_words
+from custom_helpers.pandas_helper import insert_article_to_pandas
 
 path = 'C:\Users\Paulo\Documents\PyCharmProjects\papers_abstract_analysis\papers'
+
+df = pd.DataFrame()
 
 for filename in glob.glob(os.path.join(path, '*.xml')):
     root = xml.etree.ElementTree.parse(filename).getroot()
     article = ArticleData(root)
-
-    print("")
-    print(article.article_title)
-    print(get_important_words(article.abstract_text, 10))
+    df = insert_article_to_pandas(df, article)
