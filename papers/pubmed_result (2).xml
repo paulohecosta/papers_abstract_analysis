@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29476636</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-1611</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psycho-oncology</Title>
+                <ISOAbbreviation>Psychooncology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Trajectories of Caregiver Burden and Related Factors in Family Caregivers of Patients with Lung Cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pon.4678</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to (1) identify the changes of five domains of family caregiver (FC) burden, overall burden and its sub-trajectories when caring for newly-diagnosed advanced lung cancer patients during the first six months following cancer diagnosis; and (2) identify the FC- and patient-related factors most associated with the overall FC burden and each of its sub-trajectories.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">150 newly-diagnosed advanced lung cancer patient-FC dyads were recruited from a Taiwanese medical center. The overall FC burden was evaluated four times: before treatment, and 1, 3 and 6 months after treatment. The potential sub-trajectory of the caregiver burden was investigated by latent class growth analysis. The FC- and patient-related factors having the greatest effect on the overall FC burden and its sub-trajectories over time were identified by generalized estimating equations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The highest level of burden domain was &quot;Impact on daily schedule&quot; over time. Generally, most of the FC reported a moderate level of overall burden over the investigation period. Three sub-trajectories of the overall FC burden over time (% caregivers) were identified: high burden (34.7%), moderate burden (56.0%), and low burden (9.3%), respectively. The self-efficacy of FC was the strongest factor related to the changes of the FC's burden and burden in each sub-trajectory.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The results support the existing and different types of sub-trajectories of the FC's burden. Health care professionals should provide care based on those differences. Further research to test interventions which integrate those important factors related to FC's burden, particularly FC's self-efficacy, is strongly suggested.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Yun-Hsiang</ForeName>
+                    <Initials>YH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing, College of Medicine, National Taiwan University, Taipei.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liao</LastName>
+                    <ForeName>Yu-Chien</ForeName>
+                    <Initials>YC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nursing, Yuanpei University, Hsinchu City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shun</LastName>
+                    <ForeName>Shiow-Ching</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing, College of Medicine, National Taiwan University, Taipei.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Kuan-Chia</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hospital and Health Care Administration, National Yang-Ming University, Taipei.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liao</LastName>
+                    <ForeName>Wei-Yu</ForeName>
+                    <Initials>WY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, College of Medicine, National Taiwan University, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Pi-Hua</ForeName>
+                    <Initials>PH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1305-1854</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nursing, Taichung Veterans General Hospital, Taichung, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jhang</LastName>
+                    <ForeName>Sin-Yuan</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nursing, College of Medicine, National Taiwan University Hospital, Taipei.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Chong-Jen</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, College of Medicine, National Taiwan University, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Pan-Chyr</ForeName>
+                    <Initials>PC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, College of Medicine, National Taiwan University, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsieh</LastName>
+                    <ForeName>Pei-Yin</ForeName>
+                    <Initials>PY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nursing, College of Medicine, National Taiwan University Hospital, Taipei.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Yeur-Hur</ForeName>
+                    <Initials>YH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7200-7373</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing, College of Medicine, National Taiwan University, Taipei.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Psychooncology</MedlineTA>
+            <NlmUniqueID>9214524</NlmUniqueID>
+            <ISSNLinking>1057-9249</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">caregiver burden</Keyword>
+            <Keyword MajorTopicYN="N">family caregiver</Keyword>
+            <Keyword MajorTopicYN="N">lung cancer</Keyword>
+            <Keyword MajorTopicYN="N">oncology</Keyword>
+            <Keyword MajorTopicYN="N">self-efficacy</Keyword>
+            <Keyword MajorTopicYN="N">trajectories</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29476636</ArticleId>
+            <ArticleId IdType="doi">10.1002/pon.4678</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

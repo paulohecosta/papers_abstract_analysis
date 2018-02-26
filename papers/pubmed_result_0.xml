@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29477098</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>232</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effects of low-intensity narrow-band blue-light treatment compared to bright white-light treatment in seasonal affective disorder.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>48-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)31804-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.01.024</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Ever since a new photoreceptor was discovered with a highest sensitivity to 470-490 nm blue light, it has been speculated that blue light has some advantages in the treatment of Seasonal Affective Disorder (SAD) over more traditional treatments. In this study we compared the effects of exposure to narrow-band blue light (BLUE) to those of broad-wavelength white light (BLT) in the treatment of SAD.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In a 15-day design, 45 patients suffering from SAD completed 30-min sessions of light treatment on 5 consecutive days. 21 subjects received white-light treatment (BLT, broad-wavelength without UV, 10 000 lx, irradiance 31.7 W/m<sup>2</sup>), 24 subjects received narrow-band blue light (BLUE, 100 lx, irradiance 1.0 W/m<sup>2</sup>). All participants completed weekly questionnaires concerning mood and energy levels, and were also assessed by means of the SIGH-SAD, which is the primary outcome measure.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">On day 15, SIGH-SAD ratings were significantly lower than on day 1 (BLT 73.2%, effect size 3.37; BLUE 67%, effect size 2.63), which outcomes were not statistically significant different between both conditions.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Small sample size.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Light treatment is an effective treatment for SAD. The use of narrow-band blue light is equally effective as a treatment using bright white-light.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meesters</LastName>
+                    <ForeName>Ybe</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Groningen, University Medical Center Groningen, Department of Psychiatry, Groningen, The Netherlands. Electronic address: y.meesters@umcg.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duijzer</LastName>
+                    <ForeName>Wianne B</ForeName>
+                    <Initials>WB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Groningen, University Medical Center Groningen, Department of Psychiatry, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hommes</LastName>
+                    <ForeName>Vanja</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Philips Consumer Lifestyle Drachten, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Light treatment</Keyword>
+            <Keyword MajorTopicYN="N">Narrow-band blue light</Keyword>
+            <Keyword MajorTopicYN="N">Seasonal affective disorder</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29477098</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)31804-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.01.024</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29477097</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>232</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Emotional dysregulation is a primary symptom in adult Attention-Deficit/Hyperactivity Disorder (ADHD).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41-47</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32366-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.007</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Clinical observations suggest that adults have more diverse deficits than children with Attention Deficit/Hyperactivity Disorder (ADHD). These seem to entail difficulties with emotionality, self-concept and emotion regulation in particular, along with the cardinal symptoms of inattention, impulsivity, and hyperactivity for adult patients. Here, we probed a model that explicitly distinguished positive and negative affect, problems with self-concept and emotion regulation skills as distinct but correlating factors with the symptom domains of inattention, hyperactivity, and impulsivity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Participants were 213 newly diagnosed adults with ADHD (62.9% male, mean age 33.5 years). Symptoms were assessed via self-report on the Conners' Adult ADHD Rating Scales, a modified version of the Positive and Negative Affect Scale and the Emotion Regulation Skill Questionnaire. A confirmatory factor analysis with the R package lavaan, using a robust Maximum Likelihood estimator (MLR) for non-normal data, was conducted to test our new non-hierarchical 7-factor model.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All calculated model-fit statistics revealed good model-fit (χ<sup>2</sup>/df ratio = 2.03, robust RMSEA = .07). The SRMR in our model reached .089, indicating an acceptable model fit. Factor loadings on the postulated factors had salient loadings ≥ .31 except for one item on the hyperactivity factor. Latent factor associations were especially salient between emotional dysregulation and problems with self-concept, and also partially with impulsivity/emotional lability.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">The three models of ADHD and emotion regulation as suggested by Shaw et al. (2014) could not be disentangled in this study, though the overall results support the model with shared neurocognitive deficits. Further, we did not separately analyze ADHD with or without comorbid disorders. As our sample of clinical cases with ADHD is highly comorbid (47.9%), other disorders than ADHD might account for the emotion regulation deficits, though a sensitivity analysis revealed no such differences.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our model adequately characterizes the relations between and among clinically and therapeutically relevant symptoms in adult ADHD, thus potentially informing future therapeutic interventions by targeting the successful and flexible use of adaptive emotion regulation skills.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hirsch</LastName>
+                    <ForeName>Oliver</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FOM University of Applied Sciences, Birlenbacher Str. 17, D-57078 Siegen, Germany. Electronic address: oliver.hirsch@fom-net.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chavanon</LastName>
+                    <ForeName>MiraLynn</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Child and Adolescent Psychology and Psychotherapy, Philipps University Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riechmann</LastName>
+                    <ForeName>Elke</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Child and Adolescent Psychology and Psychotherapy, Philipps University Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christiansen</LastName>
+                    <ForeName>Hanna</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Child and Adolescent Psychology and Psychotherapy, Philipps University Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Attention deficit disorder with hyperactivity</Keyword>
+            <Keyword MajorTopicYN="N">Factor analysis</Keyword>
+            <Keyword MajorTopicYN="N">Methods</Keyword>
+            <Keyword MajorTopicYN="N">Symptom assessment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29477097</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32366-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
