@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475237</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>School Counselors' Recognition of the Ultra-High Risk for Psychosis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.06.19</ELocationID>
+            <Abstract>
+                <AbstractText>The ability to identify students at ultra-high risk (UHR) for psychosis in school settings is crucial for enabling appropriate referral to a clinician and positive therapeutic results. The aim of this study was to examine school counselors' recognition of the diagnosis and appropriate treatment recommendations for students at UHR for psychosis. In total, 132 school counselors completed surveys, including questions relating to a vignette about a student at UHR for psychosis. In total, 12.4% of the sample provided the correct diagnosis, much lower than that for other schizophrenia spectrum disorders and non-psychotic disorders, including depressive disorder. Although most school counselors preferred psychiatrists as the first-line treatment for students at UHR for psychosis, counseling centers were also mentioned as potential treatment options. In terms of medication, antipsychotics were preferred over other medication classes. It is necessary to design appropriate educational and training programs for school counselors to promote identification and effective referral of those at UHR for psychosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ju-Yeon</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gwang-ju Mental Health Commission, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>Young-Chul</ForeName>
+                    <Initials>YC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonbuk National University Medical School, Jeonju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Jae-Min</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Il-Seon</ForeName>
+                    <Initials>IS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoon</LastName>
+                    <ForeName>Jin-Sang</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sung-Wan</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gwang-ju Mental Health Commission, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Recognition</Keyword>
+            <Keyword MajorTopicYN="N">School counselor</Keyword>
+            <Keyword MajorTopicYN="N">Ultra-high risk for psychosis</Keyword>
+            <Keyword MajorTopicYN="N">Vignette</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475237</ArticleId>
+            <ArticleId IdType="pii">pi.2017.06.19</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.06.19</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

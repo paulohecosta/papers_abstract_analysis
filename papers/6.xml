@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29470472</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1175-8716</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>131</Volume>
+                    <Issue>1470</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New Zealand medical journal</Title>
+                <ISOAbbreviation>N. Z. Med. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ethnic- and sex-related differences in pain characteristics, psychological distress and pain-related disability in patients attending a New Zealand teaching hospital pain service.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>51-64</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim of the present observational study was to provide a description of the demographic, psychological and pain characteristics of patients attending the Waitemata Pain Services (WPS), Auckland, New Zealand.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">Data were collected via a comprehensive paper-pencil questionnaire handed out to 798 consecutive new patients seen at the WPS over a four-year period.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">32.3% attending the WPS were men and 67.7% women, with a mean age of 52.1 years. 65.7% of patients were New Zealand Europeans, followed by 19.1% other Europeans, 5.7% Asians, 3.9% Maori, 2.8% Middle Eastern/Latin/Africans and 2.7% Pacific Islanders. Patients reported an average of 2.6 visits to the GP before presenting to the unit. Average pain duration was seven years and seven months. Women reported a significantly higher number of pain sites in the whole body, as well as in the left and right side of the body compared to men (p&lt;0.0001 for all). Highest interference due to pain was found for enjoyment of life. Men and women further differed in a range of psycho-behavioural variables, with women reporting less psychological distress and depression but more stress compared to men (p&lt;0.05 for all). Men showed higher levels of kinesiophobia (p&lt;0.005) and less pain acceptance and pain willingness (p&lt;0.05 for both). Cross-cultural comparison found Maori patients reported highest pain levels, highest number of pain sites, highest pain interference, as well as highest levels of psychological distress, depression, stress and anxiety compared to all other ethnicities. Lowest pain severity was reported for New Zealand European patients and lowest interference due to pain for Pacific Islanders. While Middle Eastern/Latin/African patients showed highest levels of kinesiophobia, Pacific Islanders had the highest tendencies to catastrophise about their pain.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">There are important sex- and ethnicity-related differences in the clinical presentation of chronic pain patients attending a large, hospital-based New Zealand pain service. While service provision can be based on generalised guidelines, specific interventions should be informed by important demographic and cultural variables. Studies are needed to identify strategies to improve service delivery in subgroups of the population who may be undertreated or lack access to appropriate interventions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Burri</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Senior Research Officer, Health and Rehabilitation Research Institute, Auckland University of Technology, Auckland; Waitemata Pain Services, Department of Anaesthesiology and Perioperative Medicine, Waitemata District Health Board, Auckland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rice</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Senior Lecturer &amp; Scientific Officer, Senior Research Officer, Health and Rehabilitation Research Institute, Auckland University of Technology, Auckland; Waitemata Pain Services, Department of Anaesthesiology and Perioperative Medicine, Waitemata District Health Board, Auckland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kluger</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Student, Faculty of Medical and Health Sciences, University of Auckland, Auckland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kluger</LastName>
+                    <ForeName>Michal</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Waitemata Pain Services, Department of Anaesthesiology and Perioperative Medicine, Waitemata District Health Board, Auckland; Health and Rehabilitation Research Institute, Auckland University of Technology, Auckland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>N Z Med J</MedlineTA>
+            <NlmUniqueID>0401067</NlmUniqueID>
+            <ISSNLinking>0028-8446</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>Nil.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29470472</ArticleId>
+			<ArticleId IdType="doi">29470472</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

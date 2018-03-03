@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29475227</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+						<Day>1</Day>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Incidence and Comorbidity of Reactive Attachment Disorder: Based on National Health Insurance Claims Data, 2010-2012 in Korea.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>118-123</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.11.01</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We aimed to investigate the current diagnostic incidence, and medical and psychiatric comorbidities of reactive attachment disorder (RAD) using the National Health Insurance Review and Assessment (HIRA) claims data.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To examine the diagnostic incidence, we selected patients who were under 10-year-old and who had at least one medical claim containing a 10th revision of the International Statistical Classification of Diseases and Related Health Problems (ICD-10) code for RAD (F94.1 and F94.2) and who had not been diagnosed in the previous 360 days, from 2010 to 2012. In this study, we used the term 'reactive attachment disorder' representing for both RAD per se and Disinhibited social engagement disorder. Comorbid disorders were categorized according to ICD-10.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among 14,029,571, the total population under 10-year-old during 2010-2012, incident cases of RAD were 736. The mean diagnostic incidence of RAD was 5.25 per 100,000 annually. Language disorders (F80-84) were the most common psychiatric comorbidities in both boys and girls in age groups 0-3 years and 4-6 years, and attention deficit hyperactivity disorder was the most common in both sex aged 7-9 years. In non-psychiatric comorbidities, diseases of the respiratory system (J00-99) were the commonest in both sex in all age groups, and diseases of the digestive system (K00-99) were the next.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">RAD was very rare in practice and would be disguised as other psychiatric disorders. Children with RAD might have more medical comorbidities than typically developed children.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Minha</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Seonam University College of Medicine, Myongji Hospital, Goyang, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moon</LastName>
+                    <ForeName>Duk Soo</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Seoul Children's Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Hyejung</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Business, Kyung Hee University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Seung Yup</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Graduate School, Kyung Hee University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Seong Woo</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Graduate School, Kyung Hee University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Kyung-Sook</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rehabilitation, Hanshin University, Osan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jin-Ah</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sewon Infant and Child Development Center, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Sang Min</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Konyang University College of Medicine, Konyang University Hospital, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bahn</LastName>
+                    <ForeName>Geon Ho</ForeName>
+                    <Initials>GH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Kyung Hee University School of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Comorbidity</Keyword>
+            <Keyword MajorTopicYN="N">Incidence</Keyword>
+            <Keyword MajorTopicYN="N">Reactive attachment disorder</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475227</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.11.01</ArticleId>
+            <ArticleId IdType="pii">pi-2017-11-01</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

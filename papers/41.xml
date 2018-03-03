@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29476314</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Child psychiatry and human development</Title>
+                <ISOAbbreviation>Child Psychiatry Hum Dev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Socioeconomically Disadvantaged Adolescents with Elevated Externalizing Symptoms Show Heightened Emotion Reactivity to Daily Stress: An Experience Sampling Study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10578-018-0784-x</ELocationID>
+            <Abstract>
+                <AbstractText>Numerous theories assert that youth with externalizing symptomatology experience intensified emotion reactivity to stressful events; yet scant empirical research has assessed this notion. Using in-vivo data collected via experience sampling methodology, we assessed whether externalizing symptoms conditioned adolescents' emotion reactivity to daily stressors (i.e. change in emotion pre-post stressor) among 206 socioeconomically disadvantaged adolescents. We also assessed whether higher externalizing symptomology was associated with experiencing more stressors overall, and whether adolescents' emotional upheavals resulted in experiencing a subsequent stressor. Hierarchical linear models showed that adolescents higher in externalizing symptoms experienced stronger emotion reactivity in sadness, anger, jealously, loneliness, and (dips in) excitement. Externalizing symptomatology was not associated with more stressful events, but a stress-preventative effect was found for recent upheavals in jealousy among youth low in externalizing. Findings pinpoint intense emotion reactivity to daily stress as a risk factor for youth with externalizing symptoms living in socioeconomic disadvantage.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Uink</LastName>
+                    <ForeName>Bep</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0481-6934</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology &amp; Exercise Science, Murdoch University, Perth, WA, Australia. b.uink@murdoch.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Modecki</LastName>
+                    <ForeName>Kathryn Lynn</ForeName>
+                    <Initials>KL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology &amp; Exercise Science, Murdoch University, Perth, WA, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Applied Psychology, Griffith University, Mt. Gravatt Campus, Mount Gravatt, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Menzies Health Institute Queensland, Gold Coast, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barber</LastName>
+                    <ForeName>Bonnie L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Menzies Health Institute Queensland, Gold Coast, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Griffith University, Gold Coast Campus, Southport, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Education, Murdoch University, Perth, WA, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Correia</LastName>
+                    <ForeName>Helen M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology &amp; Exercise Science, Murdoch University, Perth, WA, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Child Psychiatry Hum Dev</MedlineTA>
+            <NlmUniqueID>1275332</NlmUniqueID>
+            <ISSNLinking>0009-398X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescents</Keyword>
+            <Keyword MajorTopicYN="N">Emotion reactivity</Keyword>
+            <Keyword MajorTopicYN="N">Experience Sampling</Keyword>
+            <Keyword MajorTopicYN="N">Externalizing</Keyword>
+            <Keyword MajorTopicYN="N">Socioeconomic disadvantage</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29476314</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10578-018-0784-x</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10578-018-0784-x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

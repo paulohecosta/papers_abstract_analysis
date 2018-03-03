@@ -22,7 +22,7 @@ def cleanup_tokens(tokens):
     :return: list of important tokens
     """
     stopset = set(stopwords.words('english'))
-    cleanup = [i for i in tokens if i not in stopset if len(i) > 2]
+    cleanup = [i for i in tokens if i not in stopset if len(i) > 5]
     return cleanup
 
 

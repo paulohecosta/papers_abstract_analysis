@@ -12,6 +12,7 @@ import nltk
 # nltk.download('maxent_ne_chunker')
 # nltk.download('words')
 # nltk.download('stopwords')
+# nltk.download('rslp')
 import os
 import glob
 import xml.etree.ElementTree
@@ -19,7 +20,8 @@ import xml.etree.ElementTree
 from custom_entities.article import ArticleData
 from custom_helpers.pandas_helper import insert_article_to_pandas
 
-path = 'C:\Users\Paulo\Documents\PyCharmProjects\papers_abstract_analysis\papers'
+# path = 'C:/Users/Paulo/Documents/PyCharmProjects/papers_abstract_analysis/papers'
+path = 'C:/Users/Paulo Henrique/PycharmProjects/papers_abstract_analysis/papers'
 
 df = pd.DataFrame()
 

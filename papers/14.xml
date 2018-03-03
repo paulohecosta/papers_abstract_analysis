@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29476951</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1876-2026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Asian journal of psychiatry</Title>
+                <ISOAbbreviation>Asian J Psychiatr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Current status of vaccines in psychiatry-A narrative review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>112-120</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1876-2018(17)30403-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ajp.2018.02.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Vaccines are one of the newer therapeutic modalities being researched in psychiatric illnesses with limited role of pharmacological interventions. Preclinical studies on vaccines have shown favorable results in conditions like Substance use Disorders and Alzheimer's Dementia. However, the utility of Mumps Measles Rubella vaccine has been overshadowed by controversy linked to causation of Autism. With this background, the current narrative review aimed to comprehensively and critically evaluate the current status of vaccines in Psychiatric illnesses.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Preliminary literature search using the electronic databases of MEDLINE and Google Scholar between May 1967 and May 2017 using the search terms &quot;Vaccines&quot; and &quot;Psychiatry&quot; was carried out and articles were found in the following areas of research: Substance use, Alzheimer Dementia, Autism, Human Immunodeficiency Virus and Human Papilloma Virus Further, the refined search was done using combinations of search terms &quot;Vaccine&quot;, &quot;Nicotine&quot;, &quot;Cocaine&quot;, &quot;Opioid&quot;, &quot;Alzheimer Dementia&quot;, &quot;Autism&quot;, and &quot;Pervasive Developmental Disorders&quot; and peer - reviewed original articles published in English conducted among human subjects and published in English language were included for review.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 31 articles found eligible were organized into appropriate sections synthesizing the literature on role of vaccines in specific disorders such as Substance Use Disorders, Alzheimer Dementia and Pervasive Developmental Disorders.</AbstractText>
+                <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">The therapeutic potential of vaccines in Substance Use Disorders and Alzheimer Dementia was found to be limited in comparison to the results from animal studies. Safety profile of the immunogens and the adjuvants in humans is possibly the most important limitation. No causal association between Measles Mumps Rubella vaccine and Autism was found.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuppili</LastName>
+                    <ForeName>Pooja Patnaik</ForeName>
+                    <Initials>PP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Jawaharlal Institute of Post Graduate Medical Education and Research (JIPMER), Dhanvantri Nagar, Puducherry, 605006, India. Electronic address: kuppili.p@jipmer.edu.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manohar</LastName>
+                    <ForeName>Harshini</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Jawaharlal Institute of Post Graduate Medical Education and Research (JIPMER), Dhanvantri Nagar, Puducherry, 605006, India. Electronic address: harshinimanohar1990@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Menon</LastName>
+                    <ForeName>Vikas</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Jawaharlal Institute of Post Graduate Medical Education and Research (JIPMER), Dhanvantri Nagar, Puducherry, 605006, India. Electronic address: drvmenon@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Asian J Psychiatr</MedlineTA>
+            <NlmUniqueID>101517820</NlmUniqueID>
+            <ISSNLinking>1876-2018</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alzheimer’s Dementia</Keyword>
+            <Keyword MajorTopicYN="N">Autism</Keyword>
+            <Keyword MajorTopicYN="N">Psychiatry</Keyword>
+            <Keyword MajorTopicYN="N">Substance use disorder</Keyword>
+            <Keyword MajorTopicYN="N">Vaccines</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29476951</ArticleId>
+            <ArticleId IdType="pii">S1876-2018(17)30403-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ajp.2018.02.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

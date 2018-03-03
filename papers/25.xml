@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29462767</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Psychosocial and neural indicators of resilience among youth with a family history of substance use disorder.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>198-206</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30065-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.015</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Little is known regarding the combined influence of psychosocial and neural protective mechanisms against substance use. The present study examined the extent to which neuroimaging measures of disinhibition predicted resilience against binge drinking and marijuana use among youth with a family history of substance use disorder (SUD; FH+), accounting for psychosocial measures of behavioral control.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Participants were 57 FH+ youth from the Michigan Longitudinal Study categorized into resilient and high-risk groups based on patterns of weekly binge drinking and monthly marijuana use during early adulthood. Psychosocial measures of behavioral control (reactive control and externalizing behavior during early and late adolescence) and neural measures of disinhibition (Go/No-Go task and Monetary Incentive Delay Task (MIDT) measured through functional magnetic resonance imaging (fMRI)) were entered sequentially in hierarchical logistic regression models to predict resilient versus high-risk groups.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Greater activation in the right dorsolateral prefrontal cortex (DLPFC) during correctly inhibited trials on the Go/No-Go task was a significant predictor of resilience (OR = 2.46, p &lt; 0.05), over and above greater reactive control in early adolescence (OR = 4.96, p &lt; 0.05) and lower externalizing behavior in late adolescence (OR = 0.64, p &lt; 0.05). Neural activation in the ventral striatum associated with reward anticipation during the MIDT was not a significant predictor of resilience.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Brain function in the right DLPFC associated with inhibitory control may be a neural indicator of resilience against elevated substance use among FH+ youth, even after accounting for psychosocial measures of behavioral control.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martz</LastName>
+                    <ForeName>Meghan E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Michigan, 4250 Plymouth Road, Ann Arbor, MI, 48109, USA. Electronic address: mmartz@umich.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zucker</LastName>
+                    <ForeName>Robert A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Michigan, 4250 Plymouth Road, Ann Arbor, MI, 48109, USA; Department of Psychology, University of Michigan, 4250 Plymouth Road, Ann Arbor, MI, 48109, USA. Electronic address: zuckerra@med.umich.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schulenberg</LastName>
+                    <ForeName>John E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Social Research, University of Michigan, 426 Thompson Street, Ann Arbor, MI, 48106, USA; Department of Psychology, University of Michigan, 4250 Plymouth Road, Ann Arbor, MI, 48109, USA. Electronic address: schulenb@umich.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heitzeg</LastName>
+                    <ForeName>Mary M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Michigan, 4250 Plymouth Road, Ann Arbor, MI, 48109, USA. Electronic address: mheitzeg@med.umich.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Family history</Keyword>
+            <Keyword MajorTopicYN="N">Inhibitory control</Keyword>
+            <Keyword MajorTopicYN="N">Resilience</Keyword>
+            <Keyword MajorTopicYN="N">Reward</Keyword>
+            <Keyword MajorTopicYN="N">Substance use trajectories</Keyword>
+            <Keyword MajorTopicYN="N">fMRI</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29462767</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30065-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.015</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

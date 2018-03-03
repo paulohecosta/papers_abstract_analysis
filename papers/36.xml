@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29435695</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Child psychiatry and human development</Title>
+                <ISOAbbreviation>Child Psychiatry Hum Dev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessing Acute Secondary Treatment Outcomes in Early-Onset Obsessive-Compulsive Disorder.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10578-018-0786-8</ELocationID>
+            <Abstract>
+                <AbstractText>Obsessive-compulsive disorder (OCD) in children under 8 years of age, referred to as early-onset OCD, has similar features to OCD in older children, including moderate to severe symptoms, impairment, and significant comorbidity. Family-based cognitive behavioral therapy (FB-CBT) has been found efficacious in reducing OCD symptoms and functional impairment in children ages 5-8 years with OCD; however, its effectiveness on reducing comorbid psychiatric symptoms in this same population has yet to be demonstrated. This study examined the acute effects of FB-CBT vs. family-based relaxation treatment over 14 weeks on measures of secondary treatment outcomes (non-OCD) in children with early-onset OCD. Children in the FB-CBT condition showed significant improvements from pre- to post-treatment on secondary outcomes, with a decrease in overall behavioral and emotional problems, internalizing symptoms, as well as overall anxiety symptom severity. Neither condition yielded significant change in externalizing symptoms. Clinical implications of these findings are considered.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cancilliere</LastName>
+                    <ForeName>Mary Kathryn</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Rhode Island, 10 Chafee Road, Suite 8, Kingston, RI, 02881, USA. Mkc25@my.uri.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freeman</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Human Behavior, Brown University Medical School, Providence, RI, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bradley-Hasbro Children's Research Center, Emma Pendleton Bradley Hospital, East Providence, RI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia</LastName>
+                    <ForeName>Abbe</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Human Behavior, Brown University Medical School, Providence, RI, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bradley-Hasbro Children's Research Center, Emma Pendleton Bradley Hospital, East Providence, RI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benito</LastName>
+                    <ForeName>Kristen</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Human Behavior, Brown University Medical School, Providence, RI, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bradley-Hasbro Children's Research Center, Emma Pendleton Bradley Hospital, East Providence, RI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sapyta</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Duke Child and Family Study Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franklin</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Child and Adolescent OCD, Tic, Trich, and Anxiety Group, University of Pennsylvania School of Medicine, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Child Psychiatry Hum Dev</MedlineTA>
+            <NlmUniqueID>1275332</NlmUniqueID>
+            <ISSNLinking>0009-398X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CBT</Keyword>
+            <Keyword MajorTopicYN="N">Comorbidity</Keyword>
+            <Keyword MajorTopicYN="N">Early-onset</Keyword>
+            <Keyword MajorTopicYN="N">OCD</Keyword>
+            <Keyword MajorTopicYN="N">Treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29435695</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10578-018-0786-8</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10578-018-0786-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

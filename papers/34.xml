@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29445938</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Child psychiatry and human development</Title>
+                <ISOAbbreviation>Child Psychiatry Hum Dev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mental Health of Homeless Youth: Moderation by Peer Victimization and Teacher Support.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10578-018-0790-z</ELocationID>
+            <Abstract>
+                <AbstractText>The link between youth homelessness and mental health functioning was examined using state population-representative 2015 Youth Risk Behavior Survey (YRBS) data. The moderating role of victimization and perceived teacher support also was examined. Consistent with hypotheses, results indicated that homelessness was associated with greater mental health challenges, more victimization, and less teacher support. The association between homelessness and mental health was not moderated by perceived teacher support. However, victimization experiences served as a moderator such that more victimization exacerbated the effect of homelessness on mental health challenges. This study supports the utility of the YRBS for gaining understanding of the experiences and needs of youth experiencing homelessness and adds to the growing literature on predictors of individual differences in mental health functioning of these vulnerable youth.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Armstrong</LastName>
+                    <ForeName>Jenna M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, North Carolina State University, Box 7650, Raleigh, NC, 27695, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Owens</LastName>
+                    <ForeName>Caitlyn R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, North Carolina State University, Box 7650, Raleigh, NC, 27695, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haskett</LastName>
+                    <ForeName>Mary E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, North Carolina State University, Box 7650, Raleigh, NC, 27695, USA. mary_haskett@ncsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Child Psychiatry Hum Dev</MedlineTA>
+            <NlmUniqueID>1275332</NlmUniqueID>
+            <ISSNLinking>0009-398X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Mental health</Keyword>
+            <Keyword MajorTopicYN="N">Peer victimization</Keyword>
+            <Keyword MajorTopicYN="N">Teacher support</Keyword>
+            <Keyword MajorTopicYN="N">Youth Risk Behavior Survey</Keyword>
+            <Keyword MajorTopicYN="N">Youth homelessness</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29445938</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10578-018-0790-z</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10578-018-0790-z</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -4,7 +4,7 @@ import pandas as pd
 def insert_article_to_pandas(df, article):
     current_columns = []
 
-    current_columns.append('JOURNAL')
+    current_columns.append('.JOURNAL')
 
     for key_word in article.ordered_keys:
         current_columns.append(key_word)
@@ -13,7 +13,7 @@ def insert_article_to_pandas(df, article):
     frames = [df, df_1]
     df = pd.concat(frames)
 
-    df.loc[article.doi, 'JOURNAL'] = article.journal.title
+    df.loc[article.doi, '.JOURNAL'] = article.journal.title
 
     for key_word in article.ordered_keys:
         for column in df:

@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29476193</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1433-0563</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Der Urologe. Ausg. A</Title>
+                <ISOAbbreviation>Urologe A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Psychosocial effects in patients with penile cancer : A systematic review].</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00120-018-0603-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Psychological stress of patients with penile cancer arises from the cancer diagnosis itself and the treatment consequences. In addition, there is cancer-specific distress. There is the chance of cure in localized stages and in those with limited regional lymph node metastases but this requires surgery and often adjuvant chemotherapy. This systematic review gives a summary of the existing literature to date.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">A critical database search using Medline was made in Ovid from 1946 to 2017, in the Cochrane Central Register of Controlled Trials (CENTRAL) and in the Web of Science from 1900 to 2017. This was complemented by a search of the World Health Organization's International Clinical Trials Registry Platform Search Portal and ClinicalTrials.gov. The reference lists of the included studies were manually searched for additional references.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Selected studies (n = 10) addressed the psychosocial effects of penile cancer treatment on quality of life and sexual function. Due to the heterogeneity of the study designs only a narrative description of the results was possible. Defects or mutilation due to penile cancer cause psychological distress in a significant number of patients. Organ-sparing interventions have a positive impact on quality of life and sexual function.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The external genitals are a focus of sexual identity. Mutilating treatment causes significant distress but organ-sparing treatment and reconstruction positively influence quality of life.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dräger</LastName>
+                    <ForeName>D L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland. desiree.draeger@med.uni-rostock.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milerski</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sievert</LastName>
+                    <ForeName>K D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hakenberg</LastName>
+                    <ForeName>O W</ForeName>
+                    <Initials>OW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Psychosoziale Auswirkungen bei Patienten mit Peniskarzinom : Ein systematischer Überblick.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Urologe A</MedlineTA>
+            <NlmUniqueID>1304110</NlmUniqueID>
+            <ISSNLinking>0340-2592</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Metastasis</Keyword>
+            <Keyword MajorTopicYN="N">Psycho-oncology</Keyword>
+            <Keyword MajorTopicYN="N">Psychological stress</Keyword>
+            <Keyword MajorTopicYN="N">Quality of life</Keyword>
+            <Keyword MajorTopicYN="N">Sexuality</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29476193</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00120-018-0603-9</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00120-018-0603-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

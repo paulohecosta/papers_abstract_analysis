@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29477041</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1734-1140</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>70</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Nov</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacological reports : PR</Title>
+                <ISOAbbreviation>Pharmacol Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mitochondrial proteomics investigation of frontal cortex in an animal model of depression: Focus on chronic antidepressant drugs treatment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>322-330</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1734-1140(17)30491-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pharep.2017.11.016</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Alteration in the brain mitochondrial functions have been suggested to participate, as a relevant factor, in the development of mental disorders. Therefore, the brain mitochondria may be a crucial therapeutic target in the course of depression.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Our goal was to find out the impact of two antidepressant drugs with various mechanisms of action - imipramine and fluoxetine, on the frontal cortex mitochondria-enriched fraction in an animal model of depression based on the prenatal stress procedure.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Our results confirmed that the prenatal stress caused depressive-like disturbances in the adult offspring rats, which were normalized by the chronic imipramine and fluoxetine administration. For the first time, using 2D-LC-MS/MS, we demonstrated nine differentially expressed proteins after the imipramine administration. Of these proteins, the up-regulation of the 2',3'-cyclic-nucleotide 3'-phosphodiesterase enzyme and down-regulation of the Hypoxanthine-guanine phosphoribosyltransferase (HPRT), Ras-related proteins (Rap-1A and Rap-1B) and Transgelin-3 (NP25) were the most striking. In contrast, after the chronic fluoxetine treatment, we observed differential expression in five proteins, including the enhanced expression of component of pyruvate dehydrogenase complex and diminished of Glutathione S-transferase P (Gstp-1), as well as Maleylacetoacetate isomerase.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These results overcome the interesting data that brain mitochondria in the frontal cortex may constitute the target for pharmacotherapy. The multifaceted profile of both antidepressant drugs action makes difficult to elucidate the exact mechanism of imipramine and fluoxetine action in the brain mitochondria. Further study of mitochondrial dysfunction in psychiatric disorders will be base to know the possible biological consequences of our observations.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Institute of Pharmacology, Polish Academy of Sciences. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Głombik</LastName>
+                    <ForeName>Katarzyna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stachowicz</LastName>
+                    <ForeName>Aneta</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Pharmacology, Jagiellonian University Medical College, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trojan</LastName>
+                    <ForeName>Ewa</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ślusarczyk</LastName>
+                    <ForeName>Joanna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suski</LastName>
+                    <ForeName>Maciej</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Pharmacology, Jagiellonian University Medical College, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chamera</LastName>
+                    <ForeName>Katarzyna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kotarska</LastName>
+                    <ForeName>Katarzyna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olszanecki</LastName>
+                    <ForeName>Rafał</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Pharmacology, Jagiellonian University Medical College, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Basta-Kaim</LastName>
+                    <ForeName>Agnieszka</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland. Electronic address: basta@if-pan.krakow.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Pharmacol Rep</MedlineTA>
+            <NlmUniqueID>101234999</NlmUniqueID>
+            <ISSNLinking>1734-1140</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Fluoxetine</Keyword>
+            <Keyword MajorTopicYN="N">Frontal cortex</Keyword>
+            <Keyword MajorTopicYN="N">Imipramine</Keyword>
+            <Keyword MajorTopicYN="N">Mitochondria</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29477041</ArticleId>
+            <ArticleId IdType="pii">S1734-1140(17)30491-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.pharep.2017.11.016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29475661</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-3363</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>127</Volume>
+                    <PubDate>
+						<Day>1</Day>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Marine pollution bulletin</Title>
+                <ISOAbbreviation>Mar. Pollut. Bull.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Numerical modelling of temporal and spatial patterns of petroleum hydrocarbons concentration in the Bohai Sea.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>251-263</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0025-326X(17)31044-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.marpolbul.2017.12.017</ELocationID>
+            <Abstract>
+                <AbstractText>The discharge of petroleum hydrocarbons (PHs; ~10,000tons annually) into the Bohai Sea, a shallow inland sea in China, presents a serious threat to the marine environment. To evaluate the effects of PHs pollution and estimate the corresponding environmental capacity, we have developed a genetic algorithm-based coupled hydrodynamic/transport for simulating PHs concentration evolution and distribution from July 2006 to October 2007, with the predicted values being in good agreement with monitoring results. Importantly, the mean PHs concentrations and seasonal concentration variations were primarily determined by external loading, i.e., currents were shown to drive PHs transport, reconfigure local PHs patterns, and increase PHs concentration in water masses, even at large distances from discharge sources. The developed model could realistically simulate PHs distribution and evolution, thus being a useful tool for estimating the seasonal environmental capacity of PHs.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Weijun</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Sciences and Engineering, Dalian Maritime University, Dalian 116026, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Guoxiang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Engineering, Ocean University of China, Qingdao 266100, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Tiaojian</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Coastal and Offshore Engineering, Dalian University of Technology, Dalian 116024, China. Electronic address: tjxu@dlut.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Xueyan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Coast Institute, Ludong University, Yantai 264025, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ren</LastName>
+                    <ForeName>Xiaozhong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Aquacultural Engineering Research &amp; Development Center, Dalian Ocean University, Dalian 116023, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hao</LastName>
+                    <ForeName>Yanni</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Sciences and Engineering, Dalian Maritime University, Dalian 116026, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mar Pollut Bull</MedlineTA>
+            <NlmUniqueID>0260231</NlmUniqueID>
+            <ISSNLinking>0025-326X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bohai Sea</Keyword>
+            <Keyword MajorTopicYN="N">Genetic algorithm</Keyword>
+            <Keyword MajorTopicYN="N">Petroleum hydrocarbons</Keyword>
+            <Keyword MajorTopicYN="N">Seasonal variability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475661</ArticleId>
+            <ArticleId IdType="pii">S0025-326X(17)31044-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.marpolbul.2017.12.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

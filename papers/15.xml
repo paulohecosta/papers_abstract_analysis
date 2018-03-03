@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29476779</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Psychedelics: Where we are now, why we got here, what we must do.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30075-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.018</ELocationID>
+            <Abstract>
+                <AbstractText>The purpose of this commentary is to provide an introduction to this special issue of Neuropharmacology with a historical perspective of psychedelic drug research, their use in psychiatric disorders, research-restricting regulatory controls, and their recent emergence as potential breakthrough therapies for several brain-related disorders. It begins with the discovery of lysergic acid diethylamide (LSD) and its promising development as a treatment for several types of mental illnesses during the 1940s. This was followed by its abuse and stigmatization in the 1960s that ultimately led to the placement of LSD and other psychedelic drugs into the most restrictively regulated drug schedule of the United States Controlled Substances Act (Schedule I) in 1970 and its international counterparts. These regulatory controls severely constrained development of psychedelic substances and their potential for clinical research in psychiatric disorders. Despite the limitations, there was continued research into brain mechanisms of action for psychedelic drugs with potential clinical applications which began during the 1990s and early 2000s. Finding pathways to accelerate clinical research in psychedelic drug development is supported by the growing body of research findings that are documented throughout this special issue of Neuropharmacology. Accumulated research to date suggests psychedelic drug assisted psychotherapy may emerge as a potential breakthrough treatment for several types of mental illnesses including depression, anxiety, post-traumatic stress disorder, and addiction that are refractory to current evidenced based therapies. This research equally shows promise in advancing the understanding of the brain, brain related functioning, and the consequential effects of untreated brain related diseases that have been implicated in causing and/or exacerbating numerous physical disease state conditions. The authors conclude that more must be done to effectively address mental illnesses and brain related diseases which have become so pervasive, destructive, and whose treatments are becoming increasingly resistant to current evidenced based therapies.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Belouin</LastName>
+                    <ForeName>Sean J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>United States Public Health Service, 11307 Church Bend Court, Germantown, MD 20876, USA. Electronic address: sjbelouin@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henningfield</LastName>
+                    <ForeName>Jack E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioral Biology, Adjunct, Department of Psychiatry and Behavioral Sciences, The Johns Hopkins University School of Medicine, USA; Research, Health Policy and Abuse Liability, Pinney Associates, 4800 Montgomery Lane, Suite 400, Bethesda, MD 20814, USA. Electronic address: jhenning@pinneyassociates.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Abuse potential</Keyword>
+            <Keyword MajorTopicYN="N">Addiction</Keyword>
+            <Keyword MajorTopicYN="N">Controlled substances act</Keyword>
+            <Keyword MajorTopicYN="N">LSD</Keyword>
+            <Keyword MajorTopicYN="N">Mental health disorders</Keyword>
+            <Keyword MajorTopicYN="N">Psychedelic drug research</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29476779</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30075-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

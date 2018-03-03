@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475243</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Impact of General Medical Conditions in Obsessive-Compulsive Disorder.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.06.17.2</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The co-occurrence of general medical conditions (GMCs) and major psychiatric disorders is well documented. The aim of this study was to assess the prevalence of GMCs in patients with a primary diagnosis of obsessive-compulsive disorder (OCD) and, secondly, to investigate which clinical variables are associated with the presence of a GMC.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Subjects with a primary diagnosis of OCD were included. Socio-demographic and clinical characteristics were collected. GMCs were classified using the ICD-10 and grouped according to the Cumulative Illness Rating Scale (CIRS) in: cardiac, vascular, hematopoietic, respiratory, ear/nose/throat, upper and lower gastrointestinal, hepatic, renal, genitourinary, musculoskeletal, neurologic, endocrine/metabolic. The association between the presence of GMCs and demographic/clinical variables of OCD was investigated.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 162 patients with OCD were included. 78 (48.1%) patients had at least one comorbid GMC. Most frequent GMCs were endocrine/metabolic diseases (25.9%), followed by upper/lower gastrointestinal (20.5%) and cardio-vascular diseases (13.6%). The presence of a GMC was significantly associated with female gender, older age, duration of untreated illness (DUI), and absence of physical activity.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Patients with OCD have high rates of comorbid GMCs. A longer DUI is associated with having at least one GMCs; this might be due to the long-lasting adoption of unhealthy lifestyles, not counterbalanced by appropriate treatment and psychoeducation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Aguglia</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Rita Levi Montalcini&quot; Department of Neuroscience, University of Turin, Psychiatric Unit, San Luigi Gonzaga Hospital, Orbassano, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Signorelli</LastName>
+                    <ForeName>Maria Salvina</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Medicine, AOU Policlinico Hospital, University of Catania, Catania, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albert</LastName>
+                    <ForeName>Umberto</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Rita Levi Montalcini&quot; Department of Neuroscience, University of Turin, Psychiatric Unit, San Luigi Gonzaga Hospital, Orbassano, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maina</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Rita Levi Montalcini&quot; Department of Neuroscience, University of Turin, Psychiatric Unit, San Luigi Gonzaga Hospital, Orbassano, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiovascular disease</Keyword>
+            <Keyword MajorTopicYN="N">Duration of untreated illness</Keyword>
+            <Keyword MajorTopicYN="N">General medical condition</Keyword>
+            <Keyword MajorTopicYN="N">Medical illness</Keyword>
+            <Keyword MajorTopicYN="N">Obsessive-compulsive disorder</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475243</ArticleId>
+            <ArticleId IdType="pii">pi.2017.06.17.2</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.06.17.2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

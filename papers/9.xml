@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475810</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2468-2667</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Public health</Title>
+                <ISOAbbreviation>Lancet Public Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Contribution of alcohol use disorders to the burden of dementia in France 2008-13: a nationwide retrospective cohort study.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S2468-2667(18)30022-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S2468-2667(18)30022-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Dementia is a prevalent condition, affecting 5-7% of people aged 60 years and older, and a leading cause of disability in people aged 60 years and older globally. We aimed to examine the association between alcohol use disorders and dementia risk, with an emphasis on early-onset dementia (&lt;65 years).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We analysed a nationwide retrospective cohort of all adult (≥20 years) patients admitted to hospital in metropolitan France between 2008 and 2013. The primary exposure was alcohol use disorders and the main outcome was dementia, both defined by International Classification of Diseases, tenth revision discharge diagnosis codes. Characteristics of early-onset dementia were studied among prevalent cases in 2008-13. Associations of alcohol use disorders and other risk factors with dementia onset were analysed in multivariate Cox models among patients admitted to hospital in 2011-13 with no record of dementia in 2008-10.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">Of 31 624 156 adults discharged from French hospitals between 2008 and 2013, 1 109 343 were diagnosed with dementia and were included in the analyses. Of the 57 353 (5·2%) cases of early-onset dementia, most were either alcohol-related by definition (22 338 [38·9%]) or had an additional diagnosis of alcohol use disorders (10 115 [17·6%]). Alcohol use disorders were the strongest modifiable risk factor for dementia onset, with an adjusted hazard ratio of 3·34 (95% CI 3·28-3·41) for women and 3·36 (3·31-3·41) for men. Alcohol use disorders remained associated with dementia onset for both sexes (adjusted hazard ratios &gt;1·7) in sensitivity analyses on dementia case definition (including Alzheimer's disease) or older study populations. Also, alcohol use disorders were significantly associated with all other risk factors for dementia onset (all p&lt;0·0001).</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">Alcohol use disorders were a major risk factor for onset of all types of dementia, and especially early-onset dementia. Thus, screening for heavy drinking should be part of regular medical care, with intervention or treatment being offered when necessary. Additionally, other alcohol policies should be considered to reduce heavy drinking in the general population.</AbstractText>
+                <AbstractText Label="FUNDING" NlmCategory="BACKGROUND">None.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schwarzinger</LastName>
+                    <ForeName>Michaël</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Health Economics Network, Paris, France; Infection Antimicrobials Modeling and Evolution, UMR 1137, INSERM-Université Paris Diderot, Sorbonne Paris Cité, Paris, France. Electronic address: michael.schwarzinger@transhealthecon.net.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pollock</LastName>
+                    <ForeName>Bruce G</ForeName>
+                    <Initials>BG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hasan</LastName>
+                    <ForeName>Omer S M</ForeName>
+                    <Initials>OSM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Mental Health Policy Research, Centre for Addiction and Mental Health, Toronto, ON, Canada; Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dufouil</LastName>
+                    <ForeName>Carole</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM, University of Bordeaux, Centre INSERM U1219-Bordeaux Population Health, ISPED-Bordeaux School of Public Health, Bordeaux, France; Bordeaux University Hospital, Public Health Department, Medical Information Service, Bordeaux, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rehm</LastName>
+                    <ForeName>Jürgen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada; Institute for Mental Health Policy Research, Centre for Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, University of Toronto, Toronto, ON, Canada; Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada; Institute of Medical Science, University of Toronto, Toronto, ON, Canada; Institute for Clinical Psychology and Psychotherapy, Technical University Dresden, Dresden, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>QalyDays Study Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet Public Health</MedlineTA>
+            <NlmUniqueID>101699003</NlmUniqueID>
+        </MedlineJournalInfo>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Baillot</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Guibert</LastName>
+                <ForeName>Q</ForeName>
+                <Initials>Q</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Planchet</LastName>
+                <ForeName>F</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Luchini</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475810</ArticleId>
+            <ArticleId IdType="pii">S2468-2667(18)30022-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/S2468-2667(18)30022-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

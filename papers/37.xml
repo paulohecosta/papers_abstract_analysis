@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29387998</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Child psychiatry and human development</Title>
+                <ISOAbbreviation>Child Psychiatry Hum Dev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Emotional and Behavioral Problems in Children and Adolescents in Central Kenya.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10578-018-0783-y</ELocationID>
+            <Abstract>
+                <AbstractText>Emotional and behavioral problems (EBP) during childhood and adolescence are a common concern for parents and mental health stakeholders. However, little has been documented about their prevalence in Kenyan children and adolescents. This study aimed to close this gap. The study included Child Behavior Checklist reports from 1022 Kenyan parents on their children (ages 6-18 years) and Youth Self-Reports from 533 adolescents (ages 12-18) living in Kenya's Central Province. EBP in Kenya are highly prevalent compared to multi-cultural standards for parent reports, with 27 and 17% scoring in the borderline and clinical range, respectively. Based on parent reports, younger children scored higher on EBP than older children, and higher on internalizing problems. Based on self-reports girls scored higher than boys, particularly on internalizing problems. The study provides evidence on elevated parent-reported EBP in Kenyan youths. Mental health providers should focus on interventions that reduce EBP in Kenyan youths.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Magai</LastName>
+                    <ForeName>Dorcas N</ForeName>
+                    <Initials>DN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KEMRI-Wellcome Trust Collaborative Research Programme, Kilifi, Kenya.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical, Neuro- and Developmental Psychology, Amsterdam Public Health Research Institute, Vrije Universiteit Amsterdam, Van der Boechorststraat 1, 1081 BT, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malik</LastName>
+                    <ForeName>Jamil A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Psychology, Quaid-i-Azam University, Islamabad, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koot</LastName>
+                    <ForeName>Hans M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical, Neuro- and Developmental Psychology, Amsterdam Public Health Research Institute, Vrije Universiteit Amsterdam, Van der Boechorststraat 1, 1081 BT, Amsterdam, The Netherlands. j.m.koot@vu.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Child Psychiatry Hum Dev</MedlineTA>
+            <NlmUniqueID>1275332</NlmUniqueID>
+            <ISSNLinking>0009-398X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescent</Keyword>
+            <Keyword MajorTopicYN="N">Child</Keyword>
+            <Keyword MajorTopicYN="N">Emotional/behavioral problems</Keyword>
+            <Keyword MajorTopicYN="N">Kenya</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29387998</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10578-018-0783-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10578-018-0783-y</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

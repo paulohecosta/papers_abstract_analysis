@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29322361</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Child psychiatry and human development</Title>
+                <ISOAbbreviation>Child Psychiatry Hum Dev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Homelessness, Mental Health and Suicidality Among LGBTQ Youth Accessing Crisis Services.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10578-018-0780-1</ELocationID>
+            <Abstract>
+                <AbstractText>LGBTQ youth experience increased risks of homelessness, mental health disorder symptoms, and suicidality. Utilizing data from LGBTQ youth contacting a suicide crisis services organization, this study examined: (a) rates of homelessness among crisis services users, (b) the relationship between disclosure of LGBTQ identity to parents and parental rejection and homelessness, and (c) the relationship between homelessness and mental health disorder outcomes and suicidality. A nationwide sample of LGBTQ youth was recruited for a confidential online survey from an LGBTQ-focused crisis services hotline. Overall, nearly one-third of youth contacting the crisis services hotline had experienced lifetime homelessness, and those who had disclosed their LGBTQ identity to parents or experienced parental rejection because of LGBTQ status experienced higher rates of homelessness. Youth with homelessness experiences reported more symptoms of several mental health disorders and higher rates of suicidality. Suggestions for service providers are discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rhoades</LastName>
+                    <ForeName>Harmony</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USC Suzanne Dworak-Peck School of Social Work, University of Southern California, 669 W. 34th Street, MRF Bldg, Los Angeles, CA, 90089-0411, USA. hrhoades@usc.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>USC Suzanne Dworak-Peck School of Social Work, University of Southern California, 1149 S. Hill St., Suite 360, Los Angeles, CA, 90015, USA. hrhoades@usc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rusow</LastName>
+                    <ForeName>Joshua A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USC Suzanne Dworak-Peck School of Social Work, University of Southern California, 669 W. 34th Street, MRF Bldg, Los Angeles, CA, 90089-0411, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bond</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Private Practice, Beverly Hills, CA, 90210, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lanteigne</LastName>
+                    <ForeName>Amy</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Trevor Project, 8704 Santa Monica Blvd, West Hollywood, CA, 90069, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fulginiti</LastName>
+                    <ForeName>Anthony</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Social Work, University of Denver, 2148 S. High St., Denver, CO, 80208, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goldbach</LastName>
+                    <ForeName>Jeremy T</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USC Suzanne Dworak-Peck School of Social Work, University of Southern California, 669 W. 34th Street, MRF Bldg, Los Angeles, CA, 90089-0411, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Child Psychiatry Hum Dev</MedlineTA>
+            <NlmUniqueID>1275332</NlmUniqueID>
+            <ISSNLinking>0009-398X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Crisis services</Keyword>
+            <Keyword MajorTopicYN="N">Homelessness</Keyword>
+            <Keyword MajorTopicYN="N">LGBTQ youth</Keyword>
+            <Keyword MajorTopicYN="N">Mental health</Keyword>
+            <Keyword MajorTopicYN="N">Suicidality</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29322361</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10578-018-0780-1</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10578-018-0780-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

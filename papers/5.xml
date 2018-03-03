@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475236</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Retrospective and Prospective Follow-up Study of Psychological Distress in the Danwon High School Survivors of the Sewol Ferry Disaster.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.06.25</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">We monitored a group of students from Danwon High School who survived the Sewol ferry disaster for 27 months to examine the course of their psychological symptoms.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We performed a chart review at the Danwon High School Mental Health Center at the following time points (T): 9 months (T1), 12 months (T2), and 15 months (T3) after the disaster. Additionally, we performed a follow-up review at 27 months (T4). Subjects completed the 'State' section of the State-Trait Anxiety Inventory for Children, the Center for Epidemiological Studies-Depression assessment, the Child Report of Post-traumatic Symptoms, and the Inventory of Complicated Grief. Data from the 32 subjects who completed all four assessments were used in the statistical analyses.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Scores of psychological variables tended to increase until T2 and then slowly decreased until T4. The severity of anxiety and complicated grief symptoms changed significantly over time, but the severity of depression and posttraumatic stress symptoms did not.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">We found that the symptoms of anxiety and complicated grief reported by Sewol ferry survivors from Danwon High School were exacerbated at the first anniversary of the disaster, but these symptoms subsided after the students graduated from high school.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Eun Ji</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mind Health Center, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nam</LastName>
+                    <ForeName>Hee Sun</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mind Health Center, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hak Beom</ForeName>
+                    <Initials>HB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Children Welfare Center, Incheon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>Unsun</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Kyungpook National University Children's Hospital, Daegu, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>So Hee</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, National Medical Center, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chae</LastName>
+                    <ForeName>Jeong-Ho</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Seoul St. Mary's Hospital, The Catholic University of Korea College of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anniversary</Keyword>
+            <Keyword MajorTopicYN="N">Anxiety</Keyword>
+            <Keyword MajorTopicYN="N">Complicated grief</Keyword>
+            <Keyword MajorTopicYN="N">Danwon</Keyword>
+            <Keyword MajorTopicYN="N">Sewol ferry disaster</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475236</ArticleId>
+            <ArticleId IdType="pii">pi.2017.06.25</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.06.25</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
