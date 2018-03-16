@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29499553</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Maternal and partner prenatal alcohol use and infant cognitive development.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>330-338</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30097-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.038</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Teratogenicity of heavy prenatal alcohol exposure is established, but uncertainty remains regarding the impact of moderate alcohol exposure on cognitive deficits in infants. Separating in utero effects from environmental confounding is a challenge for observational studies; consideration of alcohol use by partners as well as mothers may help clarify this. This study examined associations between prenatal alcohol use by both mothers and their partners and infant cognitive developmental outcomes at 12-months.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Pregnant women (n = 1331) and their partners (n = 699) were recruited from antenatal clinics of three metropolitan public hospitals in Australia, and completed detailed interviews about alcohol consumptions throughout pregnancy. Infants were assessed with the Bayley Scales of Infant Development - Third edition (Bayley) at 12-months of age.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Alcohol use during pregnancy was reported by 65.7% of mothers and 84.1% of partners. Using multiple methods to adjust for confounding factors, no evidence for impaired cognitive ability associated with alcohol use by mothers or their partners was observed. Children born to women who drank low-levels of alcohol had slightly higher Bayley cognitive scores than those born to abstaining women. There was some evidence for an interaction between sociodemographic factors and prenatal alcohol exposure on infant cognitive outcomes.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This finding corroborates existing evidence to suggest there are no detrimental effects to infant cognitive development at 12-months of age following low-level prenatal alcohol exposure. Future prospective studies involving families of a broad range of backgrounds would be informative to clarify interaction between alcohol exposure and environmental factors on developmental outcomes.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McCormack</LastName>
+                    <ForeName>Clare</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug and Alcohol Research Centre, University of New South Wales, 22-32 King St., Randwick, NSW 2031, Australia; Department of Psychiatry, Columbia University Medical Center, 622 West 168th St., New York, NY 10032, USA. Electronic address: cam2348@cumc.columbia.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hutchinson</LastName>
+                    <ForeName>Delyse</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug and Alcohol Research Centre, University of New South Wales, 22-32 King St., Randwick, NSW 2031, Australia; Centre for Social and Early Emotional Development, Deakin University, 221 Burwood Hwy., Burwood, VIC 3125, Australia; Centre for Adolescent Health, Royal Children's Hospital, 50 Flemington Rd., Parkville, VIC 3052, Australia; Department of Paediatrics, University of Melbourne, Royal Children's Hospital, 50 Flemington Rd., Parkville, VIC 3052, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burns</LastName>
+                    <ForeName>Lucy</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug and Alcohol Research Centre, University of New South Wales, 22-32 King St., Randwick, NSW 2031, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Youssef</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Social and Early Emotional Development, Deakin University, 221 Burwood Hwy., Burwood, VIC 3125, Australia; Centre for Adolescent Health, Royal Children's Hospital, 50 Flemington Rd., Parkville, VIC 3052, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>Judy</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug and Alcohol Research Centre, University of New South Wales, 22-32 King St., Randwick, NSW 2031, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elliott</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Paediatrics and Child Health, University of Sydney, NSW 2006, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allsop</LastName>
+                    <ForeName>Steve</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug Research Institute, Curtin University, Kent St., Bentley, Perth 6102, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Najman</LastName>
+                    <ForeName>Jake</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Queensland Alcohol and Drug Research Education Centre, University of Queensland, Brisbane, St. Lucia, QLD 4072, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacobs</LastName>
+                    <ForeName>Sue</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept of Obstetrics, Royal Prince Alfred Hospital,Missenden Rd., Camperdown, NSW 2050, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rossen</LastName>
+                    <ForeName>Larissa</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug and Alcohol Research Centre, University of New South Wales, 22-32 King St., Randwick, NSW 2031, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsson</LastName>
+                    <ForeName>Craig</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Social and Early Emotional Development, Deakin University, 221 Burwood Hwy., Burwood, VIC 3125, Australia; Centre for Adolescent Health, Royal Children's Hospital, 50 Flemington Rd., Parkville, VIC 3052, Australia; Department of Paediatrics, University of Melbourne, Royal Children's Hospital, 50 Flemington Rd., Parkville, VIC 3052, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mattick</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug and Alcohol Research Centre, University of New South Wales, 22-32 King St., Randwick, NSW 2031, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alcohol</Keyword>
+            <Keyword MajorTopicYN="N">Cognition</Keyword>
+            <Keyword MajorTopicYN="N">Fetal alcohol syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Infant development</Keyword>
+            <Keyword MajorTopicYN="N">Pregnancy</Keyword>
+            <Keyword MajorTopicYN="N">Prenatal alcohol exposure</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29499553</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30097-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.038</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

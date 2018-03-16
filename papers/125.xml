@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29504234</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Statins do not Increase the Rate of Bleeding among Warfarin Users.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.12998</ELocationID>
+            <Abstract>
+                <AbstractText>Clinical significance of potential interaction between warfarin and statins is unclear. Our objective was to determine whether use of statins as a class or use of simvastatin modulates the rate of bleeding requiring hospitalisation among new warfarin users. Using Finnish healthcare databases, we identified a cohort of 101,588 warfarin initiators between 1 January 2009 and 30 June 2012. By the end of 2012, these patients accumulated 92,695 person-years of exposure to warfarin-only and 60,253 years of exposure to warfarin-with-statin. The outcome was a composite of gastrointestinal, intracranial or other bleeding leading to hospitalisation. A Poisson generalised estimating equations model was employed to estimate rate ratios (RR) and their 95% confidence intervals (CI) for exposure to warfarin-with-statin compared to warfarin-only and to allow multiple episodes per patient and time-dependent covariates. In multivariable models, we found no difference in the bleeding rate in association with exposure to any statin (multivariable-adjusted RR=0.98, 95% CI 0.89-1.07) or to simvastatin (RR=1.01, 95% CI 0.91-1.11) with warfarin compared to exposure to warfarin-only. We conclude that concomitant use of statins and warfarin was not associated with an increased rate of bleeding requiring hospitalisation. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Korhonen</LastName>
+                    <ForeName>Maarit Jaana</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedicine, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Medicine Use and Safety, Faculty of Pharmacy and Pharmaceutical Sciences, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tiittanen</LastName>
+                    <ForeName>Pekka</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedicine, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Health and Welfare, Environmental Unit, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kastarinen</LastName>
+                    <ForeName>Helena</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedicine, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Social Insurance Institution, Regional Office for Eastern Finland, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Helin-Salmivaara</LastName>
+                    <ForeName>Arja</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedicine, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unit of Primary Health Care, Hospital District of Helsinki and Uusimaa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hauta-Aho</LastName>
+                    <ForeName>Milka</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedicine, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Unit, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rikala</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedicine, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huupponen</LastName>
+                    <ForeName>Risto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedicine, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Unit, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bleeding</Keyword>
+            <Keyword MajorTopicYN="N">cohort</Keyword>
+            <Keyword MajorTopicYN="N">drug-drug interaction</Keyword>
+            <Keyword MajorTopicYN="N">statins</Keyword>
+            <Keyword MajorTopicYN="N">warfarin</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29504234</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.12998</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

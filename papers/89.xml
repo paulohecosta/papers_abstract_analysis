@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29499272</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Receptor binding profiles and behavioral pharmacology of ring-substituted N,N-diallyltryptamine analogs.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30094-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.028</ELocationID>
+            <Abstract>
+                <AbstractText>Substantial effort has been devoted toward understanding the psychopharmacological effects of tryptamine hallucinogens, which are thought to be mediated by activation of 5-HT<sub>2A</sub>and 5-HT<sub>1A</sub>receptors. Recently, several psychoactive tryptamines based on the N,N-diallyltryptamine (DALT) scaffold have been encountered as recreational drugs. Despite the apparent widespread use of DALT derivatives in humans, little is known about their pharmacological properties. We compared the binding affinities of DALT and its 2-phenyl-, 4-acetoxy-, 4-hydroxy-, 5-methoxy-, 5-methoxy-2-methyl-, 5-fluoro-, 5-fluoro-2-methyl-, 5-bromo-, and 7-ethyl-derivatives at 45 receptor and transporter binding sites. Additionally, studies in C57BL/6 J mice examined whether these substances induce the head twitch response (HTR), a 5-HT<sub>2A</sub>receptor-mediated response that is widely used as a behavioral proxy for hallucinogen effects in humans. Most of the test drugs bound to serotonin receptors, σ sites, a<sub>2</sub>-adrenoceptors, dopaminergic D<sub>3</sub>receptors, histaminergic H<sub>1</sub>receptors, and the serotonin transporter. DALT and several of the ring-substituted derivatives were active in the HTR assay with the following rank order of potency: 4-acetoxy-DALT &gt; 5-fluoro-DALT &gt; 5-methoxy-DALT &gt; 4-hydroxy-DALT &gt; DALT &gt; 5-bromo-DALT. 2-Phenyl-DALT, 5-methoxy-2-methyl-DALT, 5-fluoro-2-methyl-DALT, and 7-ethyl-DALT did not induce the HTR. HTR potency was not correlated with either 5-HT<sub>1A</sub>or 5-HT<sub>2A</sub>receptor binding affinity, but a multiple regression analysis indicated that 5-HT<sub>2A</sub>and 5-HT<sub>1A</sub>receptors make positive and negative contributions, respectively, to HTR potency (R<sup>2</sup> = 0.8729). In addition to supporting the established role of 5-HT<sub>2A</sub>receptors in the HTR, these findings are consistent with evidence that 5-HT<sub>1A</sub>activation by tryptamine hallucinogens buffers their effects on HTR.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Klein</LastName>
+                    <ForeName>Landon M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurosciences, University of California San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cozzi</LastName>
+                    <ForeName>Nicholas V</ForeName>
+                    <Initials>NV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cell and Regenerative Biology, University of Wisconsin School of Medicine and Public Health, Madison, WI, USA; The Alexander Shulgin Research Institute, Lafayette, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daley</LastName>
+                    <ForeName>Paul F</ForeName>
+                    <Initials>PF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Alexander Shulgin Research Institute, Lafayette, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brandt</LastName>
+                    <ForeName>Simon D</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Alexander Shulgin Research Institute, Lafayette, CA, USA; School of Pharmacy and Biomolecular Sciences, Liverpool John Moores University, Byrom Street, Liverpool, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Halberstadt</LastName>
+                    <ForeName>Adam L</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of California San Diego, La Jolla, CA, USA; Research Service, VA San Diego Healthcare System, San Diego, CA, USA. Electronic address: ahalberstadt@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">4-AcO-DALT</Keyword>
+            <Keyword MajorTopicYN="N">4-Acetoxy-N,N-diallyltryptamine</Keyword>
+            <Keyword MajorTopicYN="N">4-Hydroxy-N,N-diallyltryptamine</Keyword>
+            <Keyword MajorTopicYN="N">5-MeO-DALT</Keyword>
+            <Keyword MajorTopicYN="N">5-Methoxy-N,N-diallyltryptamine</Keyword>
+            <Keyword MajorTopicYN="N">Hallucinogen</Keyword>
+            <Keyword MajorTopicYN="N">Head twitch</Keyword>
+            <Keyword MajorTopicYN="N">Mice</Keyword>
+            <Keyword MajorTopicYN="N">Psychedelic</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29499272</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30094-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.028</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

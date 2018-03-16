@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29529456</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>186</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rehospitalization and substance use disorder (SUD) treatment entry among patients seen by a hospital SUD consultation-liaison service.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>23-28</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30110-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.043</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Substance use disorders (SUD) are associated with non-adherence to medical care and high utilization of hospital services. This study characterized patterns and correlates of rehospitalization among patients seen by a hospital-based SUD consultation-liaison (CL) team.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This study was a retrospective medical record review of patients in a large urban academic hospital who received SUD consultation and were diagnosed with opioid, cocaine, and/or alcohol use disorder (N = 267). Data were collected on patient characteristics, substance-specific SUD diagnoses (opioids, cocaine, and alcohol), opioid agonist treatment (OAT) with methadone or buprenorphine (treatment status at admission; in-hospital initiation of OAT), and rehospitalization through 180 days post-discharge. Associations with rehospitalization were examined using bivariate tests of independence and multivariate logistic regression, with patient background and medical characteristics, substance-specific SUD diagnoses, and OAT status (at admission and in-hospital initiation) as predictors.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Rehospitalization rates were higher among patients with current opioid (38% vs. 24%; p &lt; .05) and cocaine use disorders (39% vs. 26%; p &lt; .05) compared to patients without these diagnoses. In multivariate logistic regression analysis, the number of medical comorbidities [Adjusted Odds Ratio (AOR) = 1.2; p &lt; .01] and opioid use disorder (AOR = 2.4, p &lt; .05) were independently associated with rehospitalization.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In this sample of hospital patients receiving SUD CL services, the risk of rehospitalization differed by type of SUD diagnosis. In-hospital initiation of OAT is promising for facilitating treatment linkage post-discharge, but this small study did not show differences in rehospitalization based on OAT initiation. These findings could inform services for hospital patients with comorbid SUDs.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nordeck</LastName>
+                    <ForeName>Courtney D</ForeName>
+                    <Initials>CD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friends Research Institute, 1040 Park Avenue, Suite 103. Baltimore, MD 21201, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Welsh</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Division of Alcohol and Drug Abuse, University of Maryland School of Medicine, 655 W. Baltimore Street, Baltimore, MD 21201, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwartz</LastName>
+                    <ForeName>Robert P</ForeName>
+                    <Initials>RP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friends Research Institute, 1040 Park Avenue, Suite 103. Baltimore, MD 21201, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitchell</LastName>
+                    <ForeName>Shannon Gwin</ForeName>
+                    <Initials>SG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friends Research Institute, 1040 Park Avenue, Suite 103. Baltimore, MD 21201, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>Art</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Division of Alcohol and Drug Abuse, University of Maryland School of Medicine, 655 W. Baltimore Street, Baltimore, MD 21201, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Grady</LastName>
+                    <ForeName>Kevin E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Maryland, 4094 Campus Drive, College Park, MD 20742, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gryczynski</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friends Research Institute, 1040 Park Avenue, Suite 103. Baltimore, MD 21201, USA. Electronic address: jgryczynski@friendsresearch.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Addiction</Keyword>
+            <Keyword MajorTopicYN="N">Consultation liaison</Keyword>
+            <Keyword MajorTopicYN="N">Hospital</Keyword>
+            <Keyword MajorTopicYN="N">Opioid use disorder</Keyword>
+            <Keyword MajorTopicYN="N">Readmission</Keyword>
+            <Keyword MajorTopicYN="N">Treatment linkage</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29529456</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30110-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.043</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

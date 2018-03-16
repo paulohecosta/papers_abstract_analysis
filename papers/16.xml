@@ -4,123 +4,148 @@
 
 <PubmedArticle>
     <MedlineCitation Status="Publisher" Owner="NLM">
-        <PMID Version="1">29476193</PMID>
+        <PMID Version="1">29486544</PMID>
         <DateRevised>
             <Year>2018</Year>
             <Month>02</Month>
-            <Day>24</Day>
+            <Day>27</Day>
         </DateRevised>
         <Article PubModel="Print-Electronic">
             <Journal>
-                <ISSN IssnType="Electronic">1433-0563</ISSN>
-                <JournalIssue CitedMedium="Internet">
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
                     <PubDate>
                         <Year>2018</Year>
                         <Month>Feb</Month>
-                        <Day>23</Day>
+                        <Day>28</Day>
                     </PubDate>
                 </JournalIssue>
-                <Title>Der Urologe. Ausg. A</Title>
-                <ISOAbbreviation>Urologe A</ISOAbbreviation>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
             </Journal>
-            <ArticleTitle>[Psychosocial effects in patients with penile cancer : A systematic review].</ArticleTitle>
-            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00120-018-0603-9</ELocationID>
+            <ArticleTitle>Effects of Cognitive-Behavioral Therapy on Empathy in Patients with Chronic Pain.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.07.03</ELocationID>
             <Abstract>
-                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Psychological stress of patients with penile cancer arises from the cancer diagnosis itself and the treatment consequences. In addition, there is cancer-specific distress. There is the chance of cure in localized stages and in those with limited regional lymph node metastases but this requires surgery and often adjuvant chemotherapy. This systematic review gives a summary of the existing literature to date.</AbstractText>
-                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">A critical database search using Medline was made in Ovid from 1946 to 2017, in the Cochrane Central Register of Controlled Trials (CENTRAL) and in the Web of Science from 1900 to 2017. This was complemented by a search of the World Health Organization's International Clinical Trials Registry Platform Search Portal and ClinicalTrials.gov. The reference lists of the included studies were manually searched for additional references.</AbstractText>
-                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Selected studies (n = 10) addressed the psychosocial effects of penile cancer treatment on quality of life and sexual function. Due to the heterogeneity of the study designs only a narrative description of the results was possible. Defects or mutilation due to penile cancer cause psychological distress in a significant number of patients. Organ-sparing interventions have a positive impact on quality of life and sexual function.</AbstractText>
-                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The external genitals are a focus of sexual identity. Mutilating treatment causes significant distress but organ-sparing treatment and reconstruction positively influence quality of life.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">Cognitive-behavioral therapy (CBT) is effective in patients with chronic pain. However, the efficacy of CBT for impaired empathy has not been studied in this population. We investigated the effect of CBT on empathy in patients with chronic pain.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Patients with severe chronic pain were recruited. Empathy was assessed before and after CBT using the Interpersonal Reactivity Index (IRI). The patients underwent eight sessions over the course of 1 month conducted. Additional symptoms were assessed using the Short-Form McGill Pain Questionnaire (SF-MPQ), Beck Depression Inventory, Beck Anxiety Inventory, World Health Organization Quality of Life Scale Abbreviated Version, and the Scale for Suicide Ideation.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 26 participants were included. Pre-CBT pain severity assessed using the SF-MPQ was significantly correlated with the IRI-empathic concern subscale score (p=0.021), and the relationship remained significant after adjusting for sex, age, education level, and marital status. After CBT, the IRI-perspective-taking subscale scores (p=0.004) increased significantly and the IRI-personal distress subscale scores (p=0.013) decreased significantly in all participants. The SF-MPQ scores increased significantly (p=0.021).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">CBT improved empathy in patients with chronic pain independent of its effect on pain, suggesting that CBT is useful for improving interpersonal relationships in patients with chronic pain.</AbstractText>
             </Abstract>
             <AuthorList CompleteYN="Y">
                 <Author ValidYN="Y">
-                    <LastName>Dräger</LastName>
-                    <ForeName>D L</ForeName>
-                    <Initials>DL</Initials>
+                    <LastName>Song</LastName>
+                    <ForeName>Man-Kyu</ForeName>
+                    <Initials>MK</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland. desiree.draeger@med.uni-rostock.de.</Affiliation>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Milerski</LastName>
-                    <ForeName>S</ForeName>
-                    <Initials>S</Initials>
+                    <LastName>Choi</LastName>
+                    <ForeName>Soo-Hee</ForeName>
+                    <Initials>SH</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland.</Affiliation>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Sievert</LastName>
-                    <ForeName>K D</ForeName>
-                    <Initials>KD</Initials>
+                    <LastName>Lee</LastName>
+                    <ForeName>Do-Hyeong</ForeName>
+                    <Initials>DH</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland.</Affiliation>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Hakenberg</LastName>
-                    <ForeName>O W</ForeName>
-                    <Initials>OW</Initials>
+                    <LastName>Lee</LastName>
+                    <ForeName>Kyung-Jun</ForeName>
+                    <Initials>KJ</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Klinik und Poliklinik für Urologie, Universitätsmedizin Rostock, Schillingallee 35, 18057, Rostock, Deutschland.</Affiliation>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Won Joon</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Do-Hyung</ForeName>
+                    <Initials>DH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
             </AuthorList>
-            <Language>ger</Language>
+            <Language>eng</Language>
             <PublicationTypeList>
-                <PublicationType UI="D004740">English Abstract</PublicationType>
                 <PublicationType UI="D016428">Journal Article</PublicationType>
-                <PublicationType UI="D016454">Review</PublicationType>
             </PublicationTypeList>
-            <VernacularTitle>Psychosoziale Auswirkungen bei Patienten mit Peniskarzinom : Ein systematischer Überblick.</VernacularTitle>
             <ArticleDate DateType="Electronic">
                 <Year>2018</Year>
                 <Month>02</Month>
-                <Day>23</Day>
+                <Day>28</Day>
             </ArticleDate>
         </Article>
         <MedlineJournalInfo>
-            <Country>Germany</Country>
-            <MedlineTA>Urologe A</MedlineTA>
-            <NlmUniqueID>1304110</NlmUniqueID>
-            <ISSNLinking>0340-2592</ISSNLinking>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
         </MedlineJournalInfo>
         <KeywordList Owner="NOTNLM">
-            <Keyword MajorTopicYN="N">Metastasis</Keyword>
-            <Keyword MajorTopicYN="N">Psycho-oncology</Keyword>
-            <Keyword MajorTopicYN="N">Psychological stress</Keyword>
-            <Keyword MajorTopicYN="N">Quality of life</Keyword>
-            <Keyword MajorTopicYN="N">Sexuality</Keyword>
+            <Keyword MajorTopicYN="N">Chronic pain, Cognitive-behavioral therapy, Empathy</Keyword>
         </KeywordList>
     </MedlineCitation>
     <PubmedData>
         <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
             <PubMedPubDate PubStatus="entrez">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="pubmed">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="medline">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
         </History>
         <PublicationStatus>aheadofprint</PublicationStatus>
         <ArticleIdList>
-            <ArticleId IdType="pubmed">29476193</ArticleId>
-            <ArticleId IdType="doi">10.1007/s00120-018-0603-9</ArticleId>
-            <ArticleId IdType="pii">10.1007/s00120-018-0603-9</ArticleId>
+            <ArticleId IdType="pubmed">29486544</ArticleId>
+            <ArticleId IdType="pii">pi.2017.07.03</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.07.03</ArticleId>
         </ArticleIdList>
     </PubmedData>
 </PubmedArticle>

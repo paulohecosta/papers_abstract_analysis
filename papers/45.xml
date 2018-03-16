@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475239</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Investigation of SDF1/CXCR4 Gene Polymorphisms in Autism Spectrum Disorder: A Family-Based Study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.05.31.2</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">Autism spectrum disorders (ASD) have a complex pathophysiology including genetic, inflammatory and neurodevelopmental components. We aim to investigate the relationship between ASD and gene polymorphisms of stromal cell-derived factor-1 (SDF-1) and its receptor CXC chemokine receptor-4 (CXCR4), which may affect inflammatory and neurodevelopmental processes.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">101 children diagnosed with ASD aged 2-18 and their biological parents were included in the study. All participants were assessed using an information form and the Children were assessed using Childhood Autism Rating Scale (CARS). SDF-1 G801→A and CXCR4 C13→T polymorphisms were detected by genetic techniques. The results were evaluated using the transmission disequilibrium test (TDT) and haplotype relative risk (HRR).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Following TDT evaluation for CXCR4, the assumption of equality was not rejected (X2=1.385, p=0.239). HRR for the C allele was 1.037 [HRR (95%CI)=0.937 (0.450-2.387), X2=0.007, p=0.933] and HRR for the T allele was 0.965 [HRR (95%CI)=0.965 (0.419- 2.221), X2=1.219, p=0.270], but the findings were statistically insignificant. Based on TDT evaluation for SDF1, the assumption of equality cannot be rejected (X2=0, p=0.999). HRR for the A allele was 0.701 [HRR (95%CI)=0.701 (0.372-1.319), X2=1.219, p=0.270] and HRR for the G allele was 1.427 [HRR (95%CI)=1.427 (0.758-2.686), X2=1.219, p=0.270], but the findings were statistically insignificant.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The genetic screening of blood samples from mother, father and child trios could not show a significant association between SDF1/CXCR4 genes and ASD on the basis of TDT and HRR tests. More extensive genetic studies are now needed to investigate the relationship between SDF1/CXCR4 gene polymorphisms and ASD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kara</LastName>
+                    <ForeName>Tayfun</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Child and Adolescent Psychiatry, Bakirkoy Dr. Sadi Konuk Training and Research Hospital, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akaltun</LastName>
+                    <ForeName>İsmail</ForeName>
+                    <Initials>İ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Child and Adolescent Psychiatry, Gaziantep Dr. Ersin Arslan Training and Research Hospital, Gaziantep, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cakmakoglu</LastName>
+                    <ForeName>Bedia</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istanbul University, Institute for Experimental Medicine (DETAE), Department of Molecular Medicine, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaya</LastName>
+                    <ForeName>İlyas</ForeName>
+                    <Initials>İ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istanbul University Istanbul Medical Faculty, Child and Adolescent Psychiatry Department, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zoroğlu</LastName>
+                    <ForeName>Salih</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Child and Adolescent Psychiatry and Psychotherapy Center, İstanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CXCL12 gene</Keyword>
+            <Keyword MajorTopicYN="N">CXCR4 gene</Keyword>
+            <Keyword MajorTopicYN="N">Chemokine</Keyword>
+            <Keyword MajorTopicYN="N">Pathogenesis</Keyword>
+            <Keyword MajorTopicYN="N">Polymorphism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475239</ArticleId>
+            <ArticleId IdType="pii">pi.2017.05.31.2</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.05.31.2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

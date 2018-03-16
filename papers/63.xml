@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29430794</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Liebowitz Social Anxiety Scale (LSAS): Optimal cut points for remission and response in a German sample.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2179</ELocationID>
+            <Abstract>
+                <AbstractText>The Liebowitz Social Anxiety Scale (LSAS) is the most frequently used instrument to assess social anxiety disorder (SAD) in clinical research and practice. Both a self-reported (LSAS-SR) and a clinician-administered (LSAS-CA) version are available. The aim of the present study was to define optimal cut-off (OC) scores for remission and response to treatment for the LSAS in a German sample. Data of N = 311 patients with SAD were used who had completed psychotherapeutic treatment within a multicentre randomized controlled trial. Diagnosis of SAD and reduction in symptom severity according to the Structured Clinical Interview for Diagnostic and Statistical Manual of Mental Disorders, 4th edition, served as gold standard. OCs yielding the best balance between sensitivity and specificity were determined using receiver operating characteristics. The variability of the resulting OCs was estimated by nonparametric bootstrapping. Using diagnosis of SAD (present vs. absent) as a criterion, results for remission indicated cut-off values of 35 for the LSAS-SR and 30 for the LSAS-CA, with acceptable sensitivity (LSAS-SR: .83, LSAS-CA: .88) and specificity (LSAS-SR: .82, LSAS-CA: .87). For detection of response to treatment, assessed by a 1-point reduction in the Structured Clinical Interview for Diagnostic and Statistical Manual of Mental Disorders, 4th edition, rating, a reduction of 28% for the LSAS-SR and 29% for the LSAS-CA yielded the best balance between sensitivity (LSAS-SR: .75, LSAS-CA: .83) and specificity (LSAS-SR: .76, LSAS-CA: .80). To our knowledge, we are the first to define cut points for the LSAS in a German sample. Overall, the cut points for remission and response corroborate previously reported cut points, now building on a broader data basis.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>von Glischinski</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Witten/Herdecke University, Witten, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Willutzki</LastName>
+                    <ForeName>U</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Witten/Herdecke University, Witten, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stangier</LastName>
+                    <ForeName>U</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Psychology and Psychotherapy, Goethe University Frankfurt, Frankfurt, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hiller</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Psychology, University of Mainz, Mainz, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoyer</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Clinical Psychology and Psychotherapy, Technische Universität Dresden, Dresden, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leibing</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Psychosocial Medicine, University of Goettingen, Goettingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leichsenring</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3808-0072</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Psychosomatics and Psychotherapy, Justus-Liebig-University Giessen, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hirschfeld</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Quantitative Methods, Osnabrück University of Applied Sciences, Osnabrück, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">LSAS</Keyword>
+            <Keyword MajorTopicYN="N">bootstrap</Keyword>
+            <Keyword MajorTopicYN="N">cut point</Keyword>
+            <Keyword MajorTopicYN="N">receiver operating characteristics</Keyword>
+            <Keyword MajorTopicYN="N">social anxiety</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29430794</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2179</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

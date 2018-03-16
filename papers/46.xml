@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475240</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Factors Associated with Complicated Grief in Students Who Survived the Sewol Ferry Disaster in South Korea.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.05.04</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The Sewol ferry disaster caused shock and grief in South Korea. The aim of this study was to identify the factors associated with symptoms of complicated grief (CG) among the surviving students 20 months after that disaster.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This study was conducted using a cross-sectional design and a sample of 57 students who survived the Sewol ferry disaster. Data were collected using the following instruments: Inventory of Complicated Grief (ICG), the Lifetime Incidence of Traumatic Events-Child, the Child Report of Post-Traumatic Symptoms (CROPS), KIDSCREEN-27, Family Adaptability and Cohesion Evaluation Scales-III, the Peri-traumatic Dissociation-Post-traumatic Negative Beliefs-Post-traumatic Social Support scale, and the Strengths and Difficulties Questionnaire. A generalized linear model using a log link and Poisson distribution was performed to identify factors associated with symptoms of CG.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The mean score on the ICG was 15.57 (standard deviation: 12.72). Being born in 1999, a higher score on the CROPS and a lower score in autonomy and relationship with parents on the KIDSCREEN-27 were related to higher levels of CG.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Twenty months after the Sewol ferry disaster, 24.5% of surviving students were suffering from CG. This study uncovered a vulnerable population of bereaved children at high risk for CG.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>So Hee</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, National Medical Center, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nam</LastName>
+                    <ForeName>Hee Sun</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Maumtodoc Mental Health Clinic, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hak Beom</ForeName>
+                    <Initials>HB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Children Welfare Center, Incheon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Eun Ji</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Maumtodoc Mental Health Clinic, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noh</LastName>
+                    <ForeName>Jin-Won</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Healthcare Management, Eulji University, Seongnam, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chae</LastName>
+                    <ForeName>Jeong-Ho</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Seoul St. Mary's Hospital, The Catholic University of Korea College of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Associated factors</Keyword>
+            <Keyword MajorTopicYN="N">Complicated grief</Keyword>
+            <Keyword MajorTopicYN="N">Sewol ferry disaster</Keyword>
+            <Keyword MajorTopicYN="N">Surviving students</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475240</ArticleId>
+            <ArticleId IdType="pii">pi.2017.05.04</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.05.04</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

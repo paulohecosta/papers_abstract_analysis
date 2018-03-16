@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29493054</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Explaining depression symptoms in patients with social anxiety disorder: Do maladaptive metacognitive beliefs play a role?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2181</ELocationID>
+            <Abstract>
+                <AbstractText>Social anxiety disorder (SAD) is a major risk factor for developing symptoms of depression. Severity of social anxiety has previously been identified as a risk factor, and cognitive models emphasize dysfunctional schemas and self-processing as the key vulnerability factors underlying general distress in SAD. However, in the metacognitive model, depressive and other symptoms are related to metacognitive beliefs. The aim of this study was therefore to test the relative contribution of metacognitions when controlling for SAD severity and factors postulated in cognitive models. In a cross-sectional design, 102 patients diagnosed with primary SAD were included. We found that negative metacognitive beliefs concerning uncontrollability and danger and low confidence in memory emerged as the only factors explaining depressive symptoms in the regression model, suggesting that metacognitive beliefs are associated with increased depressive symptoms in SAD patients.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nordahl</LastName>
+                    <ForeName>Henrik</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8502-5079</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Norwegian University of Science and Technology, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>St. Olavs Hospital, Nidaros DPS, Trondheim University Hospital, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nordahl</LastName>
+                    <ForeName>Hans M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>St. Olavs Hospital, Nidaros DPS, Trondheim University Hospital, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mental Health, Norwegian University of Science and Technology, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vogel</LastName>
+                    <ForeName>Patrick A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Norwegian University of Science and Technology, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wells</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychological Sciences, University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Greater Manchester Mental Health NHS Foundation Trust, Prestwich, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">co-morbidity</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">metacognition</Keyword>
+            <Keyword MajorTopicYN="N">metacognitive beliefs</Keyword>
+            <Keyword MajorTopicYN="N">social anxiety disorder</Keyword>
+            <Keyword MajorTopicYN="N">vulnerability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29493054</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2181</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

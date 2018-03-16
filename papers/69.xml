@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29520879</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Who stays in addiction treatment groups? Anxiety and avoidant attachment styles predict treatment retention and relapse.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2187</ELocationID>
+            <Abstract>
+                <AbstractText>Attachment styles have been shown to be an important predictor of relationship quality and well-being. They have also been linked with ability to function well in groups. Insecure attachment styles are thought to be an underlying cause of addiction and represent a target for change in one-to-one therapy. How attachment styles themselves affect group therapy for addiction is understudied. The current study addresses this gap by examining the effects of attachment styles on relapse and treatment retention amongst a population of people attending addiction therapy groups. Fifty-eight individuals in such groups completed measures of attachment anxiety and avoidance. Participants were followed up 4 weeks later, and their continued treatment attendance and relapse status were recorded. In terms of treatment retention, high anxiety/high avoidant participants had the highest retention. In terms of relapse, low anxiety/high avoidant participants had the lowest rates. These results are discussed in terms of the potentially protective effects of avoidant attachment styles during group therapy and the role of anxiety attachment in the continued maintenance of both protective and risky personal relationships.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Marshall</LastName>
+                    <ForeName>S W</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Addictive Behaviours Research, School of Applied Sciences, Division of Psychology, London South Bank University, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albery</LastName>
+                    <ForeName>I P</ForeName>
+                    <Initials>IP</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5626-8677</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Addictive Behaviours Research, School of Applied Sciences, Division of Psychology, London South Bank University, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frings</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0183-9516</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Addictive Behaviours Research, School of Applied Sciences, Division of Psychology, London South Bank University, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">addiction</Keyword>
+            <Keyword MajorTopicYN="N">anxious</Keyword>
+            <Keyword MajorTopicYN="N">attachment</Keyword>
+            <Keyword MajorTopicYN="N">avoidant</Keyword>
+            <Keyword MajorTopicYN="N">group therapy</Keyword>
+            <Keyword MajorTopicYN="N">treatment retention</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29520879</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2187</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

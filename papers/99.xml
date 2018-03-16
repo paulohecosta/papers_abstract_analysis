@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29505788</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>135</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabotropic glutamate receptor subtype 7 in the dorsal striatum oppositely modulates pain in sham and neuropathic rats.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>86-99</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30104-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.03.003</ELocationID>
+            <Abstract>
+                <AbstractText>The study investigated the role of the metabotropic glutamate receptor subtype 7 (mGluR7) in pain signalling in the dorsal striatum of sham and neuropathic rats. Supraspinal circuitries involved in the dorsal striatum control of pain were also explored. In the sham rats, microinjection of N,N'-bis(diphenylmethyl)-1,2-ethanediamine (AMN082), a selective mGluR7 positive allosteric modulator, into the dorsal striatum, facilitated pain, increased the activity of the ON cells and inhibited the activity of the OFF cells in the rostral ventromedial medulla, and decreased glutamate levels in the dorsal striatum. Conversely, AMN082 inhibited pain and the activity of the ON cells while increased the activity of the OFF cells in rats with spared nerve injury (SNI) of the sciatic nerve. AMN082 also decreased glutamate levels in the dorsal striatum of SNI rats. The effect of AMN082 on mechanical allodynia and glutamate release was blocked by 6-(2,4-dimethylphenyl)-2-ethyl-6,7-dihydro-4(5H)-benzoxazolone (ADX71743), a selective mGluR7 negative allosteric modulator. Moreover, in the sham rats, AMN082 increased the activity of total nociceptive convergent neurons in the dorsal reticular nucleus while in the SNI rats, such activity was decreased. The administration of lidocaine into the subthalamic nucleus abolished the effect of AMN082 on the total nociceptive convergent neurons in the sham rats but not in the SNI rats. Thus, the dual effect of mGluR7 in facilitating or inhibiting pain responses may be due to the recruitment of different pathways of the basal ganglia, the indirect or direct pathway, in physiological or pathological conditions, respectively.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Marabese</LastName>
+                    <ForeName>Ida</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boccella</LastName>
+                    <ForeName>Serena</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iannotta</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luongo</LastName>
+                    <ForeName>Livio</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Novellis</LastName>
+                    <ForeName>Vito</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guida</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serra</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farina</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maione</LastName>
+                    <ForeName>Sabatino</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy. Electronic address: sabatino.maione@unicampania.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palazzo</LastName>
+                    <ForeName>Enza</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Pharmacology Division, University of Campania &quot;L. Vanvitelli&quot;, 80138 Naples, Italy. Electronic address: enza.palazzo@unicampania.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dorsal striatum</Keyword>
+            <Keyword MajorTopicYN="N">Mechanical allodynia</Keyword>
+            <Keyword MajorTopicYN="N">Medullary dorsal reticular nucleus</Keyword>
+            <Keyword MajorTopicYN="N">Rostral ventromedial medulla</Keyword>
+            <Keyword MajorTopicYN="N">Spared nerve injury</Keyword>
+            <Keyword MajorTopicYN="N">mGluR7</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29505788</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30104-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.03.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

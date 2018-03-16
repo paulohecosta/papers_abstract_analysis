@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29529548</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Unhealthy lifestyle factors and depressive symptoms: A Japanese general adult population survey.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>156-161</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32715-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.093</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the relationship between unhealthy lifestyles factors and depressive symptoms among the general adult population in Japan.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">Participants were randomly selected from the Japanese general adult population. Data from 2334 people aged 20 years or older were analyzed. This cross-sectional survey was conducted in August and September 2009. Participants completed a face-to-face interview about unhealthy lifestyle factors, including lack of exercise, skipping breakfast, a poorly balanced diet, snacking between meals, insufficient sleep, current smoking, alcohol drinking, and obesity. Presence of depressive symptoms was defined as a score of ≥ 16 on the Japanese version of the Center for Epidemiologic Studies Depression Scale (CES-D). Relationships between unhealthy lifestyle factors and depressive symptoms were evaluated by multivariate logistic regression analysis adjusting for sociodemographic variables and other unhealthy lifestyle factors.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Multivariate logistic regression analysis revealed that insufficient sleep, a poorly balanced diet, snacking between meals and lack of exercise were significantly associated with the prevalence of depressive symptoms, with odds ratios ranging from 1.56 for lack of exercise to 3.98 for insufficient sleep.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Since this study was a cross-sectional study, causal relationships could not be determined.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">These results suggest that promoting a healthy lifestyle focused on sleep, food intake and exercise may be important for individuals with depressive symptoms.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Furihata</LastName>
+                    <ForeName>Ryuji</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Nihon University School of Medicine, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konno</LastName>
+                    <ForeName>Chisato</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Nihon University School of Medicine, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suzuki</LastName>
+                    <ForeName>Masahiro</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Nihon University School of Medicine, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takahashi</LastName>
+                    <ForeName>Sakae</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Nihon University School of Medicine, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaneita</LastName>
+                    <ForeName>Yoshitaka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Public Health, Department of Social Medicine, Nihon University School of Medicine, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ohida</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Public Health, Department of Social Medicine, Nihon University School of Medicine, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uchiyama</LastName>
+                    <ForeName>Makoto</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Nihon University School of Medicine, Tokyo, Japan. Electronic address: uchiyama.makoto@nihon-u.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Exercise</Keyword>
+            <Keyword MajorTopicYN="N">Food intake</Keyword>
+            <Keyword MajorTopicYN="N">Insufficient sleep</Keyword>
+            <Keyword MajorTopicYN="N">Japan</Keyword>
+            <Keyword MajorTopicYN="N">Lifestyle</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29529548</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32715-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.093</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

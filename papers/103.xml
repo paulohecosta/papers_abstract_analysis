@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29526547</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Huntingtin protein: A new option for fixing the Huntington's disease countdown clock.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30110-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.03.009</ELocationID>
+            <Abstract>
+                <AbstractText>Huntington's disease is a dreadful, incurable disorder. It springs from the autosomal dominant mutation in the first exon of the HTT gene, which encodes for the huntingtin protein (HTT) and results in progressive neurodegeneration. Thus far, all the attempted approaches to tackle the mutant HTT-induced toxicity causing this disease have failed. The mutant protein comes with the aberrantly expanded poly-glutamine tract. It is primarily to blame for the build-up of B-amyloid-like HTT aggregates, deleterious once broadened beyond the critical ∼35-37 repeats threshold. Recent experimental findings have provided valuable information on the molecular basis underlying this HTT-driven neurodegeneration. These findings indicate that the poly-glutamine siding regions and many post-translation modifications either abet or counter the poly-glutamine tract. This review provides an overall, up-to-date insight into HTT biophysics and structural biology, particularly discussing novel pharmacological options to specifically target the mutated protein and thus inhibit its functions and toxicity.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Caterino</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, University of Napoli Federico II, Via D. Montesano 49, 80131, Napoli, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Squillaro</LastName>
+                    <ForeName>Tiziana</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical, Surgical, Neurological, Metabolic Sciences, and Aging, 2nd Division of Neurology, Center for Rare Diseases, University of Campania &quot;Luigi Vanvitelli&quot;, Napoli, Italy; InterUniversity Center for Research in Neurosciences, University of Campania &quot;Luigi Vanvitelli&quot;, Napoli, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montesarchio</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>InterUniversity Center for Research in Neurosciences, University of Campania &quot;Luigi Vanvitelli&quot;, Napoli, Italy; Department of Chemical Sciences, University of Napoli Federico II, Via Cintia 21, 80126, Napoli, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giordano</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sbarro Institute for Cancer Research and Molecular Medicine, Department of Biology, Center for Biotechnology, College of Science and Technology, Temple University, Philadelphia, PA, USA; Department of Medicine, Surgery and Neuroscience University of Siena, Siena, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giancola</LastName>
+                    <ForeName>Concetta</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, University of Napoli Federico II, Via D. Montesano 49, 80131, Napoli, Italy; InterUniversity Center for Research in Neurosciences, University of Campania &quot;Luigi Vanvitelli&quot;, Napoli, Italy. Electronic address: giancola@unina.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melone</LastName>
+                    <ForeName>Mariarosa A B</ForeName>
+                    <Initials>MAB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical, Surgical, Neurological, Metabolic Sciences, and Aging, 2nd Division of Neurology, Center for Rare Diseases, University of Campania &quot;Luigi Vanvitelli&quot;, Napoli, Italy; InterUniversity Center for Research in Neurosciences, University of Campania &quot;Luigi Vanvitelli&quot;, Napoli, Italy; Sbarro Institute for Cancer Research and Molecular Medicine, Department of Biology, Center for Biotechnology, College of Science and Technology, Temple University, Philadelphia, PA, USA. Electronic address: marina.melone@unicampania.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Aptamers</Keyword>
+            <Keyword MajorTopicYN="N">Biophysics</Keyword>
+            <Keyword MajorTopicYN="N">Huntingtin</Keyword>
+            <Keyword MajorTopicYN="N">Huntington's disease</Keyword>
+            <Keyword MajorTopicYN="N">Oligonucleotide</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29526547</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30110-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.03.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

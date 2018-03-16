@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475241</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum N-Desmethylcitalopram Concentrations are Associated with the Clinical Response to Citalopram of Patients with Major Depression.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.05.22</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">Citalopram (CITA) is a widely used and well-tolerated selective serotonin reuptake inhibitor. The aim of the study was to evaluate the possible influences of serum concentrations of CITA and its major metabolite n-desmethylcitalopram (NDCITA) on the efficacy and tolerability of CITA in patients with major depressive disorder.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">The study included 46 outpatients with major depressive disorder who received CITA. The efficacy and tolerability were assessed for 6 weeks. Serum CITA and NDCITA levels were measured at the 4th week.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The HDRS17 total scores of the patients with high NDCITA and CITA &amp; NDCITA concentrations showed a more significant reduction compared to the patients with expected and low serum NDCITA and CITA &amp; NDCITA concentrations. However, we did not observe a correlation between the serum concentrations and the side effects of CITA, NDCITA, and CITA &amp; NDCITA.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Our results suggested the potential contribution of NDCITA to the antidepressant effect of CITA. Further studies involving larger clinical samples are required to confirm the impact of serum NDCITA concentrations on the efficacy of CITA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ozbey</LastName>
+                    <ForeName>Gul</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Akdeniz University Medical Faculty, Antalya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yucel</LastName>
+                    <ForeName>Berna</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Izmir State Authority, Izmir, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bodur</LastName>
+                    <ForeName>Nurdan Eren</ForeName>
+                    <Initials>NE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Erenkoy Psychiatry and Neurology Education and Research Hospital, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taycan</LastName>
+                    <ForeName>Serap Erdogan</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Haydarpasa Numune State Hospital for Research and Training, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arslan</LastName>
+                    <ForeName>Tayyibe</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Balıkesir State Hospital, Balıkesir, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cerit</LastName>
+                    <ForeName>Nazan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Family Practise Office 7, Antalya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yuksel</LastName>
+                    <ForeName>Nevzat</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Gazi University Medical Faculty, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guzey</LastName>
+                    <ForeName>Ismail Cuneyt</ForeName>
+                    <Initials>IC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research and Development, Division of Psychiatry, St Olavs University Hospital, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, Faculty of Medicine, Norwegian University of Science and Technology, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uluoglu</LastName>
+                    <ForeName>Canan</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Gazi University Medical Faculty, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Citalopram</Keyword>
+            <Keyword MajorTopicYN="N">Efficacy</Keyword>
+            <Keyword MajorTopicYN="N">Major depression</Keyword>
+            <Keyword MajorTopicYN="N">N-desmethylcitalopram</Keyword>
+            <Keyword MajorTopicYN="N">Serum concentration</Keyword>
+            <Keyword MajorTopicYN="N">Tolerability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475241</ArticleId>
+            <ArticleId IdType="pii">pi.2017.05.22</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.05.22</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

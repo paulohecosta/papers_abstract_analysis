@@ -4,58 +4,67 @@
 
 <PubmedArticle>
     <MedlineCitation Status="Publisher" Owner="NLM">
-        <PMID Version="1">29473966</PMID>
+        <PMID Version="1">29486548</PMID>
         <DateRevised>
             <Year>2018</Year>
             <Month>02</Month>
-            <Day>23</Day>
+            <Day>27</Day>
         </DateRevised>
         <Article PubModel="Print-Electronic">
             <Journal>
-                <ISSN IssnType="Electronic">1530-0277</ISSN>
-                <JournalIssue CitedMedium="Internet">
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
                     <PubDate>
                         <Year>2018</Year>
                         <Month>Feb</Month>
-                        <Day>23</Day>
+                        <Day>28</Day>
                     </PubDate>
                 </JournalIssue>
-                <Title>Alcoholism, clinical and experimental research</Title>
-                <ISOAbbreviation>Alcohol. Clin. Exp. Res.</ISOAbbreviation>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
             </Journal>
-            <ArticleTitle>Beyond Abstinence: Changes in Indices of Quality of Life with Time in Recovery in a Nationally Representative Sample of U.S. Adults.</ArticleTitle>
-            <ELocationID EIdType="doi" ValidYN="Y">10.1111/acer.13604</ELocationID>
+            <ArticleTitle>Symptom Persistence after Iron Normalization in Women with Restless Legs Syndrome.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.08.21</ELocationID>
             <Abstract>
-                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Alcohol and other drug (AOD) treatment and recovery research typically have focused narrowly on changes in alcohol/drug use (e.g., &quot;percent days abstinent&quot;) with little attention on changes in functioning or well-being. Furthermore, little is known about whether and when such changes may occur, and for whom, as people progress in recovery. Greater knowledge would improve understanding of recovery milestones and points of vulnerability and growth.</AbstractText>
-                <AbstractText Label="METHODS" NlmCategory="METHODS">National, probability-based, cross-sectional sample of U.S. adults who screened positive to the question, &quot;Did you used to have a problem with alcohol or drugs but no longer do?&quot; (Response = 63.4% from 39,809; final weighted sample n = 2,002). Linear, spline, and quadratic regressions tested relationships between time in recovery and 5 measures of well-being: quality of life, happiness, self-esteem, recovery capital, and psychological distress, over 2 temporal horizons: the first 40 years and the first 5 years, after resolving an AOD problem and tested moderators (sex, race, primary substance) of effects. Locally Weighted Scatterplot Smoothing regression was used to explore turning points.</AbstractText>
-                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In general, in the 40-year horizon there were initially steep increases in indices of well-being (and steep drops in distress), during the first 6 years, followed by shallower increases. In the 5-year horizon, significant drops in self-esteem and happiness were observed initially during the first year followed by increases. Moderator analyses examining primary substance found that compared to alcohol and cannabis, those with opioid or other drugs (e.g., stimulants) had substantially lower recovery capital in the early years; mixed race/native Americans tended to exhibit poorer well-being compared to White people; and women consistently reported lower indices of well-being over time than men.</AbstractText>
-                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Recovery from AOD problems is associated with dynamic monotonic improvements in indices of well-being with the exception of the first year where self-esteem and happiness initially decrease, before improving. In early recovery, women, certain racial/ethnic groups, and those suffering from opioid and stimulant-related problems appear to face ongoing challenges that suggest a need for greater assistance.</AbstractText>
-                <CopyrightInformation>Copyright © 2018 by the Research Society on Alcoholism.</CopyrightInformation>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The aim of this study was to determine the clinical course of restless legs syndrome (RLS) and potential risk factors for the persistence of RLS symptoms after iron normalization in women with RLS and low serum ferritin (&lt;50 μg/L).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We reviewed 39 women with RLS and iron deficiency, who achieved iron normalization after oral iron replacement for three months. Risk factors contributing to symptom persistence were estimated by logistic regression analyses. Remission was defined as no RLS symptoms for at least 6 months after the iron normalization.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Over the observation period of 2.5±1.4 years, 15 patients reported no RLS symptom whereas 24 patients still complained of RLS symptoms. The remission rate of RLS with iron replacement was 38.5%. The relative risk of symptom persistence was increased by the duration of RLS symptoms (OR: 1.88, 95% CI: 1.01-3.49) or by the age at RLS diagnosis (OR: 1.25, 95% CI: 1.01-1.56).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Almost two-third of RLS patients with iron deficiency showed persistence of the symptom even after iron normalization. Considering that longer duration of RLS symptoms and older age at RLS diagnosis were risk factors for symptom persistence, early intervention of iron deficiency in RLS is warranted.</AbstractText>
             </Abstract>
             <AuthorList CompleteYN="Y">
                 <Author ValidYN="Y">
-                    <LastName>Kelly</LastName>
-                    <ForeName>John F</ForeName>
-                    <Initials>JF</Initials>
-                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6915-0750</Identifier>
+                    <LastName>Bang</LastName>
+                    <ForeName>Young Rong</ForeName>
+                    <Initials>YR</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Recovery Research Institute, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts.</Affiliation>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Bundang Hospital, Seongnam, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Greene</LastName>
-                    <ForeName>M Claire</ForeName>
-                    <Initials>MC</Initials>
+                    <LastName>Jeon</LastName>
+                    <ForeName>Hong Jun</ForeName>
+                    <Initials>HJ</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                        <Affiliation>Department of Psychiatry, Konkuk University Medical Center, Seoul, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Bergman</LastName>
-                    <ForeName>Brandon G</ForeName>
-                    <Initials>BG</Initials>
+                    <LastName>Park</LastName>
+                    <ForeName>Hye Youn</ForeName>
+                    <Initials>HY</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Recovery Research Institute, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts.</Affiliation>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Bundang Hospital, Seongnam, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoon</LastName>
+                    <ForeName>In-Young</ForeName>
+                    <Initials>IY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropsychiatry, Seoul National University Bundang Hospital, Seongnam, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
             </AuthorList>
@@ -66,62 +75,58 @@
             <ArticleDate DateType="Electronic">
                 <Year>2018</Year>
                 <Month>02</Month>
-                <Day>23</Day>
+                <Day>28</Day>
             </ArticleDate>
         </Article>
         <MedlineJournalInfo>
-            <Country>England</Country>
-            <MedlineTA>Alcohol Clin Exp Res</MedlineTA>
-            <NlmUniqueID>7707242</NlmUniqueID>
-            <ISSNLinking>0145-6008</ISSNLinking>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
         </MedlineJournalInfo>
         <KeywordList Owner="NOTNLM">
-            <Keyword MajorTopicYN="N">Alcohol Use Disorder</Keyword>
-            <Keyword MajorTopicYN="N">Epidemiology</Keyword>
-            <Keyword MajorTopicYN="N">National</Keyword>
-            <Keyword MajorTopicYN="N">Quality of Life</Keyword>
-            <Keyword MajorTopicYN="N">Recovery</Keyword>
-            <Keyword MajorTopicYN="N">Remission</Keyword>
+            <Keyword MajorTopicYN="N">Ferritin, Iron deficiency, Persistence, Restless legs syndrome, Risk factor</Keyword>
         </KeywordList>
     </MedlineCitation>
     <PubmedData>
         <History>
             <PubMedPubDate PubStatus="received">
                 <Year>2017</Year>
-                <Month>12</Month>
-                <Day>05</Day>
+                <Month>05</Month>
+                <Day>10</Day>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="accepted">
-                <Year>2018</Year>
-                <Month>01</Month>
-                <Day>27</Day>
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>21</Day>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="entrez">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>24</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="pubmed">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>24</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="medline">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>24</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
         </History>
         <PublicationStatus>aheadofprint</PublicationStatus>
         <ArticleIdList>
-            <ArticleId IdType="pubmed">29473966</ArticleId>
-            <ArticleId IdType="doi">10.1111/acer.13604</ArticleId>
+            <ArticleId IdType="pubmed">29486548</ArticleId>
+            <ArticleId IdType="pii">pi.2017.08.21</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.08.21</ArticleId>
         </ArticleIdList>
     </PubmedData>
 </PubmedArticle>

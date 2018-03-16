@@ -3,84 +3,95 @@
 <PubmedArticleSet>
 
 <PubmedArticle>
-    <MedlineCitation Status="In-Process" Owner="NLM">
-        <PMID Version="1">29475661</PMID>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486545</PMID>
         <DateRevised>
             <Year>2018</Year>
             <Month>02</Month>
-            <Day>24</Day>
+            <Day>27</Day>
         </DateRevised>
         <Article PubModel="Print-Electronic">
             <Journal>
-                <ISSN IssnType="Electronic">1879-3363</ISSN>
-                <JournalIssue CitedMedium="Internet">
-                    <Volume>127</Volume>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
                     <PubDate>
-						<Day>1</Day>
                         <Year>2018</Year>
                         <Month>Feb</Month>
+                        <Day>28</Day>
                     </PubDate>
                 </JournalIssue>
-                <Title>Marine pollution bulletin</Title>
-                <ISOAbbreviation>Mar. Pollut. Bull.</ISOAbbreviation>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
             </Journal>
-            <ArticleTitle>Numerical modelling of temporal and spatial patterns of petroleum hydrocarbons concentration in the Bohai Sea.</ArticleTitle>
-            <Pagination>
-                <MedlinePgn>251-263</MedlinePgn>
-            </Pagination>
-            <ELocationID EIdType="pii" ValidYN="Y">S0025-326X(17)31044-5</ELocationID>
-            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.marpolbul.2017.12.017</ELocationID>
+            <ArticleTitle>The Alpha-2A Adrenergic Receptor Gene - 1291 c/g Single Nucleotide Polymorphism is Associated with the Efficacy of Methylphenidate in Treating Taiwanese Children and Adolescents with Attention-Deficit Hyperactivity Disorder.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.07.24</ELocationID>
             <Abstract>
-                <AbstractText>The discharge of petroleum hydrocarbons (PHs; ~10,000tons annually) into the Bohai Sea, a shallow inland sea in China, presents a serious threat to the marine environment. To evaluate the effects of PHs pollution and estimate the corresponding environmental capacity, we have developed a genetic algorithm-based coupled hydrodynamic/transport for simulating PHs concentration evolution and distribution from July 2006 to October 2007, with the predicted values being in good agreement with monitoring results. Importantly, the mean PHs concentrations and seasonal concentration variations were primarily determined by external loading, i.e., currents were shown to drive PHs transport, reconfigure local PHs patterns, and increase PHs concentration in water masses, even at large distances from discharge sources. The developed model could realistically simulate PHs distribution and evolution, thus being a useful tool for estimating the seasonal environmental capacity of PHs.</AbstractText>
-                <CopyrightInformation>Copyright © 2017 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The therapeutic effect of methylphenidate (MPH) in treating attention-deficit/hyperactivity disorder (ADHD) has been related to the alpha-2A adrenergic receptor (ADRA2A) gene - 1291 c/g single nucleotide polymorphism (SNP). We investigated the effect of MPH in treating Taiwanese children and adolescent with ADHD and its relation to the ADRA2A gene - 1291 c/g SNP.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">The subjects with DSM-IV ADHD diagnosis underwent a titration period to find out the dose of MPH for maintenance treatment. After 4 weeks maintenance treatment, the effect of MPH was evaluated by the Swanson, Nolan and Pelham version IV total scores. The subjects with more than 25% score reduction were referred to responders and those with ≥50% improvement were considered as better responders. The - 1291 c/g variant of the ADRA2A gene was identified by DNA sequencing and what relevance it has to the MPH response was examined by binary logistic regression analysis.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Of the 59 subjects, 44 (74.6%) were responsive to MPH treatment and the responsiveness was not shown to be associated with the ADRA2A gene - 1291 c/g SNP. As the responsive subjects were categorized as moderate responders and better responders and subjected to statistical analysis, the GG homozygotes showed a greater chance to have a better response to MPH treatment than CC homozygotes (p=0.02), with an odds ratio of 32.14 (95% CI=1.64-627.80).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The ADRA2A gene - 1291 c/g SNP is associated with the efficacy of MPH for the treatment of ADHD in Taiwanese children and adolescents. The responsive subjects bearing homozygous - 1291G allele are more likely to have a better response to MPH treatment.</AbstractText>
             </Abstract>
             <AuthorList CompleteYN="Y">
                 <Author ValidYN="Y">
-                    <LastName>Guo</LastName>
-                    <ForeName>Weijun</ForeName>
-                    <Initials>W</Initials>
+                    <LastName>Huang</LastName>
+                    <ForeName>Hui-Ching</ForeName>
+                    <Initials>HC</Initials>
                     <AffiliationInfo>
-                        <Affiliation>College of Environmental Sciences and Engineering, Dalian Maritime University, Dalian 116026, China.</Affiliation>
+                        <Affiliation>Department of Pharmacy, Yuli Hospital, Ministry of Health and Welfare, Hualien, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, School of Medicine, Tzu Chi University, Hualien, Taiwan.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
                     <LastName>Wu</LastName>
-                    <ForeName>Guoxiang</ForeName>
-                    <Initials>G</Initials>
+                    <ForeName>Lawrence Shih-Hsin</ForeName>
+                    <Initials>LS</Initials>
                     <AffiliationInfo>
-                        <Affiliation>College of Engineering, Ocean University of China, Qingdao 266100, China.</Affiliation>
+                        <Affiliation>Institute of Medical Science, Tzu Chi University, Hualien, Taiwan.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Xu</LastName>
-                    <ForeName>Tiaojian</ForeName>
-                    <Initials>T</Initials>
+                    <LastName>Yu</LastName>
+                    <ForeName>Shun-Chieh</ForeName>
+                    <Initials>SC</Initials>
                     <AffiliationInfo>
-                        <Affiliation>State Key Laboratory of Coastal and Offshore Engineering, Dalian University of Technology, Dalian 116024, China. Electronic address: tjxu@dlut.edu.cn.</Affiliation>
+                        <Affiliation>Department of General Psychiatry, Yuli Hospital, Ministry of Health and Welfare, Hualien, Taiwan.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Li</LastName>
-                    <ForeName>Xueyan</ForeName>
-                    <Initials>X</Initials>
+                    <LastName>Wu</LastName>
+                    <ForeName>Bo-Jian</ForeName>
+                    <Initials>BJ</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Coast Institute, Ludong University, Yantai 264025, China.</Affiliation>
+                        <Affiliation>Department of General Psychiatry, Yuli Hospital, Ministry of Health and Welfare, Hualien, Taiwan.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Ren</LastName>
-                    <ForeName>Xiaozhong</ForeName>
-                    <Initials>X</Initials>
+                    <LastName>Lua</LastName>
+                    <ForeName>Ahai Chang</ForeName>
+                    <Initials>AC</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Aquacultural Engineering Research &amp; Development Center, Dalian Ocean University, Dalian 116023, China.</Affiliation>
+                        <Affiliation>Department of Laboratory Medicine and Biotechnology, Tzu Chi University, Hualien, Taiwan.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Hao</LastName>
-                    <ForeName>Yanni</ForeName>
-                    <Initials>Y</Initials>
+                    <LastName>Lee</LastName>
+                    <ForeName>Shin-Min</ForeName>
+                    <Initials>SM</Initials>
                     <AffiliationInfo>
-                        <Affiliation>College of Environmental Sciences and Engineering, Dalian Maritime University, Dalian 116026, China.</Affiliation>
+                        <Affiliation>Department of Psychiatry, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Psychiatry, Taoyuan Psychiatric Center, Ministry of Health and Welfare, Taoyuan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Chao-Zong</ForeName>
+                    <Initials>CZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, School of Medicine, Tzu Chi University, Hualien, Taiwan.</Affiliation>
                     </AffiliationInfo>
                 </Author>
             </AuthorList>
@@ -89,68 +100,60 @@
                 <PublicationType UI="D016428">Journal Article</PublicationType>
             </PublicationTypeList>
             <ArticleDate DateType="Electronic">
-                <Year>2017</Year>
-                <Month>12</Month>
-                <Day>09</Day>
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
             </ArticleDate>
         </Article>
         <MedlineJournalInfo>
-            <Country>England</Country>
-            <MedlineTA>Mar Pollut Bull</MedlineTA>
-            <NlmUniqueID>0260231</NlmUniqueID>
-            <ISSNLinking>0025-326X</ISSNLinking>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
         </MedlineJournalInfo>
         <KeywordList Owner="NOTNLM">
-            <Keyword MajorTopicYN="N">Bohai Sea</Keyword>
-            <Keyword MajorTopicYN="N">Genetic algorithm</Keyword>
-            <Keyword MajorTopicYN="N">Petroleum hydrocarbons</Keyword>
-            <Keyword MajorTopicYN="N">Seasonal variability</Keyword>
+            <Keyword MajorTopicYN="N">Attention-deficit/hyperactivity disorder, Alpha-2A adrenergic receptor, Methylphenidate, Pharmacogenetics</Keyword>
         </KeywordList>
     </MedlineCitation>
     <PubmedData>
         <History>
             <PubMedPubDate PubStatus="received">
                 <Year>2016</Year>
-                <Month>10</Month>
-                <Day>17</Day>
-            </PubMedPubDate>
-            <PubMedPubDate PubStatus="revised">
-                <Year>2017</Year>
                 <Month>11</Month>
-                <Day>02</Day>
+                <Day>04</Day>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="accepted">
                 <Year>2017</Year>
-                <Month>12</Month>
-                <Day>06</Day>
+                <Month>06</Month>
+                <Day>24</Day>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="entrez">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="pubmed">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="medline">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
         </History>
-        <PublicationStatus>ppublish</PublicationStatus>
+        <PublicationStatus>aheadofprint</PublicationStatus>
         <ArticleIdList>
-            <ArticleId IdType="pubmed">29475661</ArticleId>
-            <ArticleId IdType="pii">S0025-326X(17)31044-5</ArticleId>
-            <ArticleId IdType="doi">10.1016/j.marpolbul.2017.12.017</ArticleId>
+            <ArticleId IdType="pubmed">29486545</ArticleId>
+            <ArticleId IdType="pii">pi.2017.07.24</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.07.24</ArticleId>
         </ArticleIdList>
     </PubmedData>
 </PubmedArticle>

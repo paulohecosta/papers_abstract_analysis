@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29510186</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>135</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The anxiolytic effects of cannabidiol in chronically stressed mice are mediated by the endocannabinoid system: Role of neurogenesis and dendritic remodeling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>22-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30102-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.03.001</ELocationID>
+            <Abstract>
+                <AbstractText>Repeated injections of cannabidiol (CBD), the major non-psychotomimetic compound present in the Cannabis sativa plant, attenuate the anxiogenic effects induced by Chronic Unpredictable Stress (CUS). The specific mechanisms remain to be fully understood but seem to involve adult hippocampal neurogenesis and recruitment of endocannabinoids. Here we investigated for the first time if the behavioral and pro-neurogenic effects of CBD administered concomitant the CUS procedure (14 days) are mediated by CB<sub>1</sub>, CB<sub>2</sub>or 5HT<sub>1A</sub>receptors, as well as CBD effects on dendritic remodeling and on intracellular/synaptic signaling (fatty acid amide hydrolase - FAAH, Akt, GSK3B and the synaptic proteins Synapsin Ia/b, mGluR1 and PSD95). After 14 days, CBD injections (30 mg/kg) induced anxiolytic responses in stressed animals in the elevated plus-maze and novelty suppressed feeding tests, that were blocked by pre-treatment with a CB<sub>1</sub>(AM251, 0.3 mg/kg) or CB<sub>2</sub>(AM630, 0.3 mg/kg), but not by a 5HT<sub>1A</sub>(WAY100635, 0.05 mg/kg) receptor antagonist. Golgi staining and immunofluorescence revealed that these effects were associated with an increase in hippocampal neurogenesis and spine density in the dentate gyrus of the hippocampus. AM251 and AM630 abolished the effects of CBD on spines density. However, AM630 was more effective in attenuating the pro-neurogenic effects of CBD. CBD decreased FAAH and increased p-GSK3B expression in stressed animals, which was also attenuated by AM630. These results indicate that CBD prevents the behavioral effects caused by CUS probably due to a facilitation of endocannabinoid neurotransmission and consequent CB<sub>1</sub>/CB<sub>2</sub>receptors activation, which could recruit intracellular/synaptic proteins involved in neurogenesis and dendritic remodeling.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fogaça</LastName>
+                    <ForeName>Manoela V</ForeName>
+                    <Initials>MV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Medical School of Ribeirão Preto, University of São Paulo (FMRP-USP), Bandeirantes Avenue 3900, 14049-900, Ribeirão Preto, São Paulo, Brazil; Center for Interdisciplinary Research on Applied Neurosciences (NAPNA), University of São Paulo (USP), Brazil; Department of Psychiatry, Yale University School of Medicine, 34 Park Street 06520, New Haven, CT, United States. Electronic address: manoelafogaca@usp.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campos</LastName>
+                    <ForeName>Alline C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Medical School of Ribeirão Preto, University of São Paulo (FMRP-USP), Bandeirantes Avenue 3900, 14049-900, Ribeirão Preto, São Paulo, Brazil; Center for Interdisciplinary Research on Applied Neurosciences (NAPNA), University of São Paulo (USP), Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coelho</LastName>
+                    <ForeName>Ludmila D</ForeName>
+                    <Initials>LD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Medical School of Ribeirão Preto, University of São Paulo (FMRP-USP), Bandeirantes Avenue 3900, 14049-900, Ribeirão Preto, São Paulo, Brazil; Center for Interdisciplinary Research on Applied Neurosciences (NAPNA), University of São Paulo (USP), Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duman</LastName>
+                    <ForeName>Ronald S</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Yale University School of Medicine, 34 Park Street 06520, New Haven, CT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guimarães</LastName>
+                    <ForeName>Francisco S</ForeName>
+                    <Initials>FS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Medical School of Ribeirão Preto, University of São Paulo (FMRP-USP), Bandeirantes Avenue 3900, 14049-900, Ribeirão Preto, São Paulo, Brazil; Center for Interdisciplinary Research on Applied Neurosciences (NAPNA), University of São Paulo (USP), Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anxiety</Keyword>
+            <Keyword MajorTopicYN="N">CB1 receptor</Keyword>
+            <Keyword MajorTopicYN="N">CB2 receptor</Keyword>
+            <Keyword MajorTopicYN="N">Cannabidiol</Keyword>
+            <Keyword MajorTopicYN="N">Dendritic spines</Keyword>
+            <Keyword MajorTopicYN="N">Neurogenesis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29510186</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30102-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.03.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

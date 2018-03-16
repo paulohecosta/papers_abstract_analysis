@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29499273</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Environmental enrichment, alone or in combination with various pharmacotherapies, confers marked benefits after traumatic brain injury.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30098-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.032</ELocationID>
+            <Abstract>
+                <AbstractText>Traumatic brain injury (TBI) is a significant health care issue that affects over ten million people worldwide. Treatment options are limited with numerous failures resulting from single therapies. Fortunately, several preclinical studies have shown that combination treatment strategies may afford greater improvement and perhaps can lead to successful clinical translation, particularly if one of the therapies is neurorehabilitation. The aim of this review is to highlight TBI studies that combined environmental enrichment (EE), a preclinical model of neurorehabilitation, with pharmacotherapies. A series of PubMed search strategies yielded only nine papers that fit the criteria. The consensus is that EE provides robust neurobehavioral, cognitive, and histological improvement after experimental TBI and that the combination of EE with some pharmacotherapies can lead to benefits beyond those revealed by single therapies. However, it is noted that EE can be challenged by drugs such as the acetylcholinesterase inhibitor, donepezil, and the antipsychotic drug, haloperidol, which attenuate its efficacy. These findings may help shape clinical neurorehabilitation strategies to more effectively improve patient outcome. Potential mechanisms for the EE and pharmacotherapy-induced effects are also discussed.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de la Tremblaye</LastName>
+                    <ForeName>Patricia B</ForeName>
+                    <Initials>PB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Medicine &amp; Rehabilitation, University of Pittsburgh, Pittsburgh, PA 15213, United States; Safar Center for Resuscitation Research, University of Pittsburgh, Pittsburgh, PA 15213, United States; Neurobiology, University of Pittsburgh, Pittsburgh, PA 15213, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Jeffrey P</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Medicine &amp; Rehabilitation, University of Pittsburgh, Pittsburgh, PA 15213, United States; Safar Center for Resuscitation Research, University of Pittsburgh, Pittsburgh, PA 15213, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bondi</LastName>
+                    <ForeName>Corina O</ForeName>
+                    <Initials>CO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Medicine &amp; Rehabilitation, University of Pittsburgh, Pittsburgh, PA 15213, United States; Safar Center for Resuscitation Research, University of Pittsburgh, Pittsburgh, PA 15213, United States; Neurobiology, University of Pittsburgh, Pittsburgh, PA 15213, United States; Center for Neuroscience, University of Pittsburgh, Pittsburgh, PA 15213, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kline</LastName>
+                    <ForeName>Anthony E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Medicine &amp; Rehabilitation, University of Pittsburgh, Pittsburgh, PA 15213, United States; Safar Center for Resuscitation Research, University of Pittsburgh, Pittsburgh, PA 15213, United States; Center for Neuroscience, University of Pittsburgh, Pittsburgh, PA 15213, United States; Center for the Neural Basis of Cognition, University of Pittsburgh, Pittsburgh, PA 15213, United States; Critical Care Medicine, University of Pittsburgh, Pittsburgh, PA 15213, United States; Psychology, University of Pittsburgh, Pittsburgh, PA 15213, United States. Electronic address: klineae@upmc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29499273</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30098-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.032</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

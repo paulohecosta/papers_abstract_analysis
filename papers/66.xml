@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29479767</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Treating complicated grief and posttraumatic stress in homicidally bereaved individuals: A randomized controlled trial.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2183</ELocationID>
+            <Abstract>
+                <AbstractText>Homicidally bereaved individuals may experience symptoms of Complicated Grief (CG) and Posttraumatic Stress Disorder (PTSD). This Randomized Controlled Trial examined the effectiveness of an 8-session treatment encompassing Cognitive Behavioural Therapy (CBT) and Eye Movement Desensitization and Reprocessing (EMDR) to reduce self-rated CG and PTSD symptoms in 85 Dutch adult homicidally bereaved men and women. We compared changes in symptoms of CG (assessed using the Inventory of Complicated Grief) and PTSD (assessed using the Impact of Event Scale) between an intervention group and a waitlist control group. The treatment was effective in reducing CG and PTSD symptoms, from pretreatment to posttreatment. It can be concluded that EMDR and CBT seem promising treatments for homicidally bereaved individuals for both men and women, and regardless of the time since the loss. Further research is needed to examine whether a combined treatment of EMDR and CBT together is of added value in situations where grief and trauma are intertwined over offering only one of the two treatment modalities.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van Denderen</LastName>
+                    <ForeName>Mariëtte</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8109-6494</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Psychology, University of Groningen, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Keijser</LastName>
+                    <ForeName>Jos</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Psychology, University of Groningen, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stewart</LastName>
+                    <ForeName>Roy</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Groningen, University Medical Center Groningen, Department of Health, Sciences, Community &amp; Occupational Medicine, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boelen</LastName>
+                    <ForeName>Paul A</ForeName>
+                    <Initials>PA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4125-4739</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Arq Psychotrauma Expert Group, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bereavement</Keyword>
+            <Keyword MajorTopicYN="N">cognitive behavioural therapy</Keyword>
+            <Keyword MajorTopicYN="N">eye movement desensitization and reprocessing</Keyword>
+            <Keyword MajorTopicYN="N">homicide</Keyword>
+            <Keyword MajorTopicYN="N">loss</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29479767</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2183</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

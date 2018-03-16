@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29484770</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The relationship between the therapeutic alliance and clinical outcomes in cognitive behaviour therapy for adults with depression: A meta-analytic review.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2180</ELocationID>
+            <Abstract>
+                <AbstractText>Research consistently provides evidence for the relationship between the therapeutic alliance (TA) and outcome across various therapies and presenting problems. Depression is considered the leading cause of disability worldwide, and there is substantial evidence for the efficacy for Cognitive Behaviour Therapy (CBT) in its treatment. At present, there is lack of clarity specifically about the relationship between the TA and outcome in CBT for depression. The present review is the first meta-analytic review to explore this relationship and also considering moderators. Within a random-effects model, an overall mean effect size of r = 0.26 (95% CI [.19-.32]) was found, indicating that the TA was moderately related to outcome in CBT for depression. The mean TA-outcome correlation is consistent with existing meta-analysis that looked across a broad range of presenting problems and psychological therapies. A secondary exploratory analysis of moderators suggested the TA-outcome relationship varied according to the TA rater, where the relationship was weaker for therapist raters compared with clients and observer raters. Additionally, the results indicated that the TA-outcome relationship marginally increased over the course of CBT treatment. The results of the meta-analysis are discussed in reference to the wider body of research, methodological limitations, clinical implications, and future directions for research.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cameron</LastName>
+                    <ForeName>Sarah Kate</ForeName>
+                    <Initials>SK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4329-3881</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Psychological Services, NHS Lanarkshire, Lanarkshire, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, Newcastle University, Newcastle Upon Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodgers</LastName>
+                    <ForeName>Jacqui</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, Newcastle University, Newcastle Upon Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Neuroscience, Newcastle University, Newcastle Upon Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dagnan</LastName>
+                    <ForeName>Dave</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Cumbria Partnership NHS Foundation Trust, Penrith, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">alliance</Keyword>
+            <Keyword MajorTopicYN="N">cognitive behaviour therapy</Keyword>
+            <Keyword MajorTopicYN="N">cognitive therapy</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">therapeutic alliance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29484770</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2180</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29518690</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>186</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Other drug use does not impact cognitive impairments in chronic ketamine users.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30102-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2018.01.007</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Ketamine abuse causes cognitive impairments, which negatively impact on users' abstinence, prognosis, and quality of life.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">of cognitive impairments in chronic ketamine users have been inconsistent across studies, possibly due to the small sample sizes and the confounding effects of concomitant use of other illicit drugs. This study investigated the cognitive impairment and its related factors in chronic ketamine users with a large sample size and explored the impact of another drug use on cognitive functions.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Cognitive functions, including working, verbal and visual memory and executive functions were assessed in ketamine users: 286 non-heavy other drug users and 279 heavy other drug users, and 261 healthy controls. Correlations between cognitive impairment and patterns of ketamine use were analysed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Verbal and visual memory were impaired, but working memory and executive functions were intact for all ketamine users. No significant cognitive differences were found between the two ketamine groups. Greater number of days of ketamine use in the past month was associated with worse visual memory performance in non-heavy other drug users. Higher dose of ketamine use was associated with worse short-term verbal memory in heavy other drug users.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Verbal and visual memory are impaired in chronic ketamine users. Other drug use appears to have no impact on ketamine users' cognitive performance.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Chenxi</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, The Chinese University of Hong Kong, Hong Kong Special Administrative Region.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Wai Kwong</ForeName>
+                    <Initials>WK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, The Chinese University of Hong Kong, Hong Kong Special Administrative Region. Electronic address: tangwk@cuhk.edu.hk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Hua Jun</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, The Chinese University of Hong Kong, Hong Kong Special Administrative Region.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ungvari</LastName>
+                    <ForeName>Gabor Sandor</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Notre Dame Australia, Perth, WA, 6160, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Shih-Ku</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Taipei City Psychiatric Centre, Taipei City Hospital, Taipei, 110, Taiwan; Department of Psychiatry, School of Medicine, Taipei Medical University, Taipei, 110, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Abuse</Keyword>
+            <Keyword MajorTopicYN="N">Cognition</Keyword>
+            <Keyword MajorTopicYN="N">Impairment</Keyword>
+            <Keyword MajorTopicYN="N">Ketamine</Keyword>
+            <Keyword MajorTopicYN="N">Memory</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29518690</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30102-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2018.01.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

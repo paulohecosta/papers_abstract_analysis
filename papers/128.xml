@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29504704</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Cross-Sectional Study to Assess the Modulation of Wnt Inhibitors following Anti-Epileptic Drug Therapy and their Correlation with Vitamin-D and RANKL in Indian Women with Epilepsy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.12996</ELocationID>
+            <Abstract>
+                <AbstractText>Long-term anti-epileptic drug (AED) therapy compromises bone health. Though vitamin-D deficiency is proposed to be involved, it alone is not held responsible. This accounts for investigating other mechanisms in bone accrual. Recent studies have shown modulation of inhibitors of wnt pathway, sclerostin and dickkopf-1 (DKK-1), in glucocorticoids-induced osteoporosis. We investigated whether AED monotherapy modulates wnt inhibitors in Indian women with epilepsy. Women of age &gt; 20-40 years with the diagnosis of epilepsy and receiving AEDs (carbamazepine, valproate and levetiracetam) for at least a year were enrolled. The results were compared with age-matched healthy controls with no evidence of metabolic bone disease. Women undergoing treatment with AEDs (mean duration: 50.59 ± 37.929 months) exhibited higher serum sclerostin and receptor activator of nuclear factor κ B ligand (RANKL) and lower vitamin-D (25OHD) and DKK-1 levels when compared to age-matched healthy controls. Sclerostin showed a positive correlation with RANKL, while DKK-1 presented no such relationship. However, no association was evident after adjusting for age, duration of treatment and total daily dose. Though a correlation between wnt inhibitors and RANKL could not be obtained, AEDs displayed changes in serum levels of wnt inhibitors in epileptic patients and hence these drugs may compromise bone health through a disturbance in wnt signalling mechanisms. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Parveen</LastName>
+                    <ForeName>Bushra</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmaceutical Medicine, Department of Pharmacology, School of Pharmaceutical Education and Research, Jamia Hamdard, New Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tripathi</LastName>
+                    <ForeName>Manjari</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Neurosciences Centre, All India Institute of Medical Sciences, New Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vohora</LastName>
+                    <ForeName>Divya</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmaceutical Medicine, Department of Pharmacology, School of Pharmaceutical Education and Research, Jamia Hamdard, New Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">RANKL</Keyword>
+            <Keyword MajorTopicYN="N">Anti-epileptic drugs</Keyword>
+            <Keyword MajorTopicYN="N">Bone</Keyword>
+            <Keyword MajorTopicYN="N">DKK-1</Keyword>
+            <Keyword MajorTopicYN="N">Sclerostin</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin-D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29504704</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.12996</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

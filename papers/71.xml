@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29524751</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Generalized anxiety disorder in urban China: Prevalence, awareness, and disease burden.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>89-96</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32400-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.012</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Limited published research has quantified the Generalized Anxiety Disorder (GAD) prevalence and its burden in China. This study aimed to fill in the knowledge gap and to evaluate the burden of GAD among adults in urban China.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This study utilized existing data from the China National Health and Wellness Survey (NHWS) 2012-2013. Prevalence of self-reported diagnosed and undiagnosed GAD was estimated. Diagnosed and undiagnosed GAD respondents were compared with non-anxious respondents in terms of health-related quality of life (HRQoL), resource utilization, and work productivity and activity impairment using multivariate generalized linear models. A multivariate logistic model assessed the risk factors for GAD.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The prevalence of undiagnosed/diagnosed GAD was 5.3% in urban China with only 0.5% of GAD respondents reporting a diagnosis. Compared with non-anxious respondents, both diagnosed and undiagnosed GAD respondents had significantly lower HRQoL, more work productivity and activity impairment, and greater healthcare resource utilization in the past six months. Age, gender, marital status, income level, insurance status, smoking, drinking and exercise behaviors, and comorbidity burdens were significantly associated with GAD.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">This was a patient-reported study; data are therefore subject to recall bias. The survey was limited to respondents in urban China; therefore, these results focused on urban China and may be under- or over-estimating GAD prevalence in China. Causal inferences cannot be made given the cross-sectional nature of the study.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">GAD may be substantially under-diagnosed in urban China. More healthcare resources should be invested to alleviate the burden of GAD.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health Management and Education, Capital Medical University, Beijing, China; Medical Affairs, Pfizer Investment Co., Ltd, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Shikha Satendra</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Real World Evidence and Market Access, Kantar Health, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calhoun</LastName>
+                    <ForeName>Shawna</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Outcomes, Kantar Health, Horsham, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health Management and Education, Capital Medical University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Xiahong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Real World Evidence and Market Access, Kantar Health, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Fengchi</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health Management and Education, Capital Medical University, Beijing, China. Electronic address: 1519488154@qq.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Generalized Anxiety Disorder</Keyword>
+            <Keyword MajorTopicYN="N">Health-related quality of life</Keyword>
+            <Keyword MajorTopicYN="N">Healthcare resource utilization</Keyword>
+            <Keyword MajorTopicYN="N">Prevalence</Keyword>
+            <Keyword MajorTopicYN="N">Treatment</Keyword>
+            <Keyword MajorTopicYN="N">Work productivity and activity impairment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29524751</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32400-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.012</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29498478</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interaction of Sulfonylureas with Liver Uptake Transporters OATP1B1 and OATP1B3.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.12992</ELocationID>
+            <Abstract>
+                <AbstractText>Sulfonylureas (SUs) such as glibenclamide, gliclazide, glimepiride, glipizide and gliquidone are one of the first oral medicines available for the treatment of type 2 diabetes, and are widely used for the treatment of hyperglycaemia. The hepatic transporters, organic anion transporting polypeptide 1B1 (OATP1B1) and organic anion transporting polypeptide 1B3 (OATP1B3), play an important role in the disposition of a variety of drugs by mediating their uptake from blood into hepatocytes. Drug-drug interactions mediated by OATP1B1/1B3 may result in the hepatic transporting change for drug substrates. The inhibitory effects of glibenclamide and glimepiride on sulfobromophthalein (BSP) uptake have been previously studied, and glibenclamide has been reported as the substrate of OATP1B3, but it remains unclear whether other SUs such as gliclazide, glipizide and gliquidone are substrates of OATP1B1 and OATP1B3. Here, we investigated the relationship between the five most commonly applied SUs (glibenclamide, gliclazide, glimepiride, glipizide, gliquidone) and OATP1B1 and OATP1B3. We performed uptake and inhibition assays in HEK293T cells stably expressing OATP1B1 or OATP1B3, respectively, and established a liquid chromatography mass spectrometry (LC-MS) method for the simultaneous measurement of five SUs. We demonstrated that gliclazide and glimepiride are substrates of OATP1B1 and glibenclamide and glipizide are substrates of OATP1B3. We also confirmed the interaction between these SUs and rosuvastatin. No transporting was observed for gliquidone, suggesting that it is not a substrate of either transporter. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Institute, Nanchang University, Nanchang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Jiangxi Provincial Children's Hospital, Nanchang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Institute, Nanchang University, Nanchang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Hong</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Institute, Nanchang University, Nanchang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Shibo</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Institute, Nanchang University, Nanchang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Yuqing</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Institute, Nanchang University, Nanchang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Chunhua</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology Institute, Nanchang University, Nanchang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Drug-drug interactions</Keyword>
+            <Keyword MajorTopicYN="N">Hepatic transporting</Keyword>
+            <Keyword MajorTopicYN="N">OATP1B1</Keyword>
+            <Keyword MajorTopicYN="N">OATP1B3</Keyword>
+            <Keyword MajorTopicYN="N">Sulfonylureas</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29498478</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.12992</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

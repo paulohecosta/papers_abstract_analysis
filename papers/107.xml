@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29496344</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Decline in the perceived risk of cigarette smoking between 2006 and 2015: Findings from a U.S. nationally representative sample.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30024-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2018.01.002</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Perceived risk of smoking is associated with smoking status, interest in quitting, quit attempts, and sustained quitting. Tracking and reporting of risk perceptions is integral to inform regulation and education. However, no research describes temporal changes in perceived great risk of smoking in the U.S. using nationally representative data.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data came from the 2006-2015 National Survey on Drug Use and Health (NSDUH). Time trends were assessed for the population overall, stratified by smoking status and by sociodemographic characteristics. Linear time trends of perceived great risk (versus other risk) were assessed using logistic regression, with survey year as the predictor.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Perceived great risk of smoking declined significantly among the entire population between 2006 and 2015 (73.89% versus 72.89%). Perceived great risk also decreased among all smoking statuses: daily (51.16% versus 48.19%), non-daily (64.12% versus 58.44%, former (79.57% versus 77.12%), and non-smokers (79.32% versus 77.10%). The prevalence of perceived great risk declined between 2006 and 2015 among both males and females; the rate of decline was more rapid among females (aOR = 0.98, 95% CI = 0.97, 0.98 versus aOR = 0.99, 95% CI = 0.98, 0.99). Older age, African American and Hispanic race/ethnicity, educational attainment, and non-daily, former, and never smoking statuses were positively associated with perceived great risk of smoking.</AbstractText>
+                <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">Perceived risk of smoking has declined over a 10-year period in the U.S. Declines in perceived risk indicate the need for innovative interventions to reinforce the harms associated with smoking. Differential rates of decline among males and females indicate the need for sex-specific interventions.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pacek</LastName>
+                    <ForeName>Lauren R</ForeName>
+                    <Initials>LR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, Durham, NC 27705 USA. Electronic address: lauren.pacek@duke.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McClernon</LastName>
+                    <ForeName>F Joseph</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, Durham, NC 27705 USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K01 DA043413</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">NSDUH</Keyword>
+            <Keyword MajorTopicYN="N">Perceived risk</Keyword>
+            <Keyword MajorTopicYN="N">Smoking</Keyword>
+            <Keyword MajorTopicYN="N">Tobacco</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29496344</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30024-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2018.01.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

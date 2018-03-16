@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29499274</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of dorsal hippocampus κ opioid receptors in contextual aversive memory consolidation in rats.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30095-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.029</ELocationID>
+            <Abstract>
+                <AbstractText>The main κ opioid receptors (κORs) subtypes already described (κ<sub>1</sub>ORs and κ<sub>2</sub>ORs) are expressed in brain regions involved in aversive memory consolidation, including the dorsal hippocampus (DH). However, the role of DH κORs in consolidation of aversive memories with varied intensity and specificity is still uncertain. The present study aimed to investigate this question using pharmacological agents in rats subjected to a weak, moderate or strong contextual aversive conditioning (CAC) protocol. Antagonizing DH κORs with nor-binaltorphimine (nor-BNI), immediately after, but not 6 h later, a moderate CAC leads to intensified freezing behavior in the re-exposure to the paired context. Thus, indicating that DH κORs have an inhibitory role in the consolidation of an aversive memory. Increased DH κORs expression 1 h and 3 h after the moderate CAC was also observed. This up-regulation was absent in animals only exposed to the context or to the shock, indicating that this phenomenon requires a shock-context pairing to occur. Intra-DH nor-BNI infusion induced no changes following a weak CAC, but it was able to potentiate the expression of freezing behavior in novel and unpaired context after a strong CAC, indicating that DH κORs also modulate the consolidation of a generalized memory. Moreover, infusing the κ<sub>2</sub>ORs agonist GR 89696, but not the κ<sub>1</sub>ORs agonist U-69593, into the DH reduced the conditioned freezing expression. Nor-BNI pretreatment in a sub-effective dose prevented the κ<sub>2</sub>ORs agonist effects. Altogether, the present findings provide convergent evidence that κORs activation negatively modulates contextual aversive memory consolidation in rat dorsal hippocampus.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vanz</LastName>
+                    <ForeName>Felipe</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Universidade Federal de Santa Catarina, Florianópolis, SC 88049-900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bicca</LastName>
+                    <ForeName>Maíra Assunção</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Universidade Federal de Santa Catarina, Florianópolis, SC 88049-900, Brazil; Department of Neurobiology, Northwestern University, Evanston, IL 60208, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linartevichi</LastName>
+                    <ForeName>Vagner Fagnani</ForeName>
+                    <Initials>VF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Universidade Federal de Santa Catarina, Florianópolis, SC 88049-900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giachero</LastName>
+                    <ForeName>Marcelo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Universidade Federal de Santa Catarina, Florianópolis, SC 88049-900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bertoglio</LastName>
+                    <ForeName>Leandro José</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Universidade Federal de Santa Catarina, Florianópolis, SC 88049-900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monteiro de Lima</LastName>
+                    <ForeName>Thereza C</ForeName>
+                    <Initials>TC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Universidade Federal de Santa Catarina, Florianópolis, SC 88049-900, Brazil. Electronic address: thereza.lima@ufsc.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Contextual aversive conditioning</Keyword>
+            <Keyword MajorTopicYN="N">Dorsal hippocampus</Keyword>
+            <Keyword MajorTopicYN="N">K opioid receptors</Keyword>
+            <Keyword MajorTopicYN="N">Memory consolidation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29499274</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30095-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

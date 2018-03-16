@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29527807</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CYP Induction and Xeno-Sensing Receptors PXR, CAR, AHR and PPARa at the Crossroads of Toxicokinetics and Toxicodynamics.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.13004</ELocationID>
+            <Abstract>
+                <AbstractText>Pregnane X receptor (PXR), constitutive androstane receptor (CAR), aryl hydrocarbon receptor (AHR) and peroxisome proliferator-activated receptor a (PPARa) are ligand-activated transcription factors that regulate expression of many xenobiotic metabolizing enzymes including several cytochrome P450 (CYP) enzymes. Many xenobiotics induce CYP enzymes through these intracellular receptors and consequently affect toxicokinetics and possible metabolic activation of the receptor ligands and other xenobiotics utilizing similar metabolic pathways. However, it is now apparent that the xenobiotic receptors regulate also many endogenous functions and signalling pathways, and xenobiotic exposure thus may dysregulate an array of fundamental cell functions. This MiniReview surveys and discusses the multi-faceted roles of xenobiotic receptors, for which CYP induction may serve as the first alert and possibly a biomarker for exposure to xenobiotics. With the current emergence of the Adverse Outcome Pathway (AOP) concept, these receptors are being and will be assigned as molecular initiating events or key events in numerous discrete toxicity pathways. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hakkola</LastName>
+                    <ForeName>Jukka</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Oulu, Research Unit of Biomedicine, Pharmacology and Toxicology, Faculty of Medicine, and Medical Research Center Oulu, University of Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernasconi</LastName>
+                    <ForeName>Camilla</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>European Commission Joint Research Centre, EURL ECVAM, Ispra, VA, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coecke</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>European Commission Joint Research Centre, EURL ECVAM, Ispra, VA, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richert</LastName>
+                    <ForeName>Lysiane</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KaLy-Cell, Plobsheim, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andersson</LastName>
+                    <ForeName>Tommy B</ForeName>
+                    <Initials>TB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Drug Metabolism and Pharmacokinetics, Cardiovascular and Metabolic Diseases, IMED Biotech Unit, AstraZeneca Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Pharmacology, Section of Pharmacogenetics, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pelkonen</LastName>
+                    <ForeName>Olavi</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Oulu, Research Unit of Biomedicine, Pharmacology and Toxicology, Faculty of Medicine, and Medical Research Center Oulu, University of Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AHR</Keyword>
+            <Keyword MajorTopicYN="N">CAR</Keyword>
+            <Keyword MajorTopicYN="N">PXR</Keyword>
+            <Keyword MajorTopicYN="N">PPARa</Keyword>
+            <Keyword MajorTopicYN="N">adverse outcome pathways</Keyword>
+            <Keyword MajorTopicYN="N">toxicodynamics</Keyword>
+            <Keyword MajorTopicYN="N">toxicokinetics</Keyword>
+            <Keyword MajorTopicYN="N">xeno-sensing (nuclear) receptors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29527807</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.13004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

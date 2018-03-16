@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29525698</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>186</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Self-medication of mood and anxiety disorders with marijuana: Higher in states with medical marijuana laws.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10-15</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30111-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2018.01.009</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Self-medication with drugs or alcohol is commonly reported among adults with mood or anxiety disorders, and increases the risk of developing substance use disorders. Medical marijuana laws (MML) may be associated with greater acceptance of the therapeutic value of marijuana, leading individuals to self-medicate.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study utilized data from Wave 2 of the National Epidemiologic Survey on Alcohol and Related Conditions (2004-2005). Participants were sampled from households in the general population and included adults with a mood or anxiety disorder in the past 12 months (n = 7418), and the subset of those who used marijuana and no other drug (n = 314). Weighted logistic regression models predicted the prevalence of self-medication with drugs in U.S. states with and without MML, adjusting for individual and state-level covariates. As a negative control, analyses were repeated for self-medication with alcohol.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, self-medication with drugs was 3.73 percentage points higher (95% confidence interval [CI]: 0.93-6.53) among those living in MML states (p = 0.01). For the subpopulation that only used marijuana, self-medication with drugs was 21.22 percentage points higher (95% CI: 3.91-38.53) among those living in MML states (p = 0.02). In contrast, self-medication with alcohol had nearly identical prevalence in MML and non-MML states, overall and for drinkers.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Among adults with mood or anxiety disorders, living in a medical marijuana law state is associated with self-medication with marijuana. While additional research is needed to determine the reasons for this association, clinical screening for self-medication with marijuana may be particularly important in states with medical marijuana laws.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sarvet</LastName>
+                    <ForeName>Aaron L</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, College of Physicians and Surgeons, Columbia University, 722 W 168(th) St., New York, NY 10032, USA; New York State Psychiatric Institute, 722 W 168th St., New York, NY 10032, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wall</LastName>
+                    <ForeName>Melanie M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, College of Physicians and Surgeons, Columbia University, 722 W 168(th) St., New York, NY 10032, USA; New York State Psychiatric Institute, 722 W 168th St., New York, NY 10032, USA; Department of Biostatistics, Mailman School of Public Health, Columbia University, 722 W 168th St., New York, NY 10032, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keyes</LastName>
+                    <ForeName>Katherine M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, College of Physicians and Surgeons, Columbia University, 722 W 168(th) St., New York, NY 10032, USA; Department of Epidemiology, Mailman School of Public Health, Columbia University, 722 W 168th St., New York, NY 10032, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olfson</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, College of Physicians and Surgeons, Columbia University, 722 W 168(th) St., New York, NY 10032, USA; New York State Psychiatric Institute, 722 W 168th St., New York, NY 10032, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cerdá</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency Medicine, University of California, Davis, 2315 Stockton Blvd., Sacramento, CA 95817, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hasin</LastName>
+                    <ForeName>Deborah S</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, College of Physicians and Surgeons, Columbia University, 722 W 168(th) St., New York, NY 10032, USA; New York State Psychiatric Institute, 722 W 168th St., New York, NY 10032, USA; Department of Epidemiology, Mailman School of Public Health, Columbia University, 722 W 168th St., New York, NY 10032, USA. Electronic address: dsh2@cumc.columbia.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">General population</Keyword>
+            <Keyword MajorTopicYN="N">Laws</Keyword>
+            <Keyword MajorTopicYN="N">Medical marijuana</Keyword>
+            <Keyword MajorTopicYN="N">Mood and anxiety disorders</Keyword>
+            <Keyword MajorTopicYN="N">NESARC</Keyword>
+            <Keyword MajorTopicYN="N">Self-medication</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29525698</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30111-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2018.01.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

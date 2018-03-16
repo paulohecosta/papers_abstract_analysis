@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29505787</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Thrombolytic therapies for ischemic stroke: Triumphs and future challenges.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(17)30519-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2017.11.010</ELocationID>
+            <Abstract>
+                <AbstractText>Acute stroke therapy has significantly evolved over the last two decades. The two main advances have been the approval of intravenous chemical thrombolysis in 1995, and the approval of intra-arterial mechanical thrombectomy in 2015. This has lead to significant improvement of functional outcomes in a disease known to be the first cause of disability worldwide. Subsequent studies have focused on identifying pre-treatment predictors of good treatment candidates, by developing biochemical and imaging biomarkers. Different doses and agents of thrombolysis are also being tested. In this review article, we explain the fundamentals of stroke therapy focusing on the time, recanalization and collateral perfusion factors. We then review recent advances in stroke thrombolysis, the most significant of which is the recent trials on a novel rtPA agent, tenecteplase, and approval of endovascular treatment as a standard of care. Looking ahead, defining the benefits and limitations of bridging chemical with mechanical thrombolysis is a key area of current interest.</AbstractText>
+                <CopyrightInformation>Copyright © 2017. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Moussaddy</LastName>
+                    <ForeName>Aimen</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Calgary Stroke Program, Department of Clinical Neurosciences, Cumming School of Medicine, University of Calgary, Calgary, AB, Canada. Electronic address: aimen.moussaddy@mcgill.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demchuk</LastName>
+                    <ForeName>Andrew M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Calgary Stroke Program, Department of Clinical Neurosciences, Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, AB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hill</LastName>
+                    <ForeName>Michael D</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Calgary Stroke Program, Department of Clinical Neurosciences, Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, AB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acute stroke therapy</Keyword>
+            <Keyword MajorTopicYN="N">Alteplase</Keyword>
+            <Keyword MajorTopicYN="N">Systematic review</Keyword>
+            <Keyword MajorTopicYN="N">Thrombolysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29505787</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(17)30519-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2017.11.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

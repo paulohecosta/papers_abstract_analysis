@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486549</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association Between Vitamin D Insufficiency and Metabolic Syndrome in Patients With Psychotic Disorders.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.08.30</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">This study examined the association between vitamin D and metabolic syndrome in patients with psychotic disorders.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">The study enrolled 302 community-dwelling patients with psychotic disorders. Sociodemographic and clinical characteristics, including blood pressure, physical activity, and dietary habit were gathered. Laboratory examinations included vitamin D, lipid profile, fasting plasma glucose, HbA1c, liver function, and renal function. Vitamin D insufficiency was defined as &lt;20 ng/mL. Clinical characteristics associated with vitamin D insufficiency were identified.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Among the 302 participants, 236 patients (78.1%) had a vitamin D insufficiency and 97 (32.1%) had metabolic syndrome. Vitamin D insufficiency was significantly associated with the presence of metabolic syndrome (p=0.006) and hypertension (p=0.017). Significant increases in triglycerides and alanine transaminase were observed in the group with a vitamin D insufficiency (p=0.002 and 0.011, respectively). After adjusting for physical activity and dietary habit scores, vitamin D insufficiency remained significantly associated with metabolic syndrome and hypertension.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Vitamin D insufficiency was associated with metabolic syndrome and was particularly associated with high blood pressure, although the nature, direction and implications of this association are unclear.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yoo</LastName>
+                    <ForeName>Taeyoung</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Wonsuk</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Medical Science and Engineering, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Jin-Hee</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mindlink, Gwangju Bukgu Community Mental Health Center, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ju-Yeon</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Medical Science and Engineering, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Mindlink, Gwangju Bukgu Community Mental Health Center, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gwangju Mental Health Commission and Gwangju Bukgu Community Mental Health Center, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Jae-Min</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Il-Seon</ForeName>
+                    <Initials>IS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Soo Jin</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food and Nutrition, Seoul Women's University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amminger</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Orygen, The National Centre of Excellence in Youth Mental Health and the Department of Psychiatry, The University of Melbourne, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berk</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Orygen, The National Centre of Excellence in Youth Mental Health and the Department of Psychiatry, The University of Melbourne, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoon</LastName>
+                    <ForeName>Jin-Sang</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sung-Wan</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Chonnam National University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Mindlink, Gwangju Bukgu Community Mental Health Center, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gwangju Mental Health Commission and Gwangju Bukgu Community Mental Health Center, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Vitamin D, Hypertension, Metabolic syndrome, Schizophrenia, Psychotic disorder</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29486549</ArticleId>
+            <ArticleId IdType="pii">pi.2017.08.30</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.08.30</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

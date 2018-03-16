@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29529546</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Alterations of the serum N-glycan profile in female patients with Major Depressive Disorder.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>139-147</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32173-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.082</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Glycans are short chains of saccharides linked to glycoproteins that are known to be involved in a wide range of inflammatory processes. As depression has been consistently associated with chronic low-grade inflammation, we asked whether patients with Major Depressive Disorder show alterations in the N-glycosylation pattern of serum proteins that might be linked to associated changes in inflammatory processes.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In a study cohort of 21 female patients with an acute depressive episode and 21 non-depressed female control subjects aged between 50 and 69 years, we analyzed the serum N-glycan profile by DNA Sequencer Adapted-Fluorophore Assisted Carbohydrate Electrophoresis (DSA-FACE) and assessed the serum levels of interleukin (IL)- 6, tumor necrosis factor (TNF)-a and C-reactive protein (CRP) by chemiluminescence immunoassays and nephelometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared to controls, MDD patients showed significant differences in the serum levels of several N-glycan structures. Alterations in the serum N-glycan profile were associated with depressive symptom severity and exploratory analyses revealed that they were most pronounced in MDD patients with a history of childhood sexual abuse. Furthermore, MDD patients showed higher levels of IL-6 and a trend for higher CRP levels, which were also associated with similar alterations in the serum N-glycan profile as those characteristic for MDD patients.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">The relatively small sample size and the presence of potential confounders (e.g., BMI, smoking, medication).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The results offer the first evidence that specific differences in the N-glycosylation pattern of serum proteins constitute a so far unrecognized level of biological alterations that might be involved in the immune changes associated with MDD.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boeck</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical &amp; Biological Psychology, Institute of Psychology and Education, Ulm University, Ulm, Germany. Electronic address: christina.boeck@uni-ulm.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pfister</LastName>
+                    <ForeName>Sophia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical &amp; Biological Psychology, Institute of Psychology and Education, Ulm University, Ulm, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bürkle</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Toxicology, Department of Biology, University of Konstanz, Box 628, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vanhooren</LastName>
+                    <ForeName>Valerie</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>VIB Center for Inflammation Research, Ghent, Belgium; Department of Biomedical Molecular Biology, Ghent University, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Libert</LastName>
+                    <ForeName>Claude</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>VIB Center for Inflammation Research, Ghent, Belgium; Department of Biomedical Molecular Biology, Ghent University, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salinas-Manrique</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AMEOS Clinic for Psychiatry and Psychotherapy Hildesheim, Hildesheim, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dietrich</LastName>
+                    <ForeName>Detlef E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Burghof-Klinik, Rinteln, Germany; Department of Mental Health, Hannover Medical School, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolassa</LastName>
+                    <ForeName>Iris-Tatjana</ForeName>
+                    <Initials>IT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical &amp; Biological Psychology, Institute of Psychology and Education, Ulm University, Ulm, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karabatsiakis</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical &amp; Biological Psychology, Institute of Psychology and Education, Ulm University, Ulm, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Childhood sexual abuse</Keyword>
+            <Keyword MajorTopicYN="N">DSA-FACE</Keyword>
+            <Keyword MajorTopicYN="N">Inflammation</Keyword>
+            <Keyword MajorTopicYN="N">Major Depressive Disorder</Keyword>
+            <Keyword MajorTopicYN="N">Serum N-glycan profile</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29529546</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32173-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.082</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

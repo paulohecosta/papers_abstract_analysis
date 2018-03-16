@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486419</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cross-sectional cause of death comparisons for stimulant and opioid mortality in San Francisco, 2005-2015.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>305-312</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30089-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.030</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Opioids and stimulants (e.g., cocaine or methamphetamine/amphetamine [MAMP]) are major contributors to acute substance toxicity deaths. Causes of stimulant death have received little attention. We sought to characterize and compare causes of death and significant contributing conditions among persons who died from acute opioid, cocaine, or MAMP toxicity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We identified all opioid, cocaine, or MAMP deaths in San Francisco from 2005 to 2015 through the California Electronic Death Reporting System. Multivariable logistic regression analyses were used to estimate associations between acute substance toxicity deaths (opioid versus stimulant; cocaine versus MAMP), additional reported causes of death, and significant contributing conditions most often linked to opioid and stimulant use.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">From 2005-2015, there were 1252 opioid deaths and 749 stimulant deaths. Cocaine accounted for most stimulant deaths. Decedents with cardiac or cerebral hemorrhage deaths had higher adjusted odds of death due to acute stimulant toxicity versus acute opioid toxicity (aOR = 4.79, 95%CI = 2.88-7.96, p &lt; 0.01; aOR = 58.58, 95%CI = 21.06-162.91, p &lt; 0.01, respectively); no statistically significant associations were found for cocaine compared to MAMP deaths. Significant contributing cardiac conditions were associated with higher adjusted odds of stimulant compared to opioid (aOR = 1.46, 95%CI = 1.19-1.79, p &lt; 0.01) and cocaine compared to MAMP death (aOR = 1.66, 95%CI = 1.13-2.45, p = .01).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Stimulant compared to opioid deaths tended to involve cardiac or cerebrovascular causes of death, and cocaine deaths were more likely than MAMP deaths to involve significant contributing cardiac conditions. Mounting evidence suggests that stimulant use be considered a cardio/cerebrovascular risk factor and clinical care be adjusted to address this heightened risk.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Turner</LastName>
+                    <ForeName>Caitlin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>San Francisco Department of Public Health, 25 Van Ness Avenue, Suite 500, San Francisco, CA, United States. Electronic address: caitlin.turner@sfdph.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chandrakumar</LastName>
+                    <ForeName>Dharsan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Brown University, Providence, RI, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rowe</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>San Francisco Department of Public Health, 25 Van Ness Avenue, Suite 500, San Francisco, CA, United States; School of Public Health, University of California, Berkeley, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Glenn-Milo</ForeName>
+                    <Initials>GM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>San Francisco Department of Public Health, 25 Van Ness Avenue, Suite 500, San Francisco, CA, United States; Department of Community Health Systems, School of Nursing, University of California, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riley</LastName>
+                    <ForeName>Elise D</ForeName>
+                    <Initials>ED</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of HIV, Infectious Disease and Global Health, University of California, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coffin</LastName>
+                    <ForeName>Phillip O</ForeName>
+                    <Initials>PO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>San Francisco Department of Public Health, 25 Van Ness Avenue, Suite 500, San Francisco, CA, United States; Department of Medicine, Division of HIV, Infectious Disease and Global Health, University of California, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acute substance toxicity deaths</Keyword>
+            <Keyword MajorTopicYN="N">Cocaine mortality</Keyword>
+            <Keyword MajorTopicYN="N">Methamphetamine/amphetamine mortality</Keyword>
+            <Keyword MajorTopicYN="N">Multiple causes of death</Keyword>
+            <Keyword MajorTopicYN="N">Opioid mortality</Keyword>
+            <Keyword MajorTopicYN="N">Stimulant mortality</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29486419</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30089-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.030</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

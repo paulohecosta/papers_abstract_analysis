@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29383791</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Irish clinical and counselling psychologists' experiences and views of mandatory personal therapy during training: A polarisation of ethical concerns.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2176</ELocationID>
+            <Abstract>
+                <AbstractText>Although there have been some recent changes in Ireland, the practice of mandating personal therapy during training has traditionally differed between counselling and clinical psychologists. Irish psychologists (n = 258: 170 clinical, 88 counselling) took part in a survey study of experiences and views regarding this practice. Counselling psychologists reported higher rates of lifetime and current attendance at personal therapy compared to clinical psychologists, and nearly all had experienced mandated personal therapy compared to a minority of the clinical group. However, the clinical psychologists had a high rate of attendance at personal therapy compared to that reported for their British peers, indicating a high regard for personal therapy amongst Irish clinicians despite the absence of a training mandate. Five factors were found to be independent predictors of agreement with mandating personal therapy during training-lifetime experience of personal therapy, being a counselling psychologist, experience of mandated therapy, being more recently qualified, and longer attendance at personal therapy. Thematic analysis of the psychologists' open responses regarding mandated therapy indicated that the majority believed that personal therapy was an important part of ethical, effective practice, and valuable in enhancing self-awareness and learning from the client experience. Ethical concerns about a mandate were polarised between the two psychology specialisms, more counselling psychologists emphasising the dangers and questionable efficacy of psychologists practising psychotherapy without personal therapy experience, and more clinical psychologists questioning the efficacy and ethics of imposing a mandate on trainees. Recommendations are made regarding this issue for trainers of both specialisms.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McMahon</LastName>
+                    <ForeName>Aisling</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8928-3187</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing and Human Sciences, Dublin City University, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">clinical psychology training</Keyword>
+            <Keyword MajorTopicYN="N">counselling psychology training</Keyword>
+            <Keyword MajorTopicYN="N">mandatory personal therapy</Keyword>
+            <Keyword MajorTopicYN="N">virtue and care ethics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29383791</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2176</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

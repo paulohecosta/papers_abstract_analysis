@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29518397</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>135</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Levo-corydalmine alleviates vincristine-induced neuropathic pain in mice by inhibiting an NF-kappa B-dependent CXCL1/CXCR2 signaling pathway.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>34-47</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30105-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.03.004</ELocationID>
+            <Abstract>
+                <AbstractText>Vincristine is a commonly used chemotherapeutic drug that can produce painful peripheral neuropathy. The chemokine (C-X-C motif) ligand 1 (CXCL1) and its receptor chemokine (C-X-C motif) receptor 2 (CXCR2) may mediate the resolution of this inflammation. In this study, we investigated whether and how CXCL1 contributes to vincristine-induced pain and the underlying mechanisms of levo-corydalmine (l-CDL, a tetrahydroprotoberberine). Oxycodone hydrochloride (a semisynthetic opioid analgesic) was used as positive control in vivo experiments. The results revealed that both l-CDL and oxycodone attenuated vincristine-induced persistent pain hypersensitivity and proinflammatory factors release in mice. CXCL1 and CXCR2 were increased from 6 to 14 days after vincristine administration in the spinal cord. In addition, vincristine injection induced the phosphorylation of NFκB by activating p65/RelA. To confirm these results, we demonstrated that l-CDL controlled astrocytic-released CXCL1 by inhibiting p65/RelA activation, thus acting on the CXCR2 receptor in the spinal cord. In cultured astrocytes, TNF-a elicited marked release of the chemokine CXCL1; moreover, the release was blocked by NFκB p65 small interfering RNA, NFκB inhibitor, and was dose-dependently decreased by l-CDL. However, l-CDL had no effect on CXCL1 in response to NFκB p65-silenced. In primary neurons, l-CDL indirectly reduced an increase in CXCR2 by astrocyte-conditioned medium but did not act directly on the CXCR2 site. Taken together, our data first demonstrate that an NFκB-dependent CXCL1/CXCR2 signaling pathway is involved in vincristine-induced neuropathic pain. In addition, the present findings suggest that l-CDL likely attenuates this inflammation through down-regulation of this signaling pathway.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Natural Medicines, Department of Physiology, China Pharmaceutical University, Nanjing 210009, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Yahui</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Children's Hospital of Nanjing Medical University, Nanjing, 210004, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chengyuan</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Natural Medicines, Department of Physiology, China Pharmaceutical University, Nanjing 210009, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yan</LastName>
+                    <ForeName>Yunyi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Natural Medicines, Department of Physiology, China Pharmaceutical University, Nanjing 210009, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ao</LastName>
+                    <ForeName>Luyao</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Natural Medicines, Department of Physiology, China Pharmaceutical University, Nanjing 210009, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Boyang</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology of Traditional Chinese Medicine, China Pharmaceutical University, Nanjing, 211198, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Weirong</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Natural Medicines, Department of Physiology, China Pharmaceutical University, Nanjing 210009, PR China. Electronic address: weirongfang@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jihua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology of Traditional Chinese Medicine, China Pharmaceutical University, Nanjing, 211198, PR China. Electronic address: jihualiu88@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yunman</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Natural Medicines, Department of Physiology, China Pharmaceutical University, Nanjing 210009, PR China. Electronic address: yunmanlicpu@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CXCL1</Keyword>
+            <Keyword MajorTopicYN="N">CXCR2</Keyword>
+            <Keyword MajorTopicYN="N">NF-kappa B (NFκB)</Keyword>
+            <Keyword MajorTopicYN="N">Neuropathic pain</Keyword>
+            <Keyword MajorTopicYN="N">Vincristine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29518397</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30105-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.03.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

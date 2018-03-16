@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29524872</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Illegal drug use and its correlates in San Juan, Puerto Rico.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>356-359</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30088-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.029</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Data on the prevalence and correlates of illegal drug use in Puerto Rico are now almost 20 years old.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">This study sought to estimate the 12-month prevalence of illegal and non-prescribed medical drug use in San Juan, Puerto Rico and identify sociodemographic correlates of use.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data are from a random household sample of 1510 individuals, 18-64 years of age in San Juan, Puerto Rico.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The 12-month prevalence of any illegal or non-prescribed drug use was 16.5%. Prevalence among men (20.7%) was higher than among women (12.9%; chi<sup>2</sup> = 16.308; df = 1; p &lt; .01). Prevalence for specific drugs ranged from 11.2% for marijuana to 0.2% for methadone.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">of the multiple logistic regression analysis showed that male gender (OR = 1.67, 95CI = 1.21-2.3; p &lt; .01), age 18-29 (OR = 2.39; 95CI = 1.35-4.23; p &lt; .01), age 30-39 (OR = 1.93; 95CI = 1.01-3.69; p &lt; .05), low (OR = 2.03; 95CI = 1.36-3.02; p &lt; .001) and medium (OR = 1.50; 95CL = 1.01-2.23; p &lt; .05) family cohesion/pride, and no religious preference (OR = 1.99; 95CI = 1.23-3.22; p &lt; .01) increased the odds of drug use. Annual family income of $40,000-$60,000 (OR = 0.45; 95CI = 0.21-0.93; p &lt; .05) and $60,001 and more (OR = 0.35; 95CI = 0.13-0.94; p &gt; .05) were negatively associated with drug use compared to annual income up to $10,000.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">As in many other places in the U.S., drug use in San Juan, Puerto Rico is high, affecting about 1 in 6 adults in the population. The highest prevalence is for marijuana use, which cannot be medically prescribed and of which recreational use is illegal on the island.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Caetano</LastName>
+                    <ForeName>Raul</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Prevention Research Center, Pacific Institute for Research and Evaluation, 180 Grand Avenue, Suite 1200, Oakland, CA 94612, USA. Electronic address: raul.caetano@utsouthwestern.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vaeth</LastName>
+                    <ForeName>Patrice A C</ForeName>
+                    <Initials>PAC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Prevention Research Center, Pacific Institute for Research and Evaluation, 180 Grand Avenue, Suite 1200, Oakland, CA 94612, USA. Electronic address: pvaeth@prev.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canino</LastName>
+                    <ForeName>Glorisa</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Sciences Campus, University of Puerto Rico, P.O. Box 365067, San Juan, PR 00936-5067, USA. Electronic address: glorisa.canino@upr.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Correlates</Keyword>
+            <Keyword MajorTopicYN="N">Drug use</Keyword>
+            <Keyword MajorTopicYN="N">Prevalence</Keyword>
+            <Keyword MajorTopicYN="N">Puerto Rico</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29524872</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30088-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29363837</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A case series of Acceptance and Commitment Therapy (ACT) for reducing symptom interference in functional neurological disorders.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2174</ELocationID>
+            <Abstract>
+                <AbstractText>There is limited high-quality evidence supporting psychological treatments for functional neurological disorders (FNDs), and what evidence exists suggests that the impact of such treatments could be improved. One way to increase effectiveness is to utilize approaches that can have impact across heterogeneous FND presentations. Acceptance and Commitment Therapy (ACT) targets a transdiagnostic process called psychological flexibility and is used effectively to integrate multidisciplinary treatments in other clinical contexts. Here, we present a consecutive case series (N = 8) of a relatively brief (6 to 10 sessions) ACT intervention, delivered face to face by a clinical psychologist in an outpatient neuropsychology service. Treatment aimed to reduce symptom interference and improve mood via improvements in psychological flexibility. Service users presented with a range of FND symptoms (e.g., syncope, limb paralysis, and paraesthesia). Following treatment, 5 participants showed reliable improvements in symptom interference (Work and Social Adjustment Scale), 2 to the extent of clinical significance; 4 had reliable improvements in mood (Clinical Outcomes in Routine Evaluation-10), and 2 within the range of clinical significance. There were no reliable deteriorations in symptom interference or mood. Marked variation was apparent on the measure of psychological flexibility (Acceptance and Action Questionnaire II), with 4 reliable improvements, 3 within the range of clinical significance, and also 2 reliable deteriorations. These promising results suggest that further investigation of an ACT approach to FND is warranted. Future studies should include measures of psychological flexibility with greater comprehensibility.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Graham</LastName>
+                    <ForeName>Christopher D</ForeName>
+                    <Initials>CD</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8456-9154</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Leeds Institute of Health Sciences, University of Leeds, Leeds, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Neuropsychology, Leeds Teaching Hospitals NHS Trust, St James University Hospital, Leeds, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Hara</LastName>
+                    <ForeName>Daniel J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Neuropsychology, Leeds Teaching Hospitals NHS Trust, St James University Hospital, Leeds, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kemp</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Neuropsychology, Leeds Teaching Hospitals NHS Trust, St James University Hospital, Leeds, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">acceptance and commitment therapy</Keyword>
+            <Keyword MajorTopicYN="N">conversion disorders</Keyword>
+            <Keyword MajorTopicYN="N">functional movement disorders</Keyword>
+            <Keyword MajorTopicYN="N">functional neurological disorders</Keyword>
+            <Keyword MajorTopicYN="N">mindfulness</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29363837</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2174</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

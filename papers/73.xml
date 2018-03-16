@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29525051</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Blood pressure safety of subanesthetic ketamine for depression: A report on 684 infusions.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32254-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.025</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The dissociative anesthetic agent ketamine is increasingly being utilized to treat depression, despite not having FDA (Food and Drug Administration) approval for this indication. There are many questions about the potential risks of this treatment and hence the proper setting and degree of monitoring required to ensure patient safety. There is limited data about the cardiovascular safety of ketamine when administered at subanesthetic doses to treat depression.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">66 patients in the Department of Psychiatry at Emory University received a total of 684 ketamine infusions between 2014 and 2016. Ketamine was dosed at 0.5 mg/kg body weight and infused over 40 min. Blood pressure was measured every 10 min during the infusions and every 15 min thereafter.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean age of the patients was 56.7 years, 87.9% had unipolar depression and 36.1% had essential hypertension. No infusions were discontinued due to instability of vital signs, adverse physiological consequences or acute psychotomimetic effects. The biggest increases in blood pressure were measured at 30 min (systolic 3.28 mmHg, diastolic 3.17 mmHg). Hypertensive patients had higher blood pressure peaks during the infusions. Blood pressures returned to baseline during post-infusion monitoring. There was no development of tolerance to the blood pressure elevating effects of ketamine between the first and sixth infusions.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">This is a single site, retrospective analysis, of patients who were spontaneously seeking clinical care.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The blood pressure changes observed when ketamine is administered over 40 min at 0.5 mg/kg for the treatment of depression are small, well tolerated and clinically insignificant.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Riva-Posse</LastName>
+                    <ForeName>Patricio</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University Department of Psychiatry and Behavioral Sciences, Atlanta, GA, USA. Electronic address: privapo@emory.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reiff</LastName>
+                    <ForeName>Collin R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University Department of Psychiatry and Behavioral Sciences, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Johnathan A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University Department of Psychiatry and Behavioral Sciences, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Job</LastName>
+                    <ForeName>Gregory P</ForeName>
+                    <Initials>GP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University Department of Psychiatry and Behavioral Sciences, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galendez</LastName>
+                    <ForeName>Gail C</ForeName>
+                    <Initials>GC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University Department of Psychiatry and Behavioral Sciences, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garlow</LastName>
+                    <ForeName>Steven J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Wisconsin Department of Psychiatry, Madison, WI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saah</LastName>
+                    <ForeName>Tammy C</ForeName>
+                    <Initials>TC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Integrated Clinical Neurosciences and Silicon Valley TMS, San Jose, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunlop</LastName>
+                    <ForeName>Boadie W</ForeName>
+                    <Initials>BW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University Department of Psychiatry and Behavioral Sciences, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDonald</LastName>
+                    <ForeName>William M</ForeName>
+                    <Initials>WM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University Department of Psychiatry and Behavioral Sciences, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29525051</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32254-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.025</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

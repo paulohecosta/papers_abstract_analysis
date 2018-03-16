@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29282790</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Dec</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An evaluation of a specialist firesetting treatment programme for male and female mentally disordered offenders (the FIP-MO).</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2172</ELocationID>
+            <Abstract>
+                <AbstractText>Individuals who set deliberate fires are frequently encountered by clinicians working in forensic mental health services. However, little attention has been paid to developing standardised treatment for this behaviour, and few evaluations of treatment have been conducted in forensic mental health services. This study evaluates a new standardised group cognitive behavioural treatment programme for individuals residing in forensic psychiatric hospitals who have engaged in deliberate firesetting (The Firesetting Intervention Programme for Mentally Disordered Offenders; FIP-MO). Sixty-three male and female patients with a history of deliberate firesetting commenced FIP-MO treatment. Patients who met the referral criteria for treatment but who resided at hospitals where FIP-MO treatment was not available were recruited as a treatment as usual comparison group. The treatment group completed a battery of psychometric assessments pre- and post-treatment, with the comparison group completing these at similar time points. Results showed that patients who completed the FIP-MO made significant improvements post-treatment, relative to the comparison group on fire-related measures (e.g., problematic interest and associations with fire) and anger expression. Further, effect size calculations showed that the treatment group made larger pre-post treatment shifts on the majority of outcome measures compared to the comparison group. These findings suggest that FIP-MO treatment is effective for reducing some of the key factors associated with deliberate firesetting.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tyler</LastName>
+                    <ForeName>Nichola</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3717-1941</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>CORE-FP, School of Psychology, University of Kent, Canterbury, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Forensic and Specialist Care Group, Kent and Medway NHS and Social Care Partnership Trust, Maidstone, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gannon</LastName>
+                    <ForeName>Theresa A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CORE-FP, School of Psychology, University of Kent, Canterbury, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Forensic and Specialist Care Group, Kent and Medway NHS and Social Care Partnership Trust, Maidstone, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lockerbie</LastName>
+                    <ForeName>Lona</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CORE-FP, School of Psychology, University of Kent, Canterbury, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Forensic and Specialist Care Group, Kent and Medway NHS and Social Care Partnership Trust, Maidstone, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ó Ciardha</LastName>
+                    <ForeName>Caoilte</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CORE-FP, School of Psychology, University of Kent, Canterbury, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">arson</Keyword>
+            <Keyword MajorTopicYN="N">cognitive behavioural therapy</Keyword>
+            <Keyword MajorTopicYN="N">evaluation</Keyword>
+            <Keyword MajorTopicYN="N">firesetting</Keyword>
+            <Keyword MajorTopicYN="N">offending</Keyword>
+            <Keyword MajorTopicYN="N">treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29282790</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2172</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

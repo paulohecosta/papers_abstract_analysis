@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29500953</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cigarillo sales in legalized marijuana markets in the U.S.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>347-350</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30039-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Nearly half of marijuana users in the United States also smoke cigarillos, with many using the products as marijuana &quot;blunts.&quot; The relationship between marijuana legalization and tobacco retail has not yet been examined. This study uses tobacco sales data to compare the cigarillo marketplace in states with legalized recreational marijuana to the overall U.S. marketplace in 2016.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Cigarillo sales data from 2016 were obtained from the Nielsen Research Company in the following market regions: Denver, CO; Seattle, WA; Portland, OR; and the overall U.S. Descriptive statistics highlighted differences in the market share of various product features (e.g., flavors, brand, pack size) across regions.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Characteristics such as fruit flavors, single sticks, and 2-3 packs were more popular in legal marijuana regions compared to the overall U.S. Black &amp; Mild, a brand not traditionally used for blunts, was the top brand nationally (32.8% market share), but Swisher was the top brand in legal marijuana regions. In Seattle and Portland, for example, over half of cigarillo sales were for Swisher products (59.1% and 52.1%, respectively). Cigarillo wraps (i.e., no tobacco filler) were particularly popular in Denver, constituting 11.4% all cigarillo sales versus 2.8% nationally.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cigarillo product characteristics traditionally associated with blunt use may shape the tobacco market in legal marijuana regions. As more states continue to legalize recreational marijuana, state and local governments should anticipate the potential impact on the tobacco marketplace and implement tobacco control policies (e.g., flavor bans, minimum pack sizes) that discourage product use.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Giovenco</LastName>
+                    <ForeName>Daniel P</ForeName>
+                    <Initials>DP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Sociomedical Sciences, Columbia University Mailman School of Public Health, 722 W 168th Street, New York, NY 10032, United States. Electronic address: dg2984@cumc.columbia.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spillane</LastName>
+                    <ForeName>Torra E</ForeName>
+                    <Initials>TE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Sociomedical Sciences, Columbia University Mailman School of Public Health, 722 W 168th Street, New York, NY 10032, United States. Electronic address: tes2137@cumc.columbia.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mauro</LastName>
+                    <ForeName>Christine M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Columbia University Mailman School of Public Health, 722 W 168th Street, New York, NY 10032, United States. Electronic address: cmm2212@cumc.columbia.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martins</LastName>
+                    <ForeName>Silvia S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Columbia University Mailman School of Public Health, 722 W 168th Street, New York, NY 10032, United States. Electronic address: ssm2183@cumc.columbia.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cigarillos</Keyword>
+            <Keyword MajorTopicYN="N">Marijuana</Keyword>
+            <Keyword MajorTopicYN="N">Marketing</Keyword>
+            <Keyword MajorTopicYN="N">Tobacco</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29500953</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30039-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

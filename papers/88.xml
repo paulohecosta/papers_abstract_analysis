@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486167</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>133</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>AMPA receptor GluA1 Ser831 phosphorylation is critical for nitroglycerin-induced migraine-like pain.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>462-469</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30092-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.026</ELocationID>
+            <Abstract>
+                <AbstractText>Migraine is the third most common disease worldwide; however, the mechanisms underlying migraine headache are still not fully understood. Previous studies have demonstrated that a-amino-3-hydroxy-5-methyl-4-isoxazole-propionic acid (AMPA) receptor phosphorylation plays an important role in central sensitization of pain transmission. In the present study, we observed that AMPA receptor GluA1 Ser831 phosphorylation was enhanced in the spinal trigeminal nucleus caudalis (Sp5C) after intraperitoneal injection of nitroglycerin (NTG). The NTG injection induced acute migraine-like pain including photophobia and mechanical hypersensitivity as reported previously. Interestingly, targeted mutation of GluA1 Ser831 site to prevent phosphorylation significantly inhibited NTG-induced migraine-like pain. Moreover, NTG incubation caused a robust Ca<sup>2+</sup>influx in cultured brainstem neurons, which was dramatically inhibited by GluA1 S831A (serine at the 831 site of GluA1 is mutated to alanine) phospho-deficient mutation, and treatment with 1-naphthyl acetyl spermine (NASPM), a selective Ca<sup>2+</sup>-permeable AMPA receptor channel blocker, dose-dependently blocked the NTG-evoked increase of Ca<sup>2+</sup>influx in the cultured neurons. We further found that intra-Sp5C injection of NASPM significantly inhibited NTG-produced mechanical hypersensitivity. These results suggest that AMPA receptor phosphorylation at the Ser831 site in the Sp5C is critical for NTG-induced migraine-like pain.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Yuanyuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Neurobiology, Zhengzhou University School of Medicine, Zhengzhou, Henan, China; Department of Biomedical Sciences, Texas A&amp;M University College of Dentistry, Dallas, TX, USA; School of Basic Medical Sciences, Xinxiang Medical University, Xinxiang, Henan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Sufang</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Neurobiology, Zhengzhou University School of Medicine, Zhengzhou, Henan, China; Department of Biomedical Sciences, Texas A&amp;M University College of Dentistry, Dallas, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shu</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences, Texas A&amp;M University College of Dentistry, Dallas, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xing</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Neurobiology, Zhengzhou University School of Medicine, Zhengzhou, Henan, China. Electronic address: xingy@zzu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tao</LastName>
+                    <ForeName>Feng</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Neurobiology, Zhengzhou University School of Medicine, Zhengzhou, Henan, China; Department of Biomedical Sciences, Texas A&amp;M University College of Dentistry, Dallas, TX, USA; Center for Craniofacial Research and Diagnosis, Texas A&amp;M University College of Dentistry, Dallas, TX, USA. Electronic address: tao@tamhsc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AMPA receptor phosphorylation</Keyword>
+            <Keyword MajorTopicYN="N">Migraine-like pain</Keyword>
+            <Keyword MajorTopicYN="N">Nitroglycerin</Keyword>
+            <Keyword MajorTopicYN="N">Spinal trigeminal nucleus caudalis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29486167</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30092-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

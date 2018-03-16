@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29524750</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determinants of access to health care for depression in 49 countries: A multilevel analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>80-88</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)31399-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.092</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The relative importance of individual and country-level factors influencing access to diagnosis and treatment for depression across the world is fairly unknown.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We analysed cross-national data from the WHO World Health Surveys. Depression diagnosis and access to health care were ascertained using a structured interview. Logistic Bayesian Multilevel analyses were performed to establish individual and country level factors associated with: (1) receiving a diagnosis and (2) accessing treatment for depression if a diagnosis was ascertained.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The sample included 7870 individuals from 49 countries who met ICD-10 criteria for depressive episode in the past 12 months. A third (32%) of these individuals had ever been diagnosed with depression in their lifetime. Among those diagnosed with depression, 66% reported to have ever received treatment for depression. Although individual factors were more important determinants of access to treatment for depression, country-level factors explained 27.6% of the variance in access to diagnosis and 24.1% in access to treatment. Access to treatment for depression improved with increasing country income. Female gender, better education, the presence of physical co-morbidity, more material assets, and living in urban areas were individual level determinants of better access.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Data on other contextual factors was not available. Unmet need was likely underestimated, since only lifetime treatment data was available.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study highlights major inequalities in access to a diagnosis and treatment of depression. Unlike the prevalence of depression, where contextual factors have shown to have less importance, a significant proportion of the variance in access to depression care was explained by country-level income.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Araya</LastName>
+                    <ForeName>Ricardo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Service &amp; Population Research Department, IoPPN, King's College, London, UK. Electronic address: ricardo.araya@kcl.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zitko</LastName>
+                    <ForeName>Pedro</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Service &amp; Population Research Department, IoPPN, King's College, London, UK; Department of Public Health, Faculty of Medicine, Pontificia Universidad Católica de Chile, Santiago, Chile; Unit of Healthcare Studies, Complejo Asistencial Barros Luco, Santiago, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Markkula</LastName>
+                    <ForeName>Niina</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine Clínica Alemana, Universidad del Desarrollo, Santiago, Chile; Mental Health Unit, National Institute for Health and Welfare, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rai</LastName>
+                    <ForeName>Dheeraj</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Academic Mental Health, School of Social and Community Medicine, University of Bristol, Bristol, UK; Avon and Wiltshire Mental Health Partnership NHS Trust, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Kelvyn</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Multilevel Modelling and School of Geographical Sciences, University of Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Access to Health Care</Keyword>
+            <Keyword MajorTopicYN="N">Depressive disorders</Keyword>
+            <Keyword MajorTopicYN="N">Multilevel analysis</Keyword>
+            <Keyword MajorTopicYN="N">Treatment gap</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29524750</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)31399-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.092</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

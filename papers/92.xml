@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29499275</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Altered hippocampal synaptic function in transgenic mice with increased astrocyte expression of CCL2 after withdrawal from chronic alcohol.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30097-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.031</ELocationID>
+            <Abstract>
+                <AbstractText>CNS actions of the chemokine CCL2 are thought to play a role in a variety of conditions that can have detrimental consequences to CNS function, including alcohol use disorders. We used transgenic mice that express elevated levels of CCL2 in the CNS (CCL2-tg) and their non-transgenic (non-tg) littermate control mice to investigate long-term consequences of CCL2/alcohol/withdrawal interactions on hippocampal synaptic function, including excitatory synaptic transmission, somatic excitability, and synaptic plasticity. Two alcohol exposure paradigms were tested, a two-bottle choice alcohol (ethanol) drinking protocol (2BC drinking) and a chronic intermittent alcohol (ethanol) (CIE/2BC) protocol. Electrophysiological measurements of hippocampal function were made ex vivo, starting ∼0.6 months after termination of alcohol exposure. Both alcohol exposure/withdrawal paradigms resulted in CCL2-dependent interactions that altered the effects of alcohol on synaptic function. The synaptic alterations differed for the two alcohol exposure paradigms. The 2BC drinking/withdrawal treatment had no apparent long-term consequences on synaptic responses and long-term potentiation (LTP) in hippocampal slices from non-tg mice, whereas synaptic transmission was reduced but LTP was enhanced in hippocampal slices from CCL2-tg mice. In contrast, the CIE/2BC/withdrawal treatment enhanced synaptic transmission but reduced LTP in the non-tg hippocampus, whereas there were no apparent long-term consequences to synaptic transmission and LTP in hippocampus from CCL2-tg mice, although somatic excitability was enhanced. These results support the idea that alcohol-induced CCL2 production can modulate the effects of alcohol exposure/withdrawal on synaptic function and indicate that CCL2/alcohol interactions can vary depending on the alcohol exposure/withdrawal protocol used.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bray</LastName>
+                    <ForeName>Jennifer G</ForeName>
+                    <Initials>JG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular and Cellular Neuroscience Department, The Scripps Research Institute, La Jolla, CA 92037, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reyes</LastName>
+                    <ForeName>Kenneth C</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular and Cellular Neuroscience Department, The Scripps Research Institute, La Jolla, CA 92037, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roberts</LastName>
+                    <ForeName>Amanda J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular and Cellular Neuroscience Department, The Scripps Research Institute, La Jolla, CA 92037, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gruol</LastName>
+                    <ForeName>Donna L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular and Cellular Neuroscience Department, The Scripps Research Institute, La Jolla, CA 92037, USA. Electronic address: gruol@scripps.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chronic intermittent alcohol exposure</Keyword>
+            <Keyword MajorTopicYN="N">Hippocampus</Keyword>
+            <Keyword MajorTopicYN="N">Memory and learning</Keyword>
+            <Keyword MajorTopicYN="N">Synaptic plasticity</Keyword>
+            <Keyword MajorTopicYN="N">Synaptic transmission</Keyword>
+            <Keyword MajorTopicYN="N">Two-bottle choice alcohol drinking</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29499275</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30097-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.031</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486543</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical Utility of the Korean Version of the WHO Adult Attention-Deficit/Hyperactivity Disorder Self-Report Scale Screener.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.07.10</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The aim of this study was to compare the performance of the 18-item Korean version of the World Health Organization adult attention-deficit/hyperactivity disorder self-report scale (ASRS) with the six-item ASRS Screener for predicting attention-deficit/hyperactivity disorder (ADHD) group.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">The study sample included 51 adult patients with ADHD and 158 normal controls. All participants completed the ASRS and were interviewed individually using the Mini-International Neuropsychiatric Interview. Receiver operating characteristic (ROC) curves were used to compare the ASRS (ASRS-18) with the ASRS Screener (ASRS-6) in Korean samples.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The ADHD group had higher ASRS and ASRS subscale scores than those of the control group. ROC curve analysis revealed the ASRS was more powerful to predict ADHD group than the ASRS Screener, but the ASRS Screener also had strong concordance with clinician diagnoses.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This study shows that the 18-question ASRS outperforms the six-question ASRS Screener. However, the weighted Screener is also a valid and useful screening instrument both in epidemiological surveys and in clinical settings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heo</LastName>
+                    <ForeName>Simyang</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Samsung Medical Center, Sungkyunkwan University, School of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Ji-Hae</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Samsung Medical Center, Sungkyunkwan University, School of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joung</LastName>
+                    <ForeName>Yoo-Sook</ForeName>
+                    <Initials>YS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Samsung Medical Center, Sungkyunkwan University, School of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Won-Ik</ForeName>
+                    <Initials>WI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Maumnuri Clinic, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Joo-Jin</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yuil Medical Clinic, Guri, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohn</LastName>
+                    <ForeName>Seok Han</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yonsei Psychiatric Clinic, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Soon Ah</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cheongdam Yonsei Premier Clinic, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adult ADHD, ASRS, ARSR screener, ROC</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29486543</ArticleId>
+            <ArticleId IdType="pii">pi.2017.07.10</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.07.10</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

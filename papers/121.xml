@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29481714</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Antileishmanial activity, cytotoxicity and mechanism of action of clioquinol against Leishmania infantum and Leishmania amazonensis species.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.12990</ELocationID>
+            <Abstract>
+                <AbstractText>In the present study, a quinoline derivate, clioquinol (5-chloro-7-iodoquinolin-8-ol), was evaluated against Leishmania amazonensis and L. infantum promastigotes and amastigotes. The cytotoxicity in murine macrophages and human red blood cells, as well as the efficacy in treating infected macrophages and the inhibition of infection using pre-treated parasites were also evaluated. Results showed that clioquinol inhibited L. amazonensis and L. infantum promastigotes with effective concentration 50% (EC<sub>50</sub>) values of 2.55±0.25 and 1.44±0.35 μg/mL, respectively, and of 1.88±0.13 and 0.98±0.17 μg/mL against axenic amastigotes, respectively. The cytotoxic EC<sub>50</sub>concentrations of clioquinol in murine macrophages and human red blood cells were, respectively, 255±23 and 489±20 μg/mL. With these results, the selectivity index was calculated, showing values of 99.9 and 177.1 against promastigotes, respectively, and of 135.6 and 260.1 against axenic amastigotes, respectively. Significant reductions in the percentage of infected macrophages after treatment using clioquinol were also observed, as well as when parasites were pre-treated with clioquinol and used to infect murine macrophages. The mechanism of action of clioquinol was investigated in L. amazonensis, and results revealed morphological and biochemical alterations in the clioquinol-treated parasites, including reduction in cell volume, loss of mitochondrial membrane potential, increase of the ROS production and rupture of the plasma membrane. The externalization of phosphatidylserine (PS) at the cell surface was evaluated in treated parasites that had been doubly labelled with Annexin and propidium iodide (PI). The results showed no significant difference for PS exposure when compared to the untreated control, although a significant increase in the PI/Annexin V-labeled cell population was found in the treated parasites. Results suggest that clioquinol induces a discontinuity of the parasite membrane, possibly related to a characteristic event of cell death caused by necrosis. The present study demonstrates, for the first time, the anti-leishmanial activity of clioquinol against two relevant Leishmania species, and suggests that the mitochondria of the parasites may be a possible biological target leading to parasite necrosis. Our findings suggest that clioquinol may have a potential application in treatment of leishmaniasis and further studies should be performed in infected mammalian hosts. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Sousa Vieira Tavares</LastName>
+                    <ForeName>Grasiele</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Programa de Pós-Graduação em Ciências da Saúde: Infectologia e Medicina Tropical, Faculdade de Medicina, Universidade Federal de Minas Gerais, 30130-100, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mendonça</LastName>
+                    <ForeName>Débora Vasconcelos Costa</ForeName>
+                    <Initials>DVC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Programa de Pós-Graduação em Ciências da Saúde: Infectologia e Medicina Tropical, Faculdade de Medicina, Universidade Federal de Minas Gerais, 30130-100, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lage</LastName>
+                    <ForeName>Daniela Pagliara</ForeName>
+                    <Initials>DP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Programa de Pós-Graduação em Ciências da Saúde: Infectologia e Medicina Tropical, Faculdade de Medicina, Universidade Federal de Minas Gerais, 30130-100, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>da Trindade Granato</LastName>
+                    <ForeName>Juliana</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Parasitologia, Microbiologia e Imunologia, Instituto de Ciências Biológicas, Universidade Federal de Juiz de Fora, 36036-900, Juiz de Fora, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ottoni</LastName>
+                    <ForeName>Flaviano Melo</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Produtos Farmacêuticos, Faculdade de Farmácia, Universidade Federal de Minas Gerais, 31270-901, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ludolf</LastName>
+                    <ForeName>Fernanda</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Programa de Pós-Graduação em Ciências da Saúde: Infectologia e Medicina Tropical, Faculdade de Medicina, Universidade Federal de Minas Gerais, 30130-100, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chávez-Fumagalli</LastName>
+                    <ForeName>Miguel Angel</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Programa de Pós-Graduação em Ciências da Saúde: Infectologia e Medicina Tropical, Faculdade de Medicina, Universidade Federal de Minas Gerais, 30130-100, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duarte</LastName>
+                    <ForeName>Mariana Costa</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Programa de Pós-Graduação em Ciências da Saúde: Infectologia e Medicina Tropical, Faculdade de Medicina, Universidade Federal de Minas Gerais, 30130-100, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tavares</LastName>
+                    <ForeName>Carlos Alberto Pereira</ForeName>
+                    <Initials>CAP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Bioquímica e Imunologia, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, 31270-901, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alves</LastName>
+                    <ForeName>Ricardo José</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Produtos Farmacêuticos, Faculdade de Farmácia, Universidade Federal de Minas Gerais, 31270-901, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coimbra</LastName>
+                    <ForeName>Elaine Soares</ForeName>
+                    <Initials>ES</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Parasitologia, Microbiologia e Imunologia, Instituto de Ciências Biológicas, Universidade Federal de Juiz de Fora, 36036-900, Juiz de Fora, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coelho</LastName>
+                    <ForeName>Eduardo Antonio Ferraz</ForeName>
+                    <Initials>EAF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Programa de Pós-Graduação em Ciências da Saúde: Infectologia e Medicina Tropical, Faculdade de Medicina, Universidade Federal de Minas Gerais, 30130-100, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">antileishmanial activity</Keyword>
+            <Keyword MajorTopicYN="N">clioquinol</Keyword>
+            <Keyword MajorTopicYN="N">drug discovery and development</Keyword>
+            <Keyword MajorTopicYN="N">introducion</Keyword>
+            <Keyword MajorTopicYN="N">leishmaniasis</Keyword>
+            <Keyword MajorTopicYN="N">mitochondria</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29481714</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.12990</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29504695</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Use of Dicloxacillin and Risk of Pregnancy among Users of Oral Contraceptives.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.13000</ELocationID>
+            <Abstract>
+                <AbstractText>The antibiotic dicloxacillin has been shown to induce drug-metabolizing CYP enzymes to a clinically relevant extent. In the present study, we investigated whether use of dicloxacillin confers an increased risk of unwanted pregnancy among oral contraceptive users. The study population comprised Danish women falling pregnant (1997-2015) during oral contraceptive use, defined as having filled a prescription for an oral contraceptive within 120 days both before and after the estimated date of conception. Data were analysed using a case-cross-over approach. For each woman, we assessed the use of dicloxacillin preceding the date of conception and during 10 previous control periods, and estimated the odds ratio for such unintended pregnancies associated with the use of dicloxacillin. Among 364 women using dicloxacillin prior to conception, 40 (11%) were exposed to dicloxacillin at the time of conception, yielding an odds ratio (OR) associating use of dicloxacillin to unintended pregnancy of 1.18 (95% CI 0.84-1.65). Supplementary and sensitivity analyses generally returned similar estimates, except for a slightly increased risk among users of progestogen-only oral contraceptives (OR 1.83, 95%CI 0.63-5.34). Analysis of other antibiotics as negative controls yielded results close to unity (ORs ranging from 0.83 to 1.13). In conclusion, our study found no evidence for an increased risk of oral contraceptive failure when using dicloxacillin. However, acknowledging study limitations, we suggest use of supplementary barrier methods during treatment with dicloxacillin, until our findings are confirmed in further studies. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pottegård</LastName>
+                    <ForeName>Anton</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology and Pharmacy, Department of Public Health, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Broe</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology and Pharmacy, Department of Public Health, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Biochemistry and Pharmacology, Odense University Hospital, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stage</LastName>
+                    <ForeName>Tore B</ForeName>
+                    <Initials>TB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology and Pharmacy, Department of Public Health, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brøsen</LastName>
+                    <ForeName>Kim</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology and Pharmacy, Department of Public Health, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hallas</LastName>
+                    <ForeName>Jesper</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology and Pharmacy, Department of Public Health, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Damkier</LastName>
+                    <ForeName>Per</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Research, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Biochemistry and Pharmacology, Odense University Hospital, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29504695</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.13000</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

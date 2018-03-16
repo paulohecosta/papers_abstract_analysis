@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29277943</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Dec</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Trainees' self-evaluation of their development as psychotherapists: An Italian contribution to an international collaborative study on psychotherapy training.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2165</ELocationID>
+            <Abstract>
+                <AbstractText>This study presents a pilot contribution to the new collaborative, multinational study of psychotherapy trainee development that was undertaken by the Society for Psychotherapy Research Interest Section on Therapist Training and Development (see Orlinsky, Strauss, RDnnestad, et al., ). Although the main project is longitudinal in design, this preliminary study investigated cross-sectional differences between trainees in different years of training and explored the influence of core training experiences-including supervision and personal therapy-on their perceived development as therapists. Using the trainee current-progress report that was designed for the Society for Psychotherapy Research Interest Section on Therapist Training and Development project, 90 trainees at 4 different 4-year training programs in Italy provided self-evaluations of their development and of their therapeutic work experiences. Perceived development included overall change, progress, deterioration, overcoming past limitations, and realization of potential as a therapist. Therapeutic work experiences were assessed using scales of healing and stressful involvement (Orlinsky &amp; RDnnestad, ). Year in training and support in supervision predicted perceived development and healing involvement, whereas experiencing criticism in supervision was associated with stressful involvement. Having had personal therapy, and especially ratings of benefit from personal therapy, was also associated with perceived development and healing involvement. Results are discussed with regard of their implications for psychotherapy training.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Messina</LastName>
+                    <ForeName>Irene</ForeName>
+                    <Initials>I</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5720-5782</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Philosophy, Sociology, Education and Applied Psychology, University of Padua, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro Psicologia Dinamica, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gelo</LastName>
+                    <ForeName>Omar C G</ForeName>
+                    <Initials>OCG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of History, Society and Human Studies, University of Salento, Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Psychotherapy Science, Sigmund Freud University, Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sambin</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Philosophy, Sociology, Education and Applied Psychology, University of Padua, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro Psicologia Dinamica, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bianco</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Philosophy, Sociology, Education and Applied Psychology, University of Padua, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mosconi</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro Padovano di Terapia della Famiglia, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fenelli</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Associazione di Terapia Cognitiva, Cagliari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Curto</LastName>
+                    <ForeName>Marcello</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Associazione di Terapia Cognitiva, Cagliari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gullo</LastName>
+                    <ForeName>Salvo</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Psychology, University N. Cusano, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orlinsky</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Comparative Human Development, University of Chicago, Chicago, Illinois, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">personal therapy</Keyword>
+            <Keyword MajorTopicYN="N">psychotherapy training</Keyword>
+            <Keyword MajorTopicYN="N">supervision</Keyword>
+            <Keyword MajorTopicYN="N">trainee development</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29277943</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2165</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

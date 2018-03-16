@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29282787</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Dec</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development and evaluation of the Expressions of Moral Injury Scale-Military Version.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2170</ELocationID>
+            <Abstract>
+                <AbstractText>There is consensus that military personnel can encounter a far more diverse set of challenges than researchers and clinicians have historically appreciated. Moral injury (MI) represents an emerging construct to capture behavioural, social, and spiritual suffering that may transcend and overlap with mental health diagnoses (e.g., post-traumatic stress disorder and major depressive disorder). The Expressions of Moral Injury Scale-Military Version (EMIS-M) was developed to provide a reliable and valid means for assessing the warning signs of a MI in military populations. Drawing on independent samples of veterans who had served in a war-zone environment, factor analytic results revealed 2 distinct factors related to MI expressions directed at both self (9 items) and others (8 items). These subscales generated excellent internal consistency and temporal stability over a 6-month period. When compared to measures of post-traumatic stress disorder, major depressive disorder, and other theoretically relevant constructs (e.g., forgiveness, social support, moral emotions, and combat exposure), EMIS-M scores demonstrated strong convergent, divergent, and incremental validity. In addition, although structural equation modelling findings supported a possible general MI factor in Study 2, the patterns of associations for self- and other-directed expressions yielded evidence for differential validity with varying forms of forgiveness and combat exposure. As such, the EMIS-M provides a face valid, psychometrically validated tool for assessing expressions of apparent MI subtypes in research and clinical settings. Looking ahead, the EMIS-M will hopefully advance the scientific understanding of MI while supporting innovation for clinicians to tailor evidence-based treatments and/or develop novel approaches for addressing MI in their work.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Currier</LastName>
+                    <ForeName>Joseph M</ForeName>
+                    <Initials>JM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8843-2996</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Psychology Department, University of South Alabama, Mobile, AL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farnsworth</LastName>
+                    <ForeName>Jacob K</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Veterans Affairs Eastern Colorado Health Care System, Denver, CO, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drescher</LastName>
+                    <ForeName>Kent D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Center for PTSD, VA Palo Alto Health Care System, Menlo Park, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDermott</LastName>
+                    <ForeName>Ryon C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Professional Studies, University of South Alabama, Mobile, AL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sims</LastName>
+                    <ForeName>Brook M</ForeName>
+                    <Initials>BM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Psychology Department, University of South Alabama, Mobile, AL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albright</LastName>
+                    <ForeName>David L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Social Work, University of Alabama, Tuscaloosa, AL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PTSD</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">military veteran</Keyword>
+            <Keyword MajorTopicYN="N">moral injury</Keyword>
+            <Keyword MajorTopicYN="N">trauma</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29282787</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2170</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486542</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of Body Mass Index with Suicide Behaviors, Perceived Stress, and Life Dissatisfaction in the Korean General Population.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.06.28</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The purpose of the present study was to investigate the association between Body Mass Index, suicide, perceived stress, and life dissatisfaction in a general population sample of Korean adults.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A total of 6,022 nationally representative adults aged 18 to 74 were selected using a multistage cross-sectional cluster sampling method. Questionnaires regarding suicide behaviors, perceived stress, and life satisfaction were completed by the participants. They also reported their heights and weights, which were used to calculate BMI. Psychiatric disorders were diagnosed according to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, using the Korean version of the Composite International Diagnostic Interview.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The results showed that being underweight was associated with higher risk for suicide ideation [odds ratio (OR), 1.6; 95% confidence interval (Cl), 1.18-2.05] and suicide attempt (OR, 2.0, 95% Cl, 1.23-3.31). Likewise, obesity also increased the risk of suicide ideation (OR, 1.3; 95% Cl, 1.11-1.56) although not suicide attempt. Furthermore, underweight individuals were more likely to report severe level of perceived stress (OR, 1.7; 95% Cl, 1.26-2.17) and life dissatisfaction (OR, 1.3; 95% Cl, 1.07-1.68). All of the results remained significant after adjusting for age, gender, education, and psychiatric illnesses.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This study found that being underweight is a significant risk factor for suicide and poor subjective wellbeing in Korea. It suggests that BMI status may be an important modifiable factor for improving mental health in Korea.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Haesoo</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Samsung Medical Center, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeon</LastName>
+                    <ForeName>Hong Jin</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Samsung Medical Center, Sungkyunkwan University School of Medicine, Samsung Social Mental Health Institute, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bae</LastName>
+                    <ForeName>Jae Nam</ForeName>
+                    <Initials>JN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Inha University College of Medicine, Incheon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Maeng Je</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry &amp; Behavioral Science, Institute of Human Behavioral Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Seong Jin</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Gachon Medical School, Incheon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hyochul</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Samsung Medical Center, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Jin Pyo</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Samsung Medical Center, Sungkyunkwan University School of Medicine, Samsung Social Mental Health Institute, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Suicide, Body mass index, Perceived stress, Life dissatisfaction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29486542</ArticleId>
+            <ArticleId IdType="pii">pi.2017.06.28</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.06.28</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

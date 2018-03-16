@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486420</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Trends in incidence of neonatal abstinence syndrome in Canada and associated healthcare resource utilization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>313-321</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30077-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.12.019</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Neonatal abstinence syndrome (NAS) is a collection of symptoms that occurs primarily due to antenatal opioid exposure. National data on incidence, hospital resource utilization, and demographic features of NAS have not been previously described for Canada.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Secondary analysis was performed with data from hospitals in all Canadian provinces and territories, excluding Quebec. Infants with NAS were identified by searching for ICD-10-CA code P96.1 in the Canadian Institute for Health Information's discharge abstract database. We examined incidence, hospital beds occupied per day, length of stay (fiscal 2003-2014), hospital costs, and demographic features (due to data availability, limited to fiscal 2010-2014).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The incidence of NAS in Canada tripled between 2003 and 2014 (1.8-5.4 per 1000 live births), with an average annual increase of 0.33 cases per 1000 live births (95% CI 0.31, 0.34). Provincial incidence in 2014 ranged from 2.7 (Alberta) to 9.7 (New Brunswick) per 1000 live births. Between 2010 and 2014 total and mean per-patient costs rose from $15.7 to $26.9 million CAD and $14,629 to $17,367 CAD, respectively, with substantial inter-provincial variation in expenditure. Mean length of stay was 14.4 days in 2003 and 14.8 days in 2014, and beds occupied per day rose from 19.7 in 2003 to 69.4 in 2014.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The incidence of NAS is increasing in Canada with associated rise in healthcare resource utilization. Inter-provincial variability in incidence and resource utilization underscores the need to further explore best practices for cost-effective prevention and management of NAS.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Filteau</LastName>
+                    <ForeName>Jacqueline</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, Queen's University, 76 Stuart Street, Kingston, Ontario, Canada; Pediatrics Program, Kingston General Hospital, 76 Stuart Street, Kingston, Ontario, Canada. Electronic address: em8jnf@queensu.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coo</LastName>
+                    <ForeName>Helen</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, Queen's University, 76 Stuart Street, Kingston, Ontario, Canada; Pediatrics Program, Kingston General Hospital, 76 Stuart Street, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dow</LastName>
+                    <ForeName>Kimberly</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, Queen's University, 76 Stuart Street, Kingston, Ontario, Canada; Pediatrics Program, Kingston General Hospital, 76 Stuart Street, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Maternal substance use</Keyword>
+            <Keyword MajorTopicYN="N">Neonatal abstinence syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Opioid use</Keyword>
+            <Keyword MajorTopicYN="N">Substance use in pregnancy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29486420</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30077-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.12.019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

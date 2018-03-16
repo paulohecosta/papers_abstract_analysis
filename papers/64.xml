@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29446195</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Attachment and therapeutic alliance in psychological therapy for people with recent onset psychosis who use cannabis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2178</ELocationID>
+            <Abstract>
+                <AbstractText>We examine associations between client attachment style and therapeutic alliance in a 3-arm randomized controlled trial of brief motivational interviewing and cognitive-behavioural therapy compared with longer term motivational interviewing and cognitive-behavioural therapy or standard care alone. Client self-report measures of attachment style were completed at baseline, and both clients and therapists in the treatment arms of the trial completed alliance measures 1 month into therapy. We found that insecure-anxious attachment was positively associated with therapist-rated alliance, whereas clients with insecure-avoidant attachment were more likely to report poorer bond with therapist. There was no evidence that client attachment significantly predicted clinical or substance misuse outcomes either directly or indirectly via alliance. Nor evidence that the length of therapy offered interacted with attachment to predict alliance.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Berry</LastName>
+                    <ForeName>Katherine</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7399-5462</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychology and Mental Health, School of Health Sciences, University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palmer</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Health Research, School of Health and Medicine, Lancaster University, Lancaster, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gregg</LastName>
+                    <ForeName>Lynsey</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychology and Mental Health, School of Health Sciences, University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrowclough</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychology and Mental Health, School of Health Sciences, University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lobban</LastName>
+                    <ForeName>Fiona</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6594-4350</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Health Research, School of Health and Medicine, Lancaster University, Lancaster, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">alliance</Keyword>
+            <Keyword MajorTopicYN="N">attachment</Keyword>
+            <Keyword MajorTopicYN="N">cognitive-behavioural therapy</Keyword>
+            <Keyword MajorTopicYN="N">motivational interviewing</Keyword>
+            <Keyword MajorTopicYN="N">psychosis</Keyword>
+            <Keyword MajorTopicYN="N">substance misuse</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29446195</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2178</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

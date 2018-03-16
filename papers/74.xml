@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29525052</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Are individuals diagnosed with social anxiety disorder successful in regulating their emotions? A mixed-method investigation using self-report, subjective, and event-related potentials measures.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32361-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.029</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Models of social anxiety emphasize the role of emotion dysregulation, but the nature of these impairments needs clarification.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We utilized a mixed-method approach to examine impairments in cognitive reappraisal and expressive suppression in social anxiety disorder. Forty nine treatment-seeking individuals diagnosed with social anxiety disorder and 35 healthy controls completed self-reports and a lab-based task of suppression and reappraisal. Unpleasantness ratings and event-related potentials (ERPs) were collected while participants regulated their emotions in response to shame-arousing pictures. ERP analyses focused on the late positive potential, a measure of increased attention to emotional stimuli that is reduced during emotion regulation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Participants with social anxiety reported less frequent and effective use of reappraisal and more frequent and effective use of suppression than controls. Counter to most models and our hypotheses, participants with social anxiety were more successful than controls in lab-based reappraisal as measured by unpleasantness ratings, but no differences emerged for ERPs. No differences were found in measures of lab-based suppression.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Use of standardized, and not participant-generated, materials in the lab-based task of emotion regulation may limit the generalizability of the findings.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Subjective appraisals of self-efficacy and frequency suggest strong impairments in emotion-regulation in social anxiety that are not revealed in the laboratory. Models and treatment protocols should specify the exact nature of emotion dyregulation in social anxiety, highlighting difficulties in implementation of potentially intact emotion regulation abilities.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kivity</LastName>
+                    <ForeName>Yogev</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, The Hebrew University of Jerusalem, Mount Scopus , Jerusalem 91905, Israel. Electronic address: yogev.kivity@mail.huji.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huppert</LastName>
+                    <ForeName>Jonathan D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, The Hebrew University of Jerusalem, Mount Scopus , Jerusalem 91905, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cognitive reappraisal</Keyword>
+            <Keyword MajorTopicYN="N">Emotion regulation</Keyword>
+            <Keyword MajorTopicYN="N">Event related potentials</Keyword>
+            <Keyword MajorTopicYN="N">Expressive suppression</Keyword>
+            <Keyword MajorTopicYN="N">Social anxiety</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29525052</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32361-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

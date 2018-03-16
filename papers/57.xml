@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29315965</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Do health-related factors predict major depression? A longitudinal epidemiologic study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2171</ELocationID>
+            <Abstract>
+                <AbstractText>Major depressive disorder (MDD) is a leading cause of global disease burden. Hence, examining the role of risk and protective factors for MDD is an important target in psychological research. Various studies showed that obesity, smoking, and alcohol consumption are related to depressive symptoms. In contrast, physical activity has been found to be a protective factor. The present population-based study tested whether these health-related factors are prospectively associated with incidence of MDD. Data were taken from the Dresden Predictor Study, which was designed to investigate risk and protective factors of mental health in young women. It included two assessments approximately 17 months apart. Results of single logistic regression analyses showed that being overweight, being a smoker, and being in a high-risk drinking group at baseline were predictive of developing MDD at follow-up. Engaging in regular physical activity and having good physical health were found to be protective factors of MDD. However, being in a medium-risk drinking group was not predictive of incidence of MDD, and irregular physical activity was not a protective factor. This is the first prospective, longitudinal study to show that obesity, smoking, and high-risk drinking are predictive of new onsets of MDD and that physical health is a protective factor. These data provide promising avenues for future research.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiao Chi</ForeName>
+                    <Initials>XC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1243-4925</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Mental Health Research and Treatment Center, Department of Psychology, Ruhr-Universität Bochum, Bochum, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Woud</LastName>
+                    <ForeName>Marcella L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mental Health Research and Treatment Center, Department of Psychology, Ruhr-Universität Bochum, Bochum, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Becker</LastName>
+                    <ForeName>Eni S</ForeName>
+                    <Initials>ES</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Science Institute, Radboud University Nijmegen, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Margraf</LastName>
+                    <ForeName>Jürgen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mental Health Research and Treatment Center, Department of Psychology, Ruhr-Universität Bochum, Bochum, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">major depressive disorder (MDD)</Keyword>
+            <Keyword MajorTopicYN="N">overweight</Keyword>
+            <Keyword MajorTopicYN="N">physical activity</Keyword>
+            <Keyword MajorTopicYN="N">protective factors</Keyword>
+            <Keyword MajorTopicYN="N">risk factors</Keyword>
+            <Keyword MajorTopicYN="N">smoking</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29315965</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2171</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

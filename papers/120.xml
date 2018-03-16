@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29476697</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Salbutamol-Induced Decrease in Augmentation Index Is Related to the Parallel Increase in Heart Rate.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.12988</ELocationID>
+            <Abstract>
+                <AbstractText>The change in augmentation index following salbutamol inhalation has been applied to evaluate endothelial function. We examined the contribution of salbutamol-induced increase in heart rate to the observed decrease in augmentation index. Haemodynamics were recorded using whole body impedance cardiography and continuous pulse-wave analysis from tonometric radial blood pressure. All subjects (n=335, mean age 46, body mass index 26, 48% men) were without medications with cardiovascular influences. The effects of salbutamol inhalation (0.4 mg) versus the endothelium-independent agent nitroglycerin resoriblet (0.25 mg) were examined during passive head-up tilt, as the haemodynamic influences of these compounds depend on body position. Salbutamol decreased augmentation index by ~3-4% units in supine and upright positions. Although salbutamol moderately increased cardiac index (+4.5%), and decreased systemic vascular resistance (-8.5%), the significant haemodynamic explanatory factors for decreased augmentation index in multivariate analysis were increased supine heart rate, and increased upright heart rate and decreased ejection duration (p&lt;0.001 for all, r<sup>2</sup>=0.36-0.37). Sublingual nitroglycerin decreased supine and upright augmentation index by ~15% units and ~23% units, respectively. The haemodynamic explanatory factors for these changes in multivariate analysis were increased heart rate, reduced ejection duration and reduced systemic vascular resistance (p≤0.021 for all, r<sup>2</sup>=0.22-0.34). In conclusion, the lowering influence of salbutamol on augmentation index may be largely explained by increased heart rate, suggesting that this effect may not predominantly reflect endothelial function. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tikkakoski</LastName>
+                    <ForeName>Antti J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Tampere University Hospital, P.O. Box 200033521, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kangas</LastName>
+                    <ForeName>Pauliina</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suojanen</LastName>
+                    <ForeName>Lauri</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tahvanainen</LastName>
+                    <ForeName>Anna M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eräranta</LastName>
+                    <ForeName>Arttu</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kähönen</LastName>
+                    <ForeName>Mika A P</ForeName>
+                    <Initials>MAP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Tampere University Hospital, P.O. Box 200033521, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sipilä</LastName>
+                    <ForeName>Kalle</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Tampere University Hospital, P.O. Box 200033521, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mustonen</LastName>
+                    <ForeName>Jukka T</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Tampere University Hospital, P.O. Box 2000, 33521, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pörsti</LastName>
+                    <ForeName>Ilkka H</ForeName>
+                    <Initials>IH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Life Sciences, University of Tampere, 33014, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Tampere University Hospital, P.O. Box 2000, 33521, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Augmentation index</Keyword>
+            <Keyword MajorTopicYN="N">haemodynamics</Keyword>
+            <Keyword MajorTopicYN="N">pulse wave analysis</Keyword>
+            <Keyword MajorTopicYN="N">salbutamol</Keyword>
+            <Keyword MajorTopicYN="N">systemic vascular resistance</Keyword>
+            <Keyword MajorTopicYN="N">tilt-table test</Keyword>
+            <Keyword MajorTopicYN="N">whole body impedance cardiography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29476697</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.12988</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

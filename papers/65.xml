@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29473698</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A proof-of-concept pilot randomized comparative trial of brief Internet-based compassionate mind training and cognitive-behavioral therapy for perinatal and intending to become pregnant women.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2185</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Depression is a prevalent and costly mental health problem that affects women as well as their larger communities, with substantial impacts on mother and infant during childbearing years. Face-to-face care has not adequately addressed this global concern due to difficulties in scaling these resources. Internet interventions, which can provide psychological tools to those lacking adequate access, show promise in filling this void.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">We conducted a 2-condition proof-of-concept pilot randomized trial comparing brief Internet-based cognitive behavioural therapy (CBT) and brief Internet-based compassionate mind training (CMT) for women who are currently pregnant, became pregnant within the last year, and intend to become pregnant in the future.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that, although CMT and CBT demonstrated near equivalence in improving affect, self-reassurance, self-criticism, and self-compassion, CMT showed superiority to CBT in reducing depression and anxiety symptoms.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">These findings provide a compelling initial argument for the use of CMT as an avenue for addressing problems associated with negative affect. Implications, limitations, and future directions along this line of research will also be discussed.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kelman</LastName>
+                    <ForeName>Alex R</ForeName>
+                    <Initials>AR</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0780-7619</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pacific Graduate School of Psychology, Palo Alto University, Palo Alto, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Evare</LastName>
+                    <ForeName>Benjamin S</ForeName>
+                    <Initials>BS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pacific Graduate School of Psychology, Palo Alto University, Palo Alto, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrera</LastName>
+                    <ForeName>Alinne Z</ForeName>
+                    <Initials>AZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pacific Graduate School of Psychology, Palo Alto University, Palo Alto, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for International Internet Interventions for Health (i4health), Palo Alto, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muñoz</LastName>
+                    <ForeName>Ricardo F</ForeName>
+                    <Initials>RF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pacific Graduate School of Psychology, Palo Alto University, Palo Alto, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for International Internet Interventions for Health (i4health), Palo Alto, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of California, San Francisco at Zuckerberg San Francisco General Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilbert</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Derby, Derby, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Compassionate Mind Foundation, Derby, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Amazon Mechanical Turk</Keyword>
+            <Keyword MajorTopicYN="N">Internet-based interventions</Keyword>
+            <Keyword MajorTopicYN="N">comparative trial</Keyword>
+            <Keyword MajorTopicYN="N">perinatal depression</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29473698</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2185</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

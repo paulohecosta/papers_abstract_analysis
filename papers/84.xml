@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29529550</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of transcranial direct current stimulation for treating depression: A modeling study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>164-173</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32474-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.077</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Transcranial direct current stimulation (tDCS) above the left dorsolateral prefrontal cortex (lDLPFC) has been widely used to improve symptoms of major depressive disorder (MDD). However, the effects of different stimulation protocols in the entire frontal lobe have not been investigated in a large sample including patient data.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We used 38 head models created from structural magnetic resonance imaging data of 19 healthy adults and 19 MDD patients and applied computational modeling to simulate the spatial distribution of tDCS-induced electric fields (EFs) in 20 frontal regions. We evaluated effects of seven bipolar and two multi-electrode 4 × 1 tDCS protocols.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For bipolar montages, EFs were of comparable strength in the lDLPFC and in the medial prefrontal cortex (MPFC). Depending on stimulation parameters, EF cortical maps varied to a considerable degree, but were found to be similar in controls and patients. 4 × 1 montages produced more localized, albeit weaker effects.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">White matter anisotropy was not modeled. The relationship between EF strength and clinical response to tDCS could not be evaluated.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In addition to lDLPFC stimulation, excitability changes in the MPFC should also be considered as a potential mechanism underlying clinical efficacy of bipolar montages. MDD-associated anatomical variations are not likely to substantially influence current flow. Individual modeling of tDCS protocols can substantially improve cortical targeting. We make recommendations for future research to explicitly test the contribution of lDLPFC vs. MPFC stimulation to therapeutic outcomes of tDCS in this disorder.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Csifcsák</LastName>
+                    <ForeName>Gábor</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, UiT The Arctic University of Norway, Tromsø, Norway. Electronic address: gabor.csifcsak@uit.no.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boayue</LastName>
+                    <ForeName>Nya Mehnwolo</ForeName>
+                    <Initials>NM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, UiT The Arctic University of Norway, Tromsø, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Puonti</LastName>
+                    <ForeName>Oula</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Magnetic Resonance, Department of Electrical Engineering, Technical University of Denmark, Kgs Lyngby, Denmark; Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thielscher</LastName>
+                    <ForeName>Axel</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Magnetic Resonance, Department of Electrical Engineering, Technical University of Denmark, Kgs Lyngby, Denmark; Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mittner</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, UiT The Arctic University of Norway, Tromsø, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Computational modeling</Keyword>
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Dorsolateral prefrontal cortex</Keyword>
+            <Keyword MajorTopicYN="N">Medial prefrontal cortex</Keyword>
+            <Keyword MajorTopicYN="N">Transcranial direct current stimulation</Keyword>
+            <Keyword MajorTopicYN="N">tDCS</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29529550</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32474-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.077</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

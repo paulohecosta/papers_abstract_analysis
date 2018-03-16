@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29529547</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The use of polygenic risk scores to identify phenotypes associated with genetic risk of bipolar disorder and depression: A systematic review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>148-155</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32373-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.005</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Identifying the phenotypic manifestations of increased genetic liability for depression (MDD) and bipolar disorder (BD) can enhance understanding of their aetiology. The polygenic risk score (PRS) derived using data from genome-wide-association-studies can be used to explore how genetic risk is manifest in different samples.</AbstractText>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">In this systematic review, we review studies that examine associations between the MDD and BD polygenic risk scores and phenotypic outcomes.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Following PRISMA guidelines, we searched EMBASE, Medline and PsycINFO (from August 2009 - 14th March 2016) and references of included studies. Study inclusion was based on predetermined criteria and data were extracted independently and in duplicate.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Twenty-five studies were included. Overall, both polygenic risk scores were associated with other psychiatric disorders (not the discovery sample disorder) such as depression, schizophrenia and bipolar disorder, greater symptom severity of depression, membership of a creative profession and greater educational attainment. Both depression and bipolar polygenic risk scores explained small amounts of variance in most phenotypes (&lt; 2%).</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Many studies did not report standardised effect sizes. This prevented us from conducting a meta-analysis.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Polygenic risk scores for BD and MDD are associated with a range of phenotypes and outcomes. However, they only explain a small amount of the variation in these phenotypes. Larger discovery and adequately powered target samples are required to increase power of the PRS approach. This could elucidate how genetic risk for bipolar disorder and depression is manifest and contribute meaningfully to stratified medicine.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mistry</LastName>
+                    <ForeName>Sumit</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Psychological Medicine and Clinical Neurosciences, MRC Centre for Neuropsychiatric Genetics and Genomics, Cardiff University, UK. Electronic address: mistrys1@cardiff.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harrison</LastName>
+                    <ForeName>Judith R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Psychological Medicine and Clinical Neurosciences, MRC Centre for Neuropsychiatric Genetics and Genomics, Cardiff University, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Daniel J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health and Wellbeing, University of Glasgow, I Lilybank Gardens, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Escott-Price</LastName>
+                    <ForeName>Valentina</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Psychological Medicine and Clinical Neurosciences, MRC Centre for Neuropsychiatric Genetics and Genomics, Cardiff University, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zammit</LastName>
+                    <ForeName>Stanley</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Psychological Medicine and Clinical Neurosciences, MRC Centre for Neuropsychiatric Genetics and Genomics, Cardiff University, UK; Centre for Academic Mental Health, Population Health Sciences, Bristol Medical School, University of Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bipolar disorder</Keyword>
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Genetic</Keyword>
+            <Keyword MajorTopicYN="N">Phenotypes</Keyword>
+            <Keyword MajorTopicYN="N">Polygenic risk score</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29529547</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32373-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

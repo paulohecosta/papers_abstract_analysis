@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29525353</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Response pattern of depressive symptoms among college students: What lies behind items of the Beck Depression Inventory-II?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>124-130</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)30988-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.064</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This study examines the response pattern of depressive symptoms in a nationwide student sample, through item analyses of a rating scale by both classical test theory (CTT) and item response theory (IRT).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The 21-item Beck Depression Inventory-II (BDI-II) was administered to 12,711 college students. First, the psychometric properties of the scale were described. Thereafter, the endorsement probability of depressive symptom in each scale item was analyzed through CTT and IRT. Graphical plots depicted the endorsement probability of scale items and intensity of depression. Three items of different difficulty level were compared through CTT and IRT approach.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Four in five students reported the presence of depressive symptoms. The BDI-II items presented good reliability and were distributed along the symptomatic continuum of depression. Similarly, in both CTT and IRT approaches, the item 'changes in sleep' was easily endorsed, 'loss of interest' moderately and 'suicidal thoughts' hardly. Graphical representation of BDI-II of both methods showed much equivalence in terms of item discrimination and item difficulty. The item characteristic curve of the IRT method provided informative evaluation of item performance.</AbstractText>
+                <AbstractText Label="LIMITATION" NlmCategory="CONCLUSIONS">The inventory was applied only in college students.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Depressive symptoms were frequent psychopathological manifestations among college students. The performance of the BDI-II items indicated convergent results from both methods of analysis. While the CTT was easy to understand and to apply, the IRT was more complex to understand and to implement. Comprehensive assessment of the functioning of each BDI-II item might be helpful in efficient detection of depressive conditions in college students.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Sá Junior</LastName>
+                    <ForeName>Antonio Reis</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences, Federal University of Santa Catarina, Araranguá, SC, Brazil; Institute &amp; Department of Psychiatry (LIM-23), University of São Paulo Medical School, São Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Andrade</LastName>
+                    <ForeName>Arthur Guerra</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute &amp; Department of Psychiatry (LIM-23), University of São Paulo Medical School, São Paulo, SP, Brazil; Department of Neuroscience, Medical School, ABC Foundation, Santo André, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andrade</LastName>
+                    <ForeName>Laura Helena</ForeName>
+                    <Initials>LH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute &amp; Department of Psychiatry (LIM-23), University of São Paulo Medical School, São Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gorenstein</LastName>
+                    <ForeName>Clarice</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute &amp; Department of Psychiatry (LIM-23), University of São Paulo Medical School, São Paulo, SP, Brazil; Department of Pharmacology, Institute of Biomedical Sciences, University of São Paulo, São Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yuan-Pang</ForeName>
+                    <Initials>YP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute &amp; Department of Psychiatry (LIM-23), University of São Paulo Medical School, São Paulo, SP, Brazil. Electronic address: gnap_inbox@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Beck Depression Inventory-II</Keyword>
+            <Keyword MajorTopicYN="N">Classical test theory</Keyword>
+            <Keyword MajorTopicYN="N">College students</Keyword>
+            <Keyword MajorTopicYN="N">Depressive symptoms</Keyword>
+            <Keyword MajorTopicYN="N">Item response theory</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29525353</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)30988-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.064</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

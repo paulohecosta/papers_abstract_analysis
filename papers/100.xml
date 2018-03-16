@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29505789</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>135</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Toll-like receptor 3 activation impairs excitability and synaptic activity via TRIF signalling in immature rat and human neurons.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30091-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.025</ELocationID>
+            <Abstract>
+                <AbstractText>Toll like receptor 3 (TLR3) belongs to a family of pattern recognition receptors that recognise molecules found on pathogens referred to as pathogen associated molecular patterns (PAMPs). Its involvement in innate immunity is well known but despite its presence in the central nervous system (CNS), our knowledge of its function is limited. Here, we have investigated whether TLR3 activation modulates synaptic activity in primary hippocampal cultures and induced pluripotent stem cell (iPSC)-derived neurons. Synaptically driven spontaneous action potential (AP) firing was significantly reduced by the TLR3 specific activator, poly I:C, in a concentration-dependent manner following both short (5 min) and long exposures (1h) in rat hippocampal cultures. Notably, the consequence of TLR3 activation on neuronal function was reproduced in iPSC-derived cortical neurons, with poly I:C (25 μg/ml, 1h) significantly inhibiting sAP firing. We examined the mechanisms underlying these effects, with poly I:C significantly reducing peak sodium current, an effect dependent on the MyD88-independent TRIF dependent pathway. Furthermore, poly I:C (25 μg/ml, 1h) resulted in a significant reduction in miniature excitatory postsynaptic potential (mEPSC) frequency and amplitude and significantly reduced surface AMPAR expression. These novel findings reveal that TLR3 activation inhibits neuronal excitability and synaptic activity through multiple mechanisms, with this being observed in both rat and human iPSC-derived neurons. These data might provide further insight into how TLR3 activation may contribute to neurodevelopmental disorders following maternal infection and in patients with increased susceptibility to herpes simplex encephalitis.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ritchie</LastName>
+                    <ForeName>Louise</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Strathclyde Institute of Pharmacy and Biomedical Sciences, University of Strathclyde, Glasgow G4 0RE, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tate</LastName>
+                    <ForeName>Rothwell</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Strathclyde Institute of Pharmacy and Biomedical Sciences, University of Strathclyde, Glasgow G4 0RE, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chamberlain</LastName>
+                    <ForeName>Luke H</ForeName>
+                    <Initials>LH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Strathclyde Institute of Pharmacy and Biomedical Sciences, University of Strathclyde, Glasgow G4 0RE, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robertson</LastName>
+                    <ForeName>Graham</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Microsystems and Photonics, Electronic and Electrical Engineering, University of Strathclyde, Glasgow, G1 1XW, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zagnoni</LastName>
+                    <ForeName>Michele</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Microsystems and Photonics, Electronic and Electrical Engineering, University of Strathclyde, Glasgow, G1 1XW, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sposito</LastName>
+                    <ForeName>Teresa</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Neuroscience, UCL Institute of Neurology, 1 Wakefield Street, London WC1N 1PJ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wray</LastName>
+                    <ForeName>Selina</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Neuroscience, UCL Institute of Neurology, 1 Wakefield Street, London WC1N 1PJ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wright</LastName>
+                    <ForeName>John A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Medicine, University of Cambridge, Madingley Road, Cambridge, CB3 0ES, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bryant</LastName>
+                    <ForeName>Clare E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Medicine, University of Cambridge, Madingley Road, Cambridge, CB3 0ES, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gay</LastName>
+                    <ForeName>Nicholas J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bushell</LastName>
+                    <ForeName>Trevor J</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Strathclyde Institute of Pharmacy and Biomedical Sciences, University of Strathclyde, Glasgow G4 0RE, UK. Electronic address: trevor.bushell@strath.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Action potential</Keyword>
+            <Keyword MajorTopicYN="N">Na(+) channel</Keyword>
+            <Keyword MajorTopicYN="N">Neuron</Keyword>
+            <Keyword MajorTopicYN="N">Poly I:C</Keyword>
+            <Keyword MajorTopicYN="N">TLR3</Keyword>
+            <Keyword MajorTopicYN="N">TRIF</Keyword>
+            <Keyword MajorTopicYN="N">iPSC-derived neuron</Keyword>
+            <Keyword MajorTopicYN="N">mEPSCs</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29505789</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30091-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.025</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

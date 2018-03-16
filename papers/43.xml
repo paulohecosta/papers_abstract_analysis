@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475235</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Screening for Normal Cognition, Mild Cognitive Impairment, and Dementia with the Korean Dementia Screening Questionnaire.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.08.24</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The Korean Dementia Screening Questionnaire (KDSQ) is an informant-based instrument used to screen for cognitive dysfunction. However, its ability to only dichotomously discriminate between dementia and normal cognition has been previously investigated. This study investigated the ability of the KDSQ to classify not only dichotomous but also multiple stages of cognitive dysfunction.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We examined 582 participants. Receiver operating characteristic (ROC) curves were used to determine dichotomous classification parameters. Multi-category ROC surfaces were evaluated to classify the three stages of cognitive dysfunction.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Dichotomous classification using the ROC curve analyses showed that the area under the curve was 0.92 for dementia for subjects without dementia and 0.96 for dementia in controls. Simultaneous multi-category classification analyses showed that the volume under the ROC surface (VUS) was 0.57 and that the derived optimal cut-off points were 2 and 8 for controls, MCI, and dementia. The estimated Youden index for the KDSQ was 0.48, and the derived optimal cut-off points were 5 and 10. The overall classification accuracy of the VUS and Youden index was 61.2% and 58.6%, respectively.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The KDSQ is useful for classifying dichotomous and multi-category stages of cognitive dysfunction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Sun-Ju</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Korea University Ansan Hospital, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Jung-Hoon</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Korea University Ansan Hospital, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>Jung-Won</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Korea University Ansan Hospital, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paik</LastName>
+                    <ForeName>Jong-Woo</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropsychiatry, Kyung Hee University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Changsu</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Korea University Ansan Hospital, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Moon Ho</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Korea University Ansan Hospital, Ansan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Classifying</Keyword>
+            <Keyword MajorTopicYN="N">Dementia</Keyword>
+            <Keyword MajorTopicYN="N">KDSQ</Keyword>
+            <Keyword MajorTopicYN="N">Mild cognitive impairment</Keyword>
+            <Keyword MajorTopicYN="N">Screening</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475235</ArticleId>
+            <ArticleId IdType="pii">pi.2017.08.24</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.08.24</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

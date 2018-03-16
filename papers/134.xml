@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29527817</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Trends in Use of Paracetamol in the Nordic Countries.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.13003</ELocationID>
+            <Abstract>
+                <AbstractText>Paracetamol (acetaminophen) is one of the most commonly used analgesics in Europe; however, both the safety and efficacy of paracetamol have recently been questioned. Little is known about cross-national differences in the sales of paracetamol. Using national wholesale statistics and nationwide prescription drug registers, we investigated trends in total and prescribed use of paracetamol in the Nordic countries. The total sales of paracetamol (Anatomical Therapeutic Chemical (ATC) classification system code: N02BE01) measured as defined daily doses (DDD) per 1000 inhabitants/day, and the sales by prescription (users per 1000 inhabitants per year), increased in the Nordic countries from 2000 to 2015. The total sales were highest in Denmark throughout the period, with 65 DDD per 1000 inhabitants/day and lowest in Iceland with 30 DDD per 1000 inhabitants/day in 2015. The cross-national difference in total sales of paracetamol was smaller in 2015 than in 2000. The proportion of paracetamol (DDD per 1000 inhabitants/day) sold by prescription was also highest in Denmark (78%), compared with 75% in Finland, 69% in Sweden, 61% in Norway and 38% in Iceland. Paracetamol by prescription was more common at older ages and among women. Total and prescribed sales of paracetamol have increased in all five Nordic countries over time. Cross-national differences exist, with highest sales per capita in Denmark throughout the period. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wastesson</LastName>
+                    <ForeName>Jonas W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Aging Research Center, Karolinska Institutet&amp; Stockholm University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martikainen</LastName>
+                    <ForeName>Jaana E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Unit, The Social Insurance Institution (Kela), Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zoëga</LastName>
+                    <ForeName>Helga</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre of Public Health Sciences, Faculty of Medicine, University of Iceland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Medicines Policy Research Unit, Centre for Big Data Research in Health, University of New South Wales, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Morten</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Epidemiology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karlstad</LastName>
+                    <ForeName>Øystein</ForeName>
+                    <Initials>Ø</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacoepidemiology, Norwegian Institute of Public Health, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pottegård</LastName>
+                    <ForeName>Anton</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology and Pharmacy, Department of Public Health, University of Southern, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acetaminophen</Keyword>
+            <Keyword MajorTopicYN="N">Nordic countries</Keyword>
+            <Keyword MajorTopicYN="N">analgesic</Keyword>
+            <Keyword MajorTopicYN="N">cross national comparison</Keyword>
+            <Keyword MajorTopicYN="N">paracetamol</Keyword>
+            <Keyword MajorTopicYN="N">trends</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29527817</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.13003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

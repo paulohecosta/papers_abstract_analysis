@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29533841</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>186</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Poly-victimization and trajectories of binge drinking from adolescence to young adulthood among serious juvenile offenders.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>29-35</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30100-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2018.01.006</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Justice involved youth exposed to multiple forms of victimization (i.e., poly-victimization) may be at risk for long term substance use problems and difficulty in self-regulation, placing them at higher risk of long-term problematic behaviors. This study empirically identifies victimization classifications in a sample of justice involved youth and how long-term binge drinking is related to victimization experiences. We further sought to understand how self-regulatory abilities such as impulse control and emotion regulation effect emergent profiles and binge drinking trajectories.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Based on a sample of 1354 justice involved youth from 15 to 25 years old, classes of victimization were extracted. Emergent classes were examined in relationship to their binge drinking trajectories using latent growth models. Finally, self-regulation was examined as a predictor of binge drinking trajectories across emergent classes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The analyses indicated three classes of victimization: poly-victimized, indirectly victimized, and lowly victimized. Latent growth models revealed that the poly-victimized class had significantly steeper growth in binge drinking as compared to the indirect and low victimized patterns. Impulse and emotional regulation both significantly decelerated binge drinking only for the indirect victimization group.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Findings highlight the need to focus on poly-victimization in understanding binge drinking trajectories as well as the role impulse control and emotional regulation play among justice involved youth. Findings are discussed through the lens of adolescent development, coping strategies, and early traumatic experiences.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Davis</LastName>
+                    <ForeName>Jordan P</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Southern California, Los Angeles CA, United States. Electronic address: jordanpd@usc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dumas</LastName>
+                    <ForeName>Tara M</ForeName>
+                    <Initials>TM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Huron University College at Western University, London ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berey</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Florida, Gainesville FL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merrin</LastName>
+                    <ForeName>Gabriel J</ForeName>
+                    <Initials>GJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Victoria, Victoria BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Kevin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Illinois at Urbana-Champaign, Champaign IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Madden</LastName>
+                    <ForeName>Danielle R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Southern California, Los Angeles CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Binge drinking</Keyword>
+            <Keyword MajorTopicYN="N">Emotional regulation</Keyword>
+            <Keyword MajorTopicYN="N">Impulse control</Keyword>
+            <Keyword MajorTopicYN="N">Poly-victimization</Keyword>
+            <Keyword MajorTopicYN="N">Self-Regulation</Keyword>
+            <Keyword MajorTopicYN="N">Young Adulthood</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29533841</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30100-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2018.01.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

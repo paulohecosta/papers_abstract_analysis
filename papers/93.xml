@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29501527</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Retigabine ameliorates acute stress-induced impairment of spatial memory retrieval through regulating USP2 signaling pathways in hippocampal CA1 area.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30100-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.02.034</ELocationID>
+            <Abstract>
+                <AbstractText>Acute stress could trigger maladaptive changes associated with stress-related cognitive and emotional deficits. Dysfunction of ion channel or receptor in the hippocampal area has been linked to the cognitive deficits induced by stress. It is known that Kv7 channel openers, including FDA-approved drug retigabine, show cognitive protective efficacy. However, the underlying molecular mechanisms remain elusive. Here we showed that exposing adult male rats to acute stress significantly impaired the spatial memory, a cognitive process controlled by the hippocampus. Concomitantly, significantly reduced AMPA receptor expression was found in hippocampal CA1 area from acute stressed rats. This effect relied on the down-regulation of deubiquitinating enzyme USP2 and its upstream regulators (PGC-1a and B-catenin), and the subsequent enhancement of mTOR-related autophagy which is regulated by USP2. These findings suggested that acute stress dampened AMPA receptor expression by controlling USP2-related signaling, which caused the detrimental effect on hippocampus-dependent cognitive processes. We also found that retigabine alleviated acute stress-induced spatial memory retrieval impairment through adjusting the aberrance of USP2, its upstream regulators (PGC-1a, E4BP4 and B-catenin) and its downstream targets (mTOR, autophagy and GluA1). Our results have identified USP2 as a key molecule that mediates stress-induced spatial memory retrieval impairment, which provides a framework for new druggable targets to conceptually treat stress-associated cognitive deficits.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Cai</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China; Henan Key Laboratory of Precision Clinical Pharmacy, Zhengzhou University, Zhengzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Ji</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China; Henan Key Laboratory of Precision Clinical Pharmacy, Zhengzhou University, Zhengzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Haiwei</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Lab of Advanced Drug Preparation Technologies, Ministry of Education, School of Pharmaceutical Sciences, Zhengzhou University, Zhengzhou, 450000, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Mujun</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Translational Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lv</LastName>
+                    <ForeName>Chuntao</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Lab of Advanced Drug Preparation Technologies, Ministry of Education, School of Pharmaceutical Sciences, Zhengzhou University, Zhengzhou, 450000, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xue</LastName>
+                    <ForeName>Wenhua</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China; Henan Key Laboratory of Precision Clinical Pharmacy, Zhengzhou University, Zhengzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Zhizhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China; Henan Key Laboratory of Precision Clinical Pharmacy, Zhengzhou University, Zhengzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Lizhen</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China; Henan Key Laboratory of Precision Clinical Pharmacy, Zhengzhou University, Zhengzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaojian</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China; Henan Key Laboratory of Precision Clinical Pharmacy, Zhengzhou University, Zhengzhou, China. Electronic address: zhxj0524@sina.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Xin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China; Henan Key Laboratory of Precision Clinical Pharmacy, Zhengzhou University, Zhengzhou, China. Electronic address: tianx@zzu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Autophagy</Keyword>
+            <Keyword MajorTopicYN="N">GluA1</Keyword>
+            <Keyword MajorTopicYN="N">Retigabine</Keyword>
+            <Keyword MajorTopicYN="N">Spatial memory retrieval</Keyword>
+            <Keyword MajorTopicYN="N">Stress</Keyword>
+            <Keyword MajorTopicYN="N">USP2</Keyword>
+            <Keyword MajorTopicYN="N">mTOR</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29501527</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30100-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.02.034</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29527823</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prognostic Factors in Acute Aluminium Phosphide Poisoning: A Risk-Prediction Nomogram Approach.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.13005</ELocationID>
+            <Abstract>
+                <AbstractText>Aluminium phosphide (AlP) is a toxic agent associated with a high mortality rate following acute exposure from various routes. The aim of this study was to determine the clinical and laboratory findings useful for predicting the medical outcomes of AlP-poisoned patients using established scoring systems. This is a prospective study of AlP-poisoned patients from 2010-2015 in Ardabil, Iran. All patients that presented with a confirmed diagnosis of Acute AlP poisoning in the study interval were included in the study. Clinical and laboratory data, using Acute Physiology and Chronic Evaluation II (APACHE II), Sequential Organ Failure Assessment (SOFA) and Simplified Acute Physiology Score II (SAPS II)scoring systems were compared for their predictive value in determining differences between survived and non-survived patients. Univariate analysis (Mann-Whitney or T-test), multiple logistic regression, Receiver Operating Characteristic (ROC) curve analysis and the Pearson correlation test were performed using STATA/SE 13.0 and the Nomolog Software. A total of 68 AlP-poisoned patients with confirmed Acute AlP poisoning were included for evaluation. Of these, 36 were non-survived. Multiple logistic regression analysis was performed using parameters and values derived from patient clinical and laboratory data, and revealed that 4 factors were significant for predicting mortality: Glasgow coma score (GCS); Systolic blood pressure(SBP); Urinary output (UOP); and serum HCO<sub>3</sub>. A four-variable, risk-prediction nomogram was developed for identifying high-risk patients and predicting the risk of mortality. Study results showed that SBP of &lt;92.5mmHg (p=0.006); HCO<sub>3</sub><sup>-</sup>&lt;12.9 mEq/L (p=0.01), UOP&lt;1725 ml/day (p=0.04); and GCS&lt;14.5 (p=0.003) were significant predictors ofAlP mortality. Scoring systems analysis showed SAPS II score &gt; 24.5, APACHE II score &gt; 8.5, and SOFA score &gt;7.5 were predictive of non-survival patients. The results of our study showed that SBP, GCS, UOP and serum HCO<sub>3</sub>levels are the best prognostic factors for predicting mortality in AlP-poisoned patients. According to the area under the ROC curve of the APACHE II score, when compared with SOFA and SAPS II scores, can better discriminate between non-survivors and survived patients. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Farzaneh</LastName>
+                    <ForeName>Esmaeil</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine and Toxicology, Faculty of Medicine, Ardabil University of Medical Sciences, Ardabil, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghobadi</LastName>
+                    <ForeName>Hassan</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal medicine, Faculty of Medicine, Ardabil University of Medical Sciences, Ardabil, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akbarifard</LastName>
+                    <ForeName>Mahdieh</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal medicine, Faculty of Medicine, Ardabil University of Medical Sciences, Ardabil, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakhaee</LastName>
+                    <ForeName>Samaneh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Diseases Research Center, Birjand University of Medical Sciences, Birjand, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Toxicology and Drug Abuse Research Center (MTDRC), Birjand University of Medical Sciences, Moallem Avenue, Birjand, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amirabadizadeh</LastName>
+                    <ForeName>Alireza</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Toxicology and Drug Abuse Research Center (MTDRC), Birjand University of Medical Sciences, Moallem Avenue, Birjand, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akhavanakbari</LastName>
+                    <ForeName>Ghodrat</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Associate professor of anesthesiology, Ardebil University of Medical Science.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keyler</LastName>
+                    <ForeName>Daniel E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental &amp; Clinical Pharmacology, University of Minnesota, Minneapolis, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mehrpour</LastName>
+                    <ForeName>Omid</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Toxicology and Drug Abuse Research Center (MTDRC), Birjand University of Medical Sciences, Moallem Avenue, Birjand, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">APACHE II</Keyword>
+            <Keyword MajorTopicYN="N">SAPS II</Keyword>
+            <Keyword MajorTopicYN="N">SOFA</Keyword>
+            <Keyword MajorTopicYN="N">Aluminium phosphide</Keyword>
+            <Keyword MajorTopicYN="N">Nomogram</Keyword>
+            <Keyword MajorTopicYN="N">Poisoning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29527823</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.13005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29277973</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Dec</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Psychodynamic technique early in treatment related to outcome for depressed patients.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2167</ELocationID>
+            <Abstract>
+                <AbstractText>We examined the relationship between psychodynamic techniques early in treatment with reliable change in depressive symptomatology. Forty-six patients admitted for individual psychodynamic psychotherapy who received a diagnosis representative of a depressive spectrum disorder were assessed pretreatment and posttreatment through self-report of depressive symptoms. Videotapes from two early treatment sessions (3rd and 9th) were independently rated on the Comparative Psychotherapy Process Scale for use of psychodynamic-interpersonal and cognitive-behavioural techniques, with excellent interrater reliability (intraclass correlation coefficient &gt; .75). We found a significant relationship between overall use of psychodynamic technique across early treatment (r = .31, p = .036), as well as specific psychodynamic techniques delivered across early treatment, with change in patient-reported depressive symptoms. Our findings suggest that focusing on affective experiencing and expression, as well as providing interpretations are particularly helpful early in psychodynamic treatment for depression. Clinical implications and future directions are discussed.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Katz</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4466-1121</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Derner School of Psychology, Adelphi University, Garden City, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hilsenroth</LastName>
+                    <ForeName>Mark J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Derner School of Psychology, Adelphi University, Garden City, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CPPS</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">psychodynamic psychotherapy</Keyword>
+            <Keyword MajorTopicYN="N">technique</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29277973</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2167</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

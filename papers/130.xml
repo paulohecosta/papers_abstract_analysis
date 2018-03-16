@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29505119</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exposure of Nursed Infants to Maternal Treatment with Ethambutol and Rifampicin.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.12995</ELocationID>
+            <Abstract>
+                <AbstractText>Mycobacterial diseases remain a significant cause of morbidity and mortality worldwide. Rifampicin and ethambutol are among the drugs recommended by WHO as first line treatment. In this work, we addressed the question whether doses of the two anti-tuberculosis agents ethambutol and rifampicin transferred to a nursed infant could be of health concerns when the mother is under treatment. We used the approach of pharmacokinetic modelling using a structural model with two interconnected organisms, the first one being the organism of the nursing mother, the second one being the organism of the nursed child. Physiological data were taken from the literature. The models were parameterised by data from the literature concerning clearance, absorption and plasma/milk ratio. Distribution into the tissues was calculated by an algorithm. The predictive power of the model was tested by comparing the predicted plasma concentrations in the mothers with measured data from the literature. Comparison with measured data after direct infant treatment was performed for the rifampicin plasma concentrations predicted in the nursed infant. Both comparisons confirmed the appropriateness of the modelling results. The transfer of 0.08 mg/kg bw per day ethambutol via breast milk to the nursed infant, the dose we have estimated, when the mother received a therapeutic dose of 24.5 mg/kg bw, can be judged as being without health concern. Likewise, for rifampicin, the transferred dose of 0.4 mg/kg bw to the nursed infant resulting from a therapeutic dose of 10.9 mg/kg bw to the mother does not raise health concerns. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Falko</LastName>
+                    <ForeName>Partosch</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universitätsmedizin Göttingen, Institut für Arbeits- Sozial- und Umweltmedizin, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hans</LastName>
+                    <ForeName>Mielke</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bundesinstitut für Risikobewertung, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ralf</LastName>
+                    <ForeName>Stahlmann</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Charité Universitätsmedizin Berlin, Institut für Klinische Pharmakologie und Toxikologie, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ursula</LastName>
+                    <ForeName>Gundert-Remy</ForeName>
+                    <Initials>GR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bundesinstitut für Risikobewertung, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Charité Universitätsmedizin Berlin, Institut für Klinische Pharmakologie und Toxikologie, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29505119</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.12995</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

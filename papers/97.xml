@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29505786</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>135</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Deep brain stimulation and fluoxetine exert different long-term changes in the serotonergic system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>63-72</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30106-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.03.005</ELocationID>
+            <Abstract>
+                <AbstractText>Both selective serotonin reuptake inhibitors (SSRIs) and ventromedial prefrontal cortex (vmPFC) deep brain stimulation (DBS) modulate serotonergic activity. We compared the acute (1 day) and long-term (12 days) effects of vmPFC stimulation and fluoxetine on serotonin (5-HT) release and receptor expression in rats. Samples to measure serotonin levels were collected from the hippocampus using microdialysis. Serotonin transporter (SERT), 5-HT<sub>1A</sub>and 5-HT<sub>1B</sub>mRNA were measured using in situ hybridization. [<sup>3</sup>H]8-OH-DPAT and [<sup>125</sup>I]cyanopindolol autoradiography were used to measure 5-HT<sub>1A</sub>and 5-HT<sub>1B</sub>binding. Our results show that after fluoxetine injections serotonin levels were approximately 150% higher than at baseline. Twelve days later, pre-injection 5-HT extracellular concentration was substantially higher than on day 1. In contrast, serotonin levels following DBS were only 50% higher than at baseline. While pre-stimulation 5-HT on day 12 was significantly higher than on treatment day 1, no stimulation-induced 5-HT peak was recorded. SERT expression in the dorsal raphe was increased after acute fluoxetine and decreased following a single day of DBS. Neither fluoxetine nor DBS administered acutely substantially changed 5-HT<sub>1A</sub>or 5-HT<sub>1B</sub>binding. Chronic fluoxetine treatment, however, was associated with a decrease in [<sup>3</sup>H]8-OH-DPAT prefrontal cortex and hippocampus expression. In contrast, chronic DBS induced a significant increase in [<sup>125</sup>I]cyanopindolol binding in the prefrontal cortex, globus pallidus, substantia nigra and raphe nuclei. mRNA expression of 5-HT<sub>1A</sub>and 5-HT<sub>1B</sub>in raphe nuclei was not altered by either treatment. These results suggest that fluoxetine and DBS modulate activity of the serotonergic system but likely exert their effects through different mechanisms.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Volle</LastName>
+                    <ForeName>Julien</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Neurobiology Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bregman</LastName>
+                    <ForeName>Tatiana</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Neurobiology Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scott</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Neurobiology Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diwan</LastName>
+                    <ForeName>Mustansir</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Neurobiology Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raymond</LastName>
+                    <ForeName>Roger</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Neurobiology Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fletcher</LastName>
+                    <ForeName>Paul J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada; Biopsychology Section, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nobrega</LastName>
+                    <ForeName>José N</ForeName>
+                    <Initials>JN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Neurobiology Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada; Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamani</LastName>
+                    <ForeName>Clement</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Behavioural Neurobiology Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, 250 College Street, Toronto, ON, M5T 1R8, Canada; Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada; Harqauil Neuromodulation Centre, Hurvitz Brain Science Program, Sunnybrook Research Institute, University of Toronto, 2075 Bayview Ave, Toronto, ON, M4N 3M5, Canada. Electronic address: Clement.Hamani@camh.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Deep brain stimulation</Keyword>
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Fluoxetine</Keyword>
+            <Keyword MajorTopicYN="N">Medial prefrontal cortex</Keyword>
+            <Keyword MajorTopicYN="N">Receptor</Keyword>
+            <Keyword MajorTopicYN="N">SSRI</Keyword>
+            <Keyword MajorTopicYN="N">Serotonin</Keyword>
+            <Keyword MajorTopicYN="N">Serotonin transporter</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29505786</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30106-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.03.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29529553</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Internet-based interventions for the prevention and treatment of depression in people living in developing countries: A systematic review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>193-200</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32567-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.079</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Internet-based interventions for depression may be a valuable resource to reduce the treatment gap for those living in developing countries. However, evidence comes mainly from developed countries. This systematic review summarized the evidence on preventive or therapeutic Internet-based interventions for depression for people who reside in developing countries.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">CINAHL, EMBASE, PubMed, SciELO Citation Indexes, the Journal of Medical Internet Research, and the Telemedicine and e-Health journal, were searched up to June 2017, to identify feasibility or effectiveness studies of preventive or therapeutic Internet-based interventions for depression, with or without human support. Studies included subjects residing in developing countries, and were published in English or Spanish. Study protocols were included. Risk of bias and/or quality of the reporting of the studies included was assessed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Five feasibility studies, aimed at the prevention of depression, and a study protocol were included in this systematic review. Reports came mostly from the Americas (n = 4). Internet-based interventions aimed at the prevention of depression presented low levels of human support, were useful and acceptable to their users, and require further design refinements to improve their use and retention.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">No gray literature was searched or included in this systematic review. Searches were limited to English and Spanish languages.</AbstractText>
+                <AbstractText Label="DISCUSSIONS" NlmCategory="CONCLUSIONS">Internet-based interventions aimed at the prevention of depression in people who reside in developing countries are in an early phase of development, limiting the generalizability of the results. Future studies must employ persuasive designs to improve user retention, incorporating larger samples and a control group to conclusively determine feasibility.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martínez</LastName>
+                    <ForeName>Pablo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Escuela de Psicología, Facultad de Humanidades, Universidad de Santiago de Chile, Santiago, Chile; Centro de Innovación en Tecnologías de la Información para Aplicaciones Sociales (CITIAPS), Universidad de Santiago de Chile, Santiago, Chile; Instituto Milenio para la Investigación en Depresión y Personalidad (MIDAP), Santiago, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rojas</LastName>
+                    <ForeName>Graciela</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Milenio para la Investigación en Depresión y Personalidad (MIDAP), Santiago, Chile; Departamento de Salud Mental y Psiquiatría, Hospital Clínico, Universidad de Chile, Santiago, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martínez</LastName>
+                    <ForeName>Vania</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Milenio para la Investigación en Depresión y Personalidad (MIDAP), Santiago, Chile; CEMERA, Facultad de Medicina, Universidad de Chile, Santiago, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lara</LastName>
+                    <ForeName>María Asunción</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Modelos de Intervención, Dirección de Investigaciones Epidemiológicas y Psicosociales, Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, Ciudad de México, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pérez</LastName>
+                    <ForeName>J Carola</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Milenio para la Investigación en Depresión y Personalidad (MIDAP), Santiago, Chile; Centro de Apego y Regulación Emocional, Facultad de Psicología, Universidad del Desarrollo, Santiago, Chile. Electronic address: janetperez@udd.cl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Developing countries</Keyword>
+            <Keyword MajorTopicYN="N">Internet</Keyword>
+            <Keyword MajorTopicYN="N">Review</Keyword>
+            <Keyword MajorTopicYN="N">Therapeutics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29529553</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32567-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.079</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

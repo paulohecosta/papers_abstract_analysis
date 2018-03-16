@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29524873</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>185</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Child injury deaths linked with adult alcohol consumption: A time series analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>360-366</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30015-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2017.11.024</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This paper aims to quantify the population-level associations between child injury deaths and adult (aged 15+ years) per capita alcohol consumption (PCC) and between child injury deaths and the impact of major alcohol and safety policy changes in Australia.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">All child deaths due to external causes during 1910-2013, and child deaths due specifically to road crashes, assaults, suicide and other external causes, were obtained from the Australian Institute of Health and Welfare. Child (0-14 year) mortality rates were analysed in relation to PCC using an Autoregressive Integrated Moving Average model.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A positive association between PCC and overall child external mortality was identified. The estimated coefficient was 0.326 (p = .002), indicating that a 10% decrease in PCC was associated with a 3.3% reduction in child injury mortality. A positive association was identified for road traffic and other child injury mortality, but not assault injuries. The introduction of compulsory seatbelt legislation in combination with random breath testing was associated with a reduction in overall injury and road traffic child mortality. Decreasing the legal drinking age was associated with an increase in the rate of other external-cause child mortality.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Reducing PCC in Australia is likely to result in a small but significant reduction in the injury mortality rate of children aged 0-14 years.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Laslett</LastName>
+                    <ForeName>Anne-Marie</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug Research Institute, Curtin University, Bentley, Perth, 6002, Australia; Centre for Alcohol Policy Research, School of Psychology and Public Health, La Trobe University, 3086, Australia; School of Population and Global Health, University of Melbourne, 3000, Australia. Electronic address: anne-marie.laslett@curtin.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Heng</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Alcohol Policy Research, School of Psychology and Public Health, La Trobe University, 3086, Australia; School of Population and Global Health, University of Melbourne, 3000, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chikritzhs</LastName>
+                    <ForeName>Tanya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Drug Research Institute, Curtin University, Bentley, Perth, 6002, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Child injury mortality</Keyword>
+            <Keyword MajorTopicYN="N">Harm to others</Keyword>
+            <Keyword MajorTopicYN="N">Per capita alcohol consumption</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29524873</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30015-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2017.11.024</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

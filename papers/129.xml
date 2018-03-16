@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29504705</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ABCB1 Variation Affects Myelosuppression, Progression-free Survival and Overall Survival in Paclitaxel/Carboplatin-treated Ovarian Cancer Patients.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.12997</ELocationID>
+            <Abstract>
+                <AbstractText>The standard chemotherapy for ovarian cancer is paclitaxel/carboplatin. Patients often exhibit myelosuppressive toxicity, and the treatment response varies considerably. In this study, we investigated the previously reported SNPs 1199G&gt;A (rs2229109), 1236C&gt;T (rs1128503), 2677G&gt;T/A (rs2032582), 3435C&gt;T (rs1045642) in ABCB1, and 1196A&gt;G (rs10509681) in CYP2C8 and their association with treatment-induced myelosuppression, progression-free survival (PFS) and overall survival (OS). From the Phase III study, OAS-07OVA, 525 patients (All) treated with carboplatin and paclitaxel administered as Paclical (Arm A, n=260) or Taxol<sup>®</sup>(Arm B, n=265), were included and genotyped using pyrosequencing. Genotype associations with myelosuppression, PFS and OS were investigated using ANOVA, Kaplan-Meier analysis and Cox proportional hazard models. The most prominent finding was for the ABCB1 variant 3435TT, which was significantly associated with increased PFS in All (hazard ratio (HR) = 0.623), in Arm A (HR=0.590), and in Arm B (HR=0.627), as well as increased OS in All (HR=0.443) and in Arm A (HR=0.372) compared to the wildtype, 3435CC. For toxicity, the most interesting finding concerned the haplotype, including 1236TT, 2677TT and 3435TT, which was associated with higher neutrophil values in Arm B (P=0.039) and less neutrophil decrease in All (P=0.048) and in Arm B (P=0.021). It is noteworthy that the results varied depending on the treatment arm which indicates that the effects of ABCB1 variants vary with the treatment regimen. Our results reflect the contradictory results of previous studies, confirming that small variations in the composition of treatment regimens and patient populations may influence the interpretation of SNPs effects on treatment outcome. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Björn</LastName>
+                    <ForeName>Niclas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology, Division of Drug Research, Department of Medical and Health Sciences, Linköping University, Linköping, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Falk</LastName>
+                    <ForeName>Ingrid Jakobsen</ForeName>
+                    <Initials>IJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology, Division of Drug Research, Department of Medical and Health Sciences, Linköping University, Linköping, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vergote</LastName>
+                    <ForeName>Ignace</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, University Hospital Leuven, Leuven Cancer Institute, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gréen</LastName>
+                    <ForeName>Henrik</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacology, Division of Drug Research, Department of Medical and Health Sciences, Linköping University, Linköping, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ABCB1</Keyword>
+            <Keyword MajorTopicYN="N">CYP2C8</Keyword>
+            <Keyword MajorTopicYN="N">adverse drug reactions</Keyword>
+            <Keyword MajorTopicYN="N">myelosuppression</Keyword>
+            <Keyword MajorTopicYN="N">ovarian cancer</Keyword>
+            <Keyword MajorTopicYN="N">paclitaxel</Keyword>
+            <Keyword MajorTopicYN="N">toxicity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29504705</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.12997</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

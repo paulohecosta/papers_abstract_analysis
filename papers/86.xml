@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29529552</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Does ceasing exercise induce depressive symptoms? A systematic review of experimental trials including immunological and neurogenic markers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>180-192</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)31749-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.058</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Regular exercise in adults improves depressive symptoms (DS) and major depressive disorder (MDD), however the clinical effects of ceasing exercise are largely unknown.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Seven databases were searched from inception to December 2017. Eligibility criteria included English language studies investigating the effects of ceasing exercise on DS or MDD in regularly active adults with or without prior DS or MDD. Blood based markers related to exercise cessation (EC) were assessed, if recorded. Studies investigating exercise follow-up periods were excluded.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">No studies investigated EC in MDD. Six studies including two RCTS and three studies investigating neurogenic and immune biological markers associated with DS met inclusion criteria (152 healthy adults, females n = 50/32.89%). Compared to baseline, EC increased DS after three days, one week, and two weeks. Female participants had significantly more DS than male participants. Following EC, no changes in brain derived neurotrophic factor (BDNF) or tumour necrosis factor alpha (TNF) were evident, however C-reactive protein (CRP) at week one and interleukin 6 (IL6) at week two were reduced.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Quality concerns including risks of attrition and reporting bias limit our confidence in these results.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Ceasing regular exercise increases DS in healthy adults, with greater DS in females than males. Contrary to the cytokine/inflammatory hypothesis of depression, DS were associated with reduced CRP and IL6 and without increased TNF. High quality trials are needed to extend this field of research in both healthy and MDD populations.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Julie A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Adelaide, Adelaide Medical School, Discipline of Psychiatry, Adelaide, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olagunju</LastName>
+                    <ForeName>Andrew T</ForeName>
+                    <Initials>AT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Adelaide, Adelaide Medical School, Discipline of Psychiatry, Adelaide, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corrigan</LastName>
+                    <ForeName>Frances</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Adelaide, Adelaide Medical School, Discipline of Anatomy and Pathology, Adelaide, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baune</LastName>
+                    <ForeName>Bernhard T</ForeName>
+                    <Initials>BT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Adelaide, Adelaide Medical School, Discipline of Psychiatry, Adelaide, Australia. Electronic address: Bernhard.Baune@adelaide.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Exercise</Keyword>
+            <Keyword MajorTopicYN="N">Inflammation</Keyword>
+            <Keyword MajorTopicYN="N">Mental disorders</Keyword>
+            <Keyword MajorTopicYN="N">Neurogenesis</Keyword>
+            <Keyword MajorTopicYN="N">Neuroimmunomodulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29529552</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)31749-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.058</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

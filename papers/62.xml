@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29399956</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mentalizing countertransference? A model for research on the elaboration of countertransference experience in psychotherapy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2177</ELocationID>
+            <Abstract>
+                <AbstractText>As a construct, the elaboration of countertransference experience (ECE) is intended to depict the implicit and explicit psychological work to which therapists submit their experiences with clients. Through ECE, defined as a mentalizing process of a particular kind, therapists' experiences are presumed to acquire and increase in mental quality and become available for meaning-making and judicious clinical use. In this paper, we claim that such an ongoing process facilitates engagement with common therapeutic factors, such as the therapeutic alliance and countertransference management, enhancing therapist responsiveness in psychotherapy. We synthesize relevant literature on countertransference, mentalization, and, in particular, therapists' mentalization, informed by a systematic literature review. As a result, we propose a model for assessing ECE in psychotherapy, comprising 6 diversely mentalized countertransference positions (factual-concrete, abstract-rational, projective-impulsive, argumentative, contemplative-mindful, and mentalizing), 2 underlying primary dimensions (experiencing, reflective elaboration), and 5 complementary dimensions of elaboration. Strengths and limitations of the model are discussed.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barreto</LastName>
+                    <ForeName>João F</ForeName>
+                    <Initials>JF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1893-4819</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Psychology at University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Polytechnic Institute of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Psychology and Education Science, University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matos</LastName>
+                    <ForeName>Paula Mena</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Psychology at University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Psychology and Education Science, University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">common factors</Keyword>
+            <Keyword MajorTopicYN="N">countertransference</Keyword>
+            <Keyword MajorTopicYN="N">mentalization</Keyword>
+            <Keyword MajorTopicYN="N">therapeutic relationship</Keyword>
+            <Keyword MajorTopicYN="N">therapist factors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29399956</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2177</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

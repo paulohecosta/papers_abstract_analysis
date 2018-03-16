@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29282785</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Dec</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cognitive factors and post-partum depression: What is the influence of general personality traits, rumination, maternal self-esteem, and alexithymia?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2168</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The objective was to assess the impact of cognitive factors on post-partum depression (PPD) symptoms. Because most of the literature data concern the immediate post-partum period or the first year post-partum, we notably sought to assess the longer term impact of cognitive factors on the symptoms of PPD.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Two studies were performed. In a pilot study, 1-month post-partum, 63 women filled out a sociodemographic information sheet and completed the abbreviated, revised Eysenck Personality Questionnaire, the Ruminative Responses Scale, the Maternal Self-Report Inventory, and the Edinburgh Post-Natal Depression Scale. In the main study, 124 women additionally completed the Toronto Alexithymia Scale. The main study population was divided into 2 subgroups: women in the first year post-partum (n = 74) and those in the second year post-partum (n = 50).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the pilot study performed 1-month post-partum, brooding rumination and low self-esteem were significant predictors of the PPD symptom intensity. Neuroticism, brooding rumination, and low maternal self-esteem were also significant predictors of the PPD symptoms reported in the first year post-partum. Lastly, ruminative thoughts and alexithymia were significant predictors of the PPD symptoms reported in the second year post-partum.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our results suggest that alexithymia may be an important predictor of the incidence of this condition. The observation of differences in the PPD models as a function of the post-partum period may open up opportunities for developing novel PPD prevention/treatment programs.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Denis</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6711-9637</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Université Grenoble Alpes, University Savoie Mont Blanc, LIP/PC2S, 38000, Grenoble, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luminet</LastName>
+                    <ForeName>Olivier</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Psychological Sciences Research Institute and Belgian Fund for Scientific Research (FRS-FNRS), Catholic University of Louvain, Louvain-la-Neuve, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">alexithymia</Keyword>
+            <Keyword MajorTopicYN="N">maternal self-esteem</Keyword>
+            <Keyword MajorTopicYN="N">personality</Keyword>
+            <Keyword MajorTopicYN="N">post-partum depression</Keyword>
+            <Keyword MajorTopicYN="N">rumination</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29282785</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2168</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

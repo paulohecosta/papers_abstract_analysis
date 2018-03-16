@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29377472</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The impact of illness-related shame on psychological health and social relationships: Testing a mediational model in students with chronic illness.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2175</ELocationID>
+            <Abstract>
+                <AbstractText>This study explores the impact of illness-related shame on the quality of social relationships and psychological health in chronic patients. We aimed to examine the roles of fear of receiving compassion from others and experiential avoidance as potential mediators of this relationship. Although some studies have demonstrated the negative impact of chronic illness-related shame on psychological functioning, the mechanisms that may underlie this link remain understudied. The sample was comprised by 115 college students, which had been diagnosed with at least 1 chronic illness. Participants completed self-report measures on an online platform. This study's design was cross-sectional. A path analysis was conducted using structural equation modelling. Results showed that the impact of illness-related shame on both psychological health (R<sup>2</sup> = .45) and the quality of social relationships (R<sup>2</sup> = .33) was fully accounted by fear of compassion from others and experiential avoidance. This model revealed an excellent fit. Fear of receiving compassion from others was the main mediator of the illness-related shame link with the quality of social relationships (B = -.22). The main mediator of the association between shame-related chronic illness and psychological health was experiential avoidance (B = -.21).This study shed light on possible psychological mechanisms linking feelings of shame associated with having a chronic condition and impaired social relationships and mental health. On one hand, resisting feelings of compassion and care from others and, on the other hand, avoiding difficult internal experiences and situations that might trigger them seem to underlie the impact of shame on psychological and social functioning in chronic patients.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Trindade</LastName>
+                    <ForeName>Inês A</ForeName>
+                    <Initials>IA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1208-2077</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>CINEICC-Cognitive-Behavioural Research Centre for Research and Intervention, Faculty of Psychology and Education Sciences, University of Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duarte</LastName>
+                    <ForeName>Joana</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CINEICC-Cognitive-Behavioural Research Centre for Research and Intervention, Faculty of Psychology and Education Sciences, University of Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferreira</LastName>
+                    <ForeName>Cláudia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CINEICC-Cognitive-Behavioural Research Centre for Research and Intervention, Faculty of Psychology and Education Sciences, University of Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coutinho</LastName>
+                    <ForeName>Mariana</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Psychology and Education Sciences, University of Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinto-Gouveia</LastName>
+                    <ForeName>José</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CINEICC-Cognitive-Behavioural Research Centre for Research and Intervention, Faculty of Psychology and Education Sciences, University of Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic illness</Keyword>
+            <Keyword MajorTopicYN="N">college students</Keyword>
+            <Keyword MajorTopicYN="N">experiential avoidance</Keyword>
+            <Keyword MajorTopicYN="N">fear of compassion</Keyword>
+            <Keyword MajorTopicYN="N">illness shame</Keyword>
+            <Keyword MajorTopicYN="N">psychosocial functioning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29377472</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2175</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

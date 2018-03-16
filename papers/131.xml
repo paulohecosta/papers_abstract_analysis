@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29510000</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-7843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Basic &amp; clinical pharmacology &amp; toxicology</Title>
+                <ISOAbbreviation>Basic Clin. Pharmacol. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetic Variations, Exposure to Persistent Organic Pollutants and Breast Cancer Risk: A Greenlandic Case-Control Study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bcpt.13002</ELocationID>
+            <Abstract>
+                <AbstractText>The present study investigated the effects of single nucleotide polymorphisms (SNPs) in xenobiotic and steroid hormone-metabolizing genes in relation to breast cancer risk and explored possible effect modifications on persistent organic pollutants (POPs) and breast cancer associations. The study also assessed effects of Greenlandic BRCA1 founder mutations. Greenlandic Inuit women (77 cases and 84 controls) were included. We determined two founder mutations in BRCA1: Cys39Gly (rs80357164) and 4684delCC, and five SNPs in xenobiotic and oestrogen-metabolizing genes: CYP17A1 -34T&gt;C (rs743572), CYP19A1 *19C&gt;T (rs10046), CYP1A1 Ile462Val (rs1048943), CYP1B Leu432Val (rs1056836) and COMT Val158Met (rs4680). We used Chi-square-test for comparison of categorical variables between groups. Odds ratio (OR) estimates with 95% confidence interval (95%CI) were obtained using logistic regression models. The variant allele of BRCA1 Cys39Gly increased breast cancer risk (Gly/Cys versus Cys/Cys, OR: 12.2, 95%CI: 1.53; 98.1) and carriers of the variant allele of CYP17A1 -34T&gt;C had reduced risk (CT+CC versus TT, OR: 0.44, 95%CI: 0.21; 0.93). CYP17A1 -34T&gt;C was an effect modifier on the association between perfluoroalkyl acids (PFAAs) and breast cancer risk (∑PFAA, ratio of OR: 0.18, 95%CI: 0.03; 0.97)). Non-significant modifying tendencies were seen for the other SNPs on the effect of polychlorinated biphenyls, organochlorine pesticides and PFAAs. In summary, the BRCA1 Cys39Gly and CYP17A1 -34T&gt;C genetic variations were associated with breast cancer risk. Our results indicate that the evaluated genetic variants modify the effects of POP exposure on breast cancer risk; however, further studies are needed to document the data from the relatively small sample size. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wielsøe</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Arctic Health, Molecular Epidemiology, Department of Public Health, Aarhus University, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eiberg</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular and Molecular Medicine, University of Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghisari</LastName>
+                    <ForeName>Mandana</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Arctic Health, Molecular Epidemiology, Department of Public Health, Aarhus University, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kern</LastName>
+                    <ForeName>Peder</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, Dronning Ingrid's Hospital, Greenland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lind</LastName>
+                    <ForeName>Ole</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, Dronning Ingrid's Hospital, Greenland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonefeld-Jørgensen</LastName>
+                    <ForeName>Eva Cecilie</ForeName>
+                    <Initials>EC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Arctic Health, Molecular Epidemiology, Department of Public Health, Aarhus University, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Nursing and Health Science, Greenland's Center of Health Research, University of Greenland, Greenland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Basic Clin Pharmacol Toxicol</MedlineTA>
+            <NlmUniqueID>101208422</NlmUniqueID>
+            <ISSNLinking>1742-7835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CYP enzyme</Keyword>
+            <Keyword MajorTopicYN="N">Genetic polymorphism</Keyword>
+            <Keyword MajorTopicYN="N">Greenland</Keyword>
+            <Keyword MajorTopicYN="N">Inuit</Keyword>
+            <Keyword MajorTopicYN="N">perfluoroalkyl acid</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29510000</ArticleId>
+            <ArticleId IdType="doi">10.1111/bcpt.13002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

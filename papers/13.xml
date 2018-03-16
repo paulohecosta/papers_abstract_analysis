@@ -4,111 +4,113 @@
 
 <PubmedArticle>
     <MedlineCitation Status="Publisher" Owner="NLM">
-        <PMID Version="1">29477041</PMID>
+        <PMID Version="1">29486550</PMID>
         <DateRevised>
             <Year>2018</Year>
             <Month>02</Month>
-            <Day>24</Day>
+            <Day>27</Day>
         </DateRevised>
         <Article PubModel="Print-Electronic">
             <Journal>
-                <ISSN IssnType="Print">1734-1140</ISSN>
-                <JournalIssue CitedMedium="Internet">
-                    <Volume>70</Volume>
-                    <Issue>2</Issue>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
                     <PubDate>
-                        <Year>2017</Year>
-                        <Month>Nov</Month>
-                        <Day>26</Day>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
                     </PubDate>
                 </JournalIssue>
-                <Title>Pharmacological reports : PR</Title>
-                <ISOAbbreviation>Pharmacol Rep</ISOAbbreviation>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
             </Journal>
-            <ArticleTitle>Mitochondrial proteomics investigation of frontal cortex in an animal model of depression: Focus on chronic antidepressant drugs treatment.</ArticleTitle>
-            <Pagination>
-                <MedlinePgn>322-330</MedlinePgn>
-            </Pagination>
-            <ELocationID EIdType="pii" ValidYN="Y">S1734-1140(17)30491-7</ELocationID>
-            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pharep.2017.11.016</ELocationID>
+            <ArticleTitle>Can Residual Symptoms During Inter-Episode Period after Partial Remission in Bipolar I Disorder Have Cyclic Patterns with Specific Frequencies?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.08.23</ELocationID>
             <Abstract>
-                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Alteration in the brain mitochondrial functions have been suggested to participate, as a relevant factor, in the development of mental disorders. Therefore, the brain mitochondria may be a crucial therapeutic target in the course of depression.</AbstractText>
-                <AbstractText Label="METHODS" NlmCategory="METHODS">Our goal was to find out the impact of two antidepressant drugs with various mechanisms of action - imipramine and fluoxetine, on the frontal cortex mitochondria-enriched fraction in an animal model of depression based on the prenatal stress procedure.</AbstractText>
-                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Our results confirmed that the prenatal stress caused depressive-like disturbances in the adult offspring rats, which were normalized by the chronic imipramine and fluoxetine administration. For the first time, using 2D-LC-MS/MS, we demonstrated nine differentially expressed proteins after the imipramine administration. Of these proteins, the up-regulation of the 2',3'-cyclic-nucleotide 3'-phosphodiesterase enzyme and down-regulation of the Hypoxanthine-guanine phosphoribosyltransferase (HPRT), Ras-related proteins (Rap-1A and Rap-1B) and Transgelin-3 (NP25) were the most striking. In contrast, after the chronic fluoxetine treatment, we observed differential expression in five proteins, including the enhanced expression of component of pyruvate dehydrogenase complex and diminished of Glutathione S-transferase P (Gstp-1), as well as Maleylacetoacetate isomerase.</AbstractText>
-                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These results overcome the interesting data that brain mitochondria in the frontal cortex may constitute the target for pharmacotherapy. The multifaceted profile of both antidepressant drugs action makes difficult to elucidate the exact mechanism of imipramine and fluoxetine action in the brain mitochondria. Further study of mitochondrial dysfunction in psychiatric disorders will be base to know the possible biological consequences of our observations.</AbstractText>
-                <CopyrightInformation>Copyright © 2017 Institute of Pharmacology, Polish Academy of Sciences. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+                <AbstractText>This case report aimed to describe cyclic patterns of residual mood symptoms in partially remitted bipolar I patient. In a 24-year-old woman with bipolar I disorder, residual mood symptoms measured by self-rated daily mood chart for 18 months were analyzed using wavelet analysis. A 146 - day periodicity was prominent for the first 100 days after discharge. Between 100-200 days, 146 - day periodicity was progressively diminished and 21- and 8-day periodicity was prominent. Between 200-516 days, 21-day periodicity was diminished and 85 - day periodicity became prominent. This case suggest that bipolar patients might have cyclic residual symptoms with specific frequencies.</AbstractText>
             </Abstract>
             <AuthorList CompleteYN="Y">
                 <Author ValidYN="Y">
-                    <LastName>Głombik</LastName>
-                    <ForeName>Katarzyna</ForeName>
-                    <Initials>K</Initials>
+                    <LastName>Cheon</LastName>
+                    <ForeName>YongJun</ForeName>
+                    <Initials>Y</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                        <Affiliation>Department of Psychiatry, Dongrae Hospital, Busan, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Stachowicz</LastName>
-                    <ForeName>Aneta</ForeName>
-                    <Initials>A</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Chair of Pharmacology, Jagiellonian University Medical College, Kraków, Poland.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Trojan</LastName>
-                    <ForeName>Ewa</ForeName>
+                    <LastName>Moon</LastName>
+                    <ForeName>Eunsoo</ForeName>
                     <Initials>E</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University School of Medicine, Busan, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Ślusarczyk</LastName>
-                    <ForeName>Joanna</ForeName>
+                    <LastName>Park</LastName>
+                    <ForeName>Je-Min</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University School of Medicine, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Byung-Dae</ForeName>
+                    <Initials>BD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University School of Medicine, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Young-Min</ForeName>
+                    <Initials>YM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University School of Medicine, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeong</LastName>
+                    <ForeName>Hee-Jeong</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Tae-Uk</ForeName>
+                    <Initials>TU</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jeonghyun</ForeName>
                     <Initials>J</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Suski</LastName>
-                    <ForeName>Maciej</ForeName>
-                    <Initials>M</Initials>
+                    <LastName>Choi</LastName>
+                    <ForeName>Yoonmi</ForeName>
+                    <Initials>Y</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Chair of Pharmacology, Jagiellonian University Medical College, Kraków, Poland.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Chamera</LastName>
-                    <ForeName>Katarzyna</ForeName>
-                    <Initials>K</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Kotarska</LastName>
-                    <ForeName>Katarzyna</ForeName>
-                    <Initials>K</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Olszanecki</LastName>
-                    <ForeName>Rafał</ForeName>
-                    <Initials>R</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Chair of Pharmacology, Jagiellonian University Medical College, Kraków, Poland.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Basta-Kaim</LastName>
-                    <ForeName>Agnieszka</ForeName>
-                    <Initials>A</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Experimental Neuroendocrinology, Institute of Pharmacology, Polish Academy of Sciences, Kraków, Poland. Electronic address: basta@if-pan.krakow.pl.</Affiliation>
+                        <Affiliation>Department of Psychiatry, Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
                     </AffiliationInfo>
                 </Author>
             </AuthorList>
@@ -117,68 +119,60 @@
                 <PublicationType UI="D016428">Journal Article</PublicationType>
             </PublicationTypeList>
             <ArticleDate DateType="Electronic">
-                <Year>2017</Year>
-                <Month>11</Month>
-                <Day>26</Day>
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
             </ArticleDate>
         </Article>
         <MedlineJournalInfo>
-            <Country>Poland</Country>
-            <MedlineTA>Pharmacol Rep</MedlineTA>
-            <NlmUniqueID>101234999</NlmUniqueID>
-            <ISSNLinking>1734-1140</ISSNLinking>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
         </MedlineJournalInfo>
         <KeywordList Owner="NOTNLM">
-            <Keyword MajorTopicYN="N">Fluoxetine</Keyword>
-            <Keyword MajorTopicYN="N">Frontal cortex</Keyword>
-            <Keyword MajorTopicYN="N">Imipramine</Keyword>
-            <Keyword MajorTopicYN="N">Mitochondria</Keyword>
+            <Keyword MajorTopicYN="N">Bipolar disorder, Rapid cycling, Cyclicity, Residual symptom, Wavelet analysis</Keyword>
         </KeywordList>
     </MedlineCitation>
     <PubmedData>
         <History>
             <PubMedPubDate PubStatus="received">
                 <Year>2017</Year>
-                <Month>07</Month>
-                <Day>19</Day>
-            </PubMedPubDate>
-            <PubMedPubDate PubStatus="revised">
-                <Year>2017</Year>
-                <Month>11</Month>
-                <Day>15</Day>
+                <Month>05</Month>
+                <Day>26</Day>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="accepted">
                 <Year>2017</Year>
-                <Month>11</Month>
-                <Day>24</Day>
+                <Month>08</Month>
+                <Day>23</Day>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="entrez">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="pubmed">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="medline">
                 <Year>2018</Year>
                 <Month>2</Month>
-                <Day>25</Day>
+                <Day>28</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
         </History>
         <PublicationStatus>aheadofprint</PublicationStatus>
         <ArticleIdList>
-            <ArticleId IdType="pubmed">29477041</ArticleId>
-            <ArticleId IdType="pii">S1734-1140(17)30491-7</ArticleId>
-            <ArticleId IdType="doi">10.1016/j.pharep.2017.11.016</ArticleId>
+            <ArticleId IdType="pubmed">29486550</ArticleId>
+            <ArticleId IdType="pii">pi.2017.08.23</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.08.23</ArticleId>
         </ArticleIdList>
     </PubmedData>
 </PubmedArticle>

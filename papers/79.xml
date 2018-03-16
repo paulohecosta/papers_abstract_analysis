@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29525354</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical and psychopathological features associated with treatment-emergent mania in bipolar-II depressed outpatients exposed to antidepressants.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>131-138</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)32518-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.085</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Treatment-emergent affective switch (TEAS), including treatment-emergent mania (TEM), carry significant burden in the clinical management of bipolar depression, whereas the use of antidepressants raises both efficacy, safety and tolerability concerns. The present study assesses the prevalence and clinical correlates of TEM in selected sample of Bipolar Disorder (BD) Type-II (BD-II) acute depression outpatients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Post-hoc analysis of the clinical and psychopathological features associated with TEM among 91 BD-II depressed outpatients exposed to antidepressants.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Second-generation antipsychotics (SGA) (p = .005), lithium (≤ .001), cyclothymic/irritable/hyperthymic temperaments (p = ≤ .001; p = .001; p = .003, respectively), rapid-cycling (p = .005) and depressive mixed features (p = .003) differed between TEM<sup>+</sup>cases vs. TEM<sup>-</sup>controls. Upon multinomial logistic regression, the accounted psychopathological features correctly classified as much as 88.6% of TEM<sup>+</sup>cases (35/91 overall sample, or 38.46% of the sample), yet not statistically significantly [Exp(B) = .032; p = ns]. Specifically, lithium [B = - 2.385; p = .001], SGAs [B = - 2.354; p = .002] predicted lower rates of TEM<sup>+</sup>in contrast to the number of lifetime previous psychiatric hospitalizations [B = 2.380; p = .002], whereas mixed features did not [B = 1.267; p = ns].</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Post-hoc analysis. Lack of systematic pharmacological history record; chance of recall bias and Berkson's biases. Permissive operational criterion for TEM. Relatively small sample size.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cyclothymic temperament and mixed depression discriminated TEM<sup>+</sup>between TEM<sup>-</sup>cases, although only lithium and the SGAs reliably predicted TEM<sup>+/-</sup>grouping. Larger-sampled/powered longitudinal replication studies are warranted to allow firm conclusions on the matter, ideally contributing to the identification of clear-cut sub-phenotypes of BD towards patient-tailored-pharmacotherapy.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fornaro</LastName>
+                    <ForeName>Michele</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>New York State Psychiatric Institute, Columbia University, NYC, NY, USA; Federico II University, Section of Psychiatry, Department of Neuroscience, Reproductive Sciences and Odontostomatology, Naples, Italy. Electronic address: dott.fornaro@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anastasia</LastName>
+                    <ForeName>Annalisa</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federico II University, Section of Psychiatry, Department of Neuroscience, Reproductive Sciences and Odontostomatology, Naples, Italy. Electronic address: annalisa.anastasia@yahoo.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monaco</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Surgery and Dentistry 'Scuola Medica Salernitana', Section of Neuroscience, University of Salerno, Salerno, Italy. Electronic address: fmonaco1980@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Novello</LastName>
+                    <ForeName>Stefano</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federico II University, Section of Psychiatry, Department of Neuroscience, Reproductive Sciences and Odontostomatology, Naples, Italy. Electronic address: stefano.novello1@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fusco</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federico II University, Section of Psychiatry, Department of Neuroscience, Reproductive Sciences and Odontostomatology, Naples, Italy. Electronic address: andreafusco1990@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iasevoli</LastName>
+                    <ForeName>Felice</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federico II University, Section of Psychiatry, Department of Neuroscience, Reproductive Sciences and Odontostomatology, Naples, Italy. Electronic address: felix_ias@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Berardis</LastName>
+                    <ForeName>Domenico</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Health Service, Department of Mental Health, Psychiatric Service of Diagnosis and Treatment, Hospital &quot;G. Mazzini&quot;, ASL 4, 64100 Teramo, Italy. Electronic address: dodebera@aliceposta.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veronese</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Research Council, Ageing Branch, Padua, Italy. Electronic address: ilmannato@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solmi</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Azienda Ospedaliera di Padova, Padua Hospital, Psychiatry Unit, Padua, Italy. Electronic address: marco.solmi83@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Bartolomeis</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federico II University, Section of Psychiatry, Department of Neuroscience, Reproductive Sciences and Odontostomatology, Naples, Italy. Electronic address: adebarto@unina.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antidepressant</Keyword>
+            <Keyword MajorTopicYN="N">Bipolar Disorder (BD)</Keyword>
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Treatment-emergent-mania</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29525354</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)32518-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.085</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

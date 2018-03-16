@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29525352</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>234</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mortality risk associated with psychological distress and major depression: A population-based cohort study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>117-123</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(17)31198-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2018.02.075</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Few studies have examined the impact of psychological distress on mortality. We aimed to estimate mortality rates of psychological distress and major depressive disorder (MDD) compared to a referent group with no MDD or psychological distress.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Our study population (N = 10 181) consisted of respondents from the Canadian Community Health Survey Cycle 1.2 linked to Ontario health administrative databases followed for up to 11 years. We used Cox proportional hazards models to assess overall, sex-specific, as well as short-term (within two years of follow-up) and long-term (follow-up ≥ two years) mortality among those with DSM-criteria MDD and psychological distress independent of MDD adjusted for socio-demographic, lifestyle and clinical factors.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Individuals with psychological distress (n = 666) had a similar mortality rate as those with MDD (n = 428) and significantly greater adjusted hazards of death than the referent group (hazard ratio = 1.57, 95% CI = 1.14-2.15). The risk of death was greatest in the short-term among those with MDD, however, we observed a persistent 1.6-fold increased risk in both the short- and long-term among those with psychological distress compared to the referent. Women with MDD had the greatest mortality rate and died a median of 15 years earlier than women in the referent group.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Psychological distress and MDD were ascertained at baseline with small number of deaths in the early follow-up period. Survey variables were prone to self-report bias with a possibility of residual confounding.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Focused longitudinal research and targeted management strategies for those with psychological distress and women with MDD are warranted.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chiu</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Clinical Evaluative Sciences, Toronto, Canada; Faculty of Medicine and Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, Canada. Electronic address: maria.chiu@ices.on.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vigod</LastName>
+                    <ForeName>Simone</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Clinical Evaluative Sciences, Toronto, Canada; Faculty of Medicine and Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, Canada; Women's College Hospital and Women's College Research Institute, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahman</LastName>
+                    <ForeName>Farah</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Clinical Evaluative Sciences, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilton</LastName>
+                    <ForeName>Andrew S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Clinical Evaluative Sciences, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lebenbaum</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Clinical Evaluative Sciences, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurdyak</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Clinical Evaluative Sciences, Toronto, Canada; Faculty of Medicine and Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, Canada; Centre for Addiction and Mental Health, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Mortality</Keyword>
+            <Keyword MajorTopicYN="N">Psychological distress</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29525352</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(17)31198-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2018.02.075</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

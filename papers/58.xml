@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29316007</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ambivalence resolution in brief psychotherapy for depression.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2169</ELocationID>
+            <Abstract>
+                <AbstractText>Ambivalence in the process of psychotherapeutic change should be addressed and resolved if we are to avoid psychotherapeutic failure and promote sustained change. In this context, ambivalence can be defined as the cyclical conflictual relation between two opposed positions of the self: one expressed as an innovation, and a subsequent one expressed in a trivialization or rejection of the innovation (problematic position). This conflict may be resolved in two different ways: (a) the dominance of the innovative position and the consequent inhibition of the problematic one and (b) the negotiation between the innovative and the problematic positions. In this study, we sought to study the evolution of the dominance and the negotiation processes in recovered and unchanged cases; to analyse if different therapeutic models produce different results on the evolution of the dominance and negotiation processes, and finally, to study if these processes are predictive of ambivalence resolution. The complete sessions of 22 clinical cases of depression (6 cognitive-behavioural therapy, 10 narrative therapy, and 6 emotion-focused therapy cases) were independently coded for innovative moments, ambivalence, and ambivalence resolution. Results revealed that recovered cases had a progressively higher proportion of negotiation along treatment, whereas in unchanged cases, negotiation was virtually absent throughout treatment. Both dominance and negotiation were significant predictors of ambivalence reduction, however, negotiation had a higher impact than dominance. Overall, these results did not significantly differ for the 3 therapeutic models. The theoretical implications of these findings are discussed, and theoretical derived suggestions for clinicians are presented.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Braga</LastName>
+                    <ForeName>Cátia</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4916-452X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, University of Minho, Braga, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ribeiro</LastName>
+                    <ForeName>António P</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, University of Minho, Braga, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gonçalves</LastName>
+                    <ForeName>Miguel M</ForeName>
+                    <Initials>MM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2575-7221</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, University of Minho, Braga, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oliveira</LastName>
+                    <ForeName>João Tiago</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, University of Minho, Braga, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Botelho</LastName>
+                    <ForeName>Alexandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, University of Minho, Braga, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferreira</LastName>
+                    <ForeName>Helena</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, University of Minho, Braga, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sousa</LastName>
+                    <ForeName>Inês</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mathematics and Applications, University of Minho, Braga, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ambivalence</Keyword>
+            <Keyword MajorTopicYN="N">ambivalence resolution</Keyword>
+            <Keyword MajorTopicYN="N">ambivalence resolution coding system</Keyword>
+            <Keyword MajorTopicYN="N">innovative moments</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29316007</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2169</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

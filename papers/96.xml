@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29505785</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>135</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropharmacology</Title>
+                <ISOAbbreviation>Neuropharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Striatal GluN2B involved in motor skill learning and stimulus-response learning.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>73-85</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3908(18)30103-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropharm.2018.03.002</ELocationID>
+            <Abstract>
+                <AbstractText>Although the striatum has a well-documented role in procedural learning and memory, the underlying mechanisms remain poorly understood. GluN2B subunit is abundantly expressed in striatum, however, the function of striatal GluN2B subunit in striatum-related learning is also unclear. In the present study, using transgenic mice with forebrain-specific overexpression of the GluN2B subunit, we observed that up-regulation of GluN2B subunit expression results in enhanced dorsal striatum-related motor skill learning and stimulus-response (S-R) learning as well as cortico-dorsomedial striatal (cortico-DMS) long-term potentiation (LTP). Consistent with the above results, we also found that GluN2B transgenic mice exhibited a remarkable increase in N-methyl-d-aspartic acid receptor (NMDAR) mediated currents in the dorsomedial striatum. In addition, in order to further verify that striatal GluN2B is involved in the dorsal striatum-related cognitive function, lentivirus-mediated short hairpin RNA (shRNA) was used to silence the expression of GluN2B gene in the dorsomedial striatum. As a consequence of down-regulation of dorsomedial striatal GluN2B subunit expression, defective motor skill learning and S-R learning were observed in the GluN2B-shRNA mice. Furthermore, the impaired cortico-DMS LTP, as well as decreased NMDAR mediated currents in the dorsomedial striatum were also detected. Taken together, our findings demonstrate for the first time that striatal GluN2B subunit plays an important role in the dorsal striatum-related motor skill learning and S-R learning and provide further evidence that the cortico-DMS LTP underlies dorsal striatum-related motor skill learning and S-R learning.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Duan</LastName>
+                    <ForeName>Yanhong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Qi</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Qingwen</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jiayue</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Zhenzhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Meichen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duan</LastName>
+                    <ForeName>Yale</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Zheng</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xue</LastName>
+                    <ForeName>Qingsheng</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China. Electronic address: xqs11260@rjh.com.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Xiaohua</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Brain Functional Genomics, Ministry of Education, Shanghai Key Laboratory of Brain Functional Genomics, School of Life Sciences, East China Normal University, Shanghai, China. Electronic address: xhcao@brain.ecnu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropharmacology</MedlineTA>
+            <NlmUniqueID>0236217</NlmUniqueID>
+            <ISSNLinking>0028-3908</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dorsal striatum</Keyword>
+            <Keyword MajorTopicYN="N">GluN2B</Keyword>
+            <Keyword MajorTopicYN="N">LTP</Keyword>
+            <Keyword MajorTopicYN="N">Motor skill learning</Keyword>
+            <Keyword MajorTopicYN="N">NMDAR</Keyword>
+            <Keyword MajorTopicYN="N">S-R learning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29505785</ArticleId>
+            <ArticleId IdType="pii">S0028-3908(18)30103-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropharm.2018.03.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

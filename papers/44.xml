@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29475238</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Temperament in Adulthood Attention Deficit-Hyperactivity Disorder without Bipolar Disorder.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.06.07</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">We examined whether some temperamental traits would be associated with persistence of attention deficit-hyperacitivty disorder (ADHD) in adulthood independent from bipolar disorder (BD).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Eighty-one ADHD patients without a comorbid diagnosis of BD were divided into two groups, those with childhood ADHD (n=46), and those with Adulthood ADHD (n=35). The severity of childhood and adulthood ADHD were assessed by using the Wender Utah Rating Scale (WURS-25) and Turgay's Adult ADD/ADHD Diagnosis and Evaluation Scale (DES). Subjects' temperamental characteristics were examined using the Temperament Evaluation of Memphis, Pisa, Paris and San Diego-auto questionnaire (TEMPS-A).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The mean scores of WURS-25 were higher in adult ADHD group than in childhood ADHD group (p&lt;0.001). Adult ADHD group had significantly higher scores on cyclothymic (p=0.002), irritable (p&lt;0.0001), and anxious (p=0.042) subscales of TEMPS-A. The scores of WURS-25 in adulthood ADHD group were positively correlated with cyclothymia scores (r=0.366, p=0.033). Total scores of Turgay's Adult ADD/ADHD DES were positively correlated with cyclothymic (r=0.354, p=0.040), hyperthymic (r=0.380, p=0.026), and irritable (r=0.380, p=0.026) subscale scores. Cychlothymic and irritable temperaments were significantly associated with the severity of adulthood symptoms of ADHD.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">We might suggest that cyclothymic and irritable temperaments would predict the diagnosis of adulthood ADHD independent from BD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ozdemiroglu</LastName>
+                    <ForeName>Filiz</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Adnan Menderes University, Aydın, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karakus</LastName>
+                    <ForeName>Kadir</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Adnan Menderes University, Aydın, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Memis</LastName>
+                    <ForeName>Cagdas Oyku</ForeName>
+                    <Initials>CO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Adnan Menderes University, Aydın, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sevincok</LastName>
+                    <ForeName>Levent</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Adnan Menderes University, Aydın, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mersin</LastName>
+                    <ForeName>Sanem</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Karşıyaka State Hospital, Psychiatry Department, Izmir, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ADHD</Keyword>
+            <Keyword MajorTopicYN="N">Adulthood</Keyword>
+            <Keyword MajorTopicYN="N">Childhood</Keyword>
+            <Keyword MajorTopicYN="N">Temperament</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29475238</ArticleId>
+            <ArticleId IdType="pii">pi.2017.06.07</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.06.07</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

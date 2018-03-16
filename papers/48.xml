@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29486551</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-3684</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychiatry investigation</Title>
+                <ISOAbbreviation>Psychiatry Investig</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Comparative Study of Suicide Rates among 10-19-Year-Olds in 29 OECD Countries.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.30773/pi.2017.08.02</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">This study had two main objectives: to compare current suicide rates in OECD countries among 10-19-year-olds and to identify patterns of suicide rates based on age, gender and time. Furthermore we investigated the main dimensions that contributed to the variation in child and adolescent suicide rates across countries.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We combined the WHO mortality data and the population data released by OECD to calculate the suicide rates in 29 OECD countries. A self-organizing map (SOM), k-means clustering analysis, and multi-dimensional scaling were used to classify countries based on similarities in suicide rate structure and to identify the important dimensions accounting for differences among groups.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">We identified significant differences in suicide rates depending on age, sex, country, and time period. Late adolescence and male gender were universal risk factors for suicide, and we observed a general trend of declining suicide rates in OECD countries. The SOM analysis yielded eight types of countries. Most countries showed gender gaps in suicide rates of similar magnitudes; however, there were outliers in which the gender gap was particularly large or small.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Significant variation exists with respect to suicide rates and their associated gender gaps in OECD countries.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roh</LastName>
+                    <ForeName>Beop-Rae</ForeName>
+                    <Initials>BR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hallym University Suicide and School Mental Health Institute, Anyang, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Eun Hee</ForeName>
+                    <Initials>EH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mental Health and Communal Society Research Center, Kwangwoon University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Hyun Ju</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hallym University Suicide and School Mental Health Institute, Anyang, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Hallym University Sacred Heart Hospital, Anyang, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Psychiatry Investig</MedlineTA>
+            <NlmUniqueID>101242994</NlmUniqueID>
+            <ISSNLinking>1738-3684</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Suicide, Child, Adolescent, OECD, Comparative study</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29486551</ArticleId>
+            <ArticleId IdType="pii">pi.2017.08.02</ArticleId>
+            <ArticleId IdType="doi">10.30773/pi.2017.08.02</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

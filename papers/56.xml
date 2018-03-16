@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29314412</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0879</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical psychology &amp; psychotherapy</Title>
+                <ISOAbbreviation>Clin Psychol Psychother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Coping, thought suppression, and perceived stress in currently depressed, previously depressed, and never depressed individuals.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cpp.2173</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Previous research shows that depression is associated with an increase in stressful life events and perceived stress as well as dysfunctional ways of coping with stress. However, knowledge about coping in previously depressed individuals is scant.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This study compared perceived stress, coping, and thought suppression in a sample of 30 currently depressed, 63 previously depressed, and 42 never depressed individuals.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Analysis of variance revealed that previously depressed individuals showed less wishful thinking and thought suppression than the currently depressed individuals, but scored significantly higher on these strategies than the never depressed individuals. However, the group differences became nonsignificant when controlling for perceived stress and intrusions.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study shows that both current depression and previous depression is related to avoidant coping (wishful thinking and thought suppression). However, these associations might be explained by the higher level of perceived stress among individuals with current or previous depression.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thimm</LastName>
+                    <ForeName>Jens C</ForeName>
+                    <Initials>JC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0765-933X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Faculty of Health Sciences, UiT The Arctic University of Norway, TromsD, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Catharina E A</ForeName>
+                    <Initials>CEA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Faculty of Health Sciences, UiT The Arctic University of Norway, TromsD, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waterloo</LastName>
+                    <ForeName>Knut</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Faculty of Health Sciences, UiT The Arctic University of Norway, TromsD, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eisemann</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Faculty of Health Sciences, UiT The Arctic University of Norway, TromsD, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Halvorsen</LastName>
+                    <ForeName>Marianne</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Rehabilitation, University Hospital of North Norway, TromsD, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Psychol Psychother</MedlineTA>
+            <NlmUniqueID>9416196</NlmUniqueID>
+            <ISSNLinking>1063-3995</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">coping</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">stress</Keyword>
+            <Keyword MajorTopicYN="N">thought suppression</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29314412</ArticleId>
+            <ArticleId IdType="doi">10.1002/cpp.2173</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
