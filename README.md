@@ -12,17 +12,18 @@ Para maiores informações sobre este projeto consultar os arquivos em pdf neste
 
 * report
 
-### Install
+### Instalação
 
-This project requires **Python 3.~** and the following Python libraries installed:
+Este projeto foi elaborado no PyCharm com **Python 3.~** e usa as seguintes bibliotecas:
 
 - [NumPy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [nltk](http://www.nltk.org/)
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
+Para abrir o arquivo notebook execute a seguinte linha no diretório principal do projeto:
 
 jupyter notebook papers_abstract_analysis.ipynb
 
